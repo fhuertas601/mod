@@ -33,8 +33,9 @@ def print_help():
 # as <filename>.txt
 # pred: database with descriptor matrix for prediction 
 # predict: vector with predictions
-def print_csv(d,pred,predict):
-	with open(d+"_prediction.txt","w+") as f: 
+# path: file 'f' is saved in path (where model for prediction is located)
+def print_csv(d,pred,predict,path):
+	with open(path+'/'+d+"_prediction.txt","w+") as f: 
 		write = csv.writer(f) 
 		for i, row in pred.iterrows():
 			r=pred.loc[i,'ID'],pred.loc[i,'SMILES'],pred.loc[i,'Compound name'],int(predict[i])

@@ -164,8 +164,8 @@ def predict(arg,path,inp,csv_file):
 #
 # FUNCTION: prints prediction
 # Explanation and function in inout.py file
-		io.print_csv(csv_file,pred,predict)
-		print('\n-> .csv file with predicted data saved as: ',csv_file,'.txt',sep='')
+		io.print_csv(csv_file,pred,predict,path)
+		print('\n-> .csv file with predicted data saved in: ',path+'/'+csv_file,'.txt',sep='')
 	else:
 		print('\n*Note that if you give the .csv address with option -d')
 		print('the output will be more complete')
