@@ -1,0 +1,51 @@
+ID,Compound name,SMILES,CAS
+51,ascaridole,CC(C)[C@@]12CC[C@@](C)(OO1)C=C2,1354425-86-7
+52,beta-ocimene,C(=C\C\C=C(\C)C)(\C=C)C,13877-91-3
+53,alpha-terpinolene,CC1=CCC(=C(C)C)CC1,586-62-9
+54,cis-pinocarveol,CC1([C@@H]2C[C@H]1C(=C)[C@@H](C2)O)C,6712-79-4
+55,cis-piperitol,O[C@H]1C=C(CC[C@H]1C(C)C)C,16721-38-3
+56,trans-piperitol,O[C@H]1C=C(CC[C@@H]1C(C)C)C,16721-39-4
+57,cis-beta-ocimene,C(=C/C\C=C(\C)C)(\C=C)C,3338-55-4
+58,4-terpineol,CC1=CCC(CC1)(C(C)C)O,562-74-3
+59,beta-terpineol,COc1cc(cc(c1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)/C=C/CO,118-34-3
+60,cis-limonene oxide,CC(=C)[C@@H]1CC[C@@]2([C@H](C1)O2)C,4680-24-4
+61,pinocarveol,C12C(=C)C(CC(C1(C)C)C2)O,5947-36-4
+62,hotrienol,CC(=C)/C=C/C[C@](C)(C=C)O,20053-88-7
+63,trans-limonene oxide,CC(=C)[C@H]1CC[C@@]2([C@H](C1)O2)C,42477-94-1
+64,(-)-alpha-pinene,CC1=CCC2CC1C2(C)C,7785-26-4
+65,trans-beta-terpineol,CC(=C)[C@H]1CC[C@](CC1)(O)C,7299-41-4
+66,(-)-beta-pinene,CC1(C2CCC(=C)C1C2)C,18172-67-3
+67,(+)-alpha-pinene,CC1=CCC2CC1C2(C)C,7785-70-8
+68,2-carene,CC1=C[C@@H]2[C@H](CC1)C2(C)C,65878-59-3
+69,cis-beta-terpineol,CC(=C)[C@H]1CC[C@@](CC1)(O)C,7299-40-3
+70,sabinene hydrate,CC(C)C12CCC(C1C2)(C)O,546-79-2
+71,(+)-limonene,C([C@@H]1CCC(C)=CC1)(C)=C,5989-27-5
+72,piperitol,C1[C@@H]([C@@H](C=C(C)C1)O)C(C)C,491-04-3
+73,carveol,CC1=CCC(CC1O)C(=C)C,99-48-9
+74,(-)-limonene,CC1=CCC(CC1)C(=C)C,5989-54-8
+75,fenchol,C1[C@@]2([C@@H](C(C)(C)[C@@H]1CC2)O)C,1632-73-1
+76,(+)-linalool,CC(=CCCC(C)(C=C)O)C,126-90-9
+77,alpha-ocimene,C(CC\C=C(\C=C)C)(=C)C,502-99-8
+78,diosphenol,C1(C(=C(C)CC[C@@H]1C(C)C)O)=O,490-03-9
+79,sabinol,CC(C)[C@]12C[C@@H](O)C(=C)[C@H]1C2,471-16-9
+80,limonene oxide,O1[C@@]2(CC[C@@H](C(=C)C)C[C@@H]12)C,1195-92-2
+81,(e)-beta-terpineol,CC(=C)C1CCC(CC1)(C)O,138-87-4
+82,perillic acid,C1(C(O)=O)=CC[C@@H](C(=C)C)CC1,7694-45-3
+83,(+)-alpha-thujene,CC1=CCC2(C1C2)C(C)C,
+84,(-)-linalool,CC(=CCCC(C)(C=C)O)C,126-91-0
+85,(-)-alpha-thujene,CC1=CCC2([C@H]1C2)C(C)C,3917-48-4
+86,(z)-alpha-ocimene,CC(=C)CCC=C(C)C=C,6874-44-8
+87,gamma-terpinyl acetate,O=C(OC1(CC\C(=C(/C)C)CC1)C)C,10235-63-9
+88,cuminaldehyde,CC(C)c1ccc(cc1)C=O,122-03-2
+89,(+)-beta-pinene,CC1(C2CCC(=C)C1C2)C,19902-08-0
+90,alpha-cadinene,CC(C)[C@@H]1CC=C(C)[C@@H]2CCC(=C[C@@H]12)C,24406-05-1
+91,alpha-cadinol,C1C[C@@](C)(O)[C@@H]2CCC(=C[C@@H]2[C@@H]1C(C)C)C,481-34-5
+92,germacrene d,CC(C)[C@@H]1CC\C(=C\CCC(=C)\C=C\1)\C,23986-74-5
+93,caryophyllene oxide,C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2,1139-30-6
+94,bicyclogermacrene,C=1([C@@H]2[C@@H](CC(=CC2)C)CC(CC1)(C)C)C,24703-35-3
+95,alpha-humulene,CC1=CCC(C=CCC(=CCC1)C)(C)C,6753-98-6
+96,beta-elemene,CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(=C)C,515-13-9
+97,beta-bisabolene,CC(=CCCC(=C)[C@H]1CCC(=CC1)C)C,495-61-4
+98,alpha-copaene,CC1=CC[C@@H]2[C@@H]3[C@H]1[C@]2(CC[C@@H]3C(C)C)C,15493-66-0
+99,beta-cubebene,C1([C@@H]2[C@@]3(CC1)[C@@H](CC[C@H]([C@@H]23)C(C)C)C)=C,13744-15-5
+100,beta-selinene,C1[C@H]2[C@@](CC[C@@H]1C(C)=C)(CCCC2=C)C,17066-67-0

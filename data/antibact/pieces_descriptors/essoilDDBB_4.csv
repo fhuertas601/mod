@@ -1,0 +1,38 @@
+ID,Compound name,SMILES,CAS
+151,amorpha-4;11-diene,C[C@@H]1CC[C@H]([C@@H]2[C@H]1CCC(=C2)C)C(=C)C,92692-39-2
+152,copaene,CC(C)[C@@H]1CC[C@@]2(C)[C@H]3CC=C(C)C2[C@@H]13,3856-25-5
+153,aristolochene,C1[C@H]([C@@]2(C[C@@H](CC=C2CC1)C(=C)C)C)C,26620-71-3
+154,cis-gamma-bisabolene,CC1=CC/C(=C(/C)\CCC=C(C)C)/CC1,13062-00-5
+155,epi-cedrol,CC1CCC2C13CCC(C(C3)C2(C)C)(C)O,
+156,valerenic acid,C(\C(=C\[C@H]1C2=C(CC[C@@H]2[C@@H](CC1)C)C)C)(=O)O,
+157,cyperene,C[C@@H]1CC[C@@H]2CC3=C(C)CC[C@]13C2(C)C,2387-78-2
+158,farnesene (unknown isomer),CC(=CCCC(=CCC=C(C)C=C)C)C,
+159,guaiazulene,c12c(c(ccc(c1)C(C)C)C)ccc2C,489-84-9
+160,germacrene A,C/C/1=C\CC/C(=C/C[C@@H](CC1)C(=C)C)/C,
+161,germacrene B,C/C/1=C\CC/C(=C/CC(=C(C)C)CC1)/C,
+162,germacrene C,C/C/1=C\CC/C(=C/C=C(\CC1)/C(C)C)/C,
+163,germacrene E,CC\1CC/C=C(/CCC(/C=C1)C(=C)C)\C,
+164,germacrene,C/C/1=C\CC/C(=C/C[C@H](CC1)C(C)C)/C,
+165,sibirene,CC(C)C1=CC2C(=C)CCCC2(CC1)C,
+166,alpha-aromadendrene,CC1CCC2C1C3C(C3(C)C)CCC2=C,
+167,alpha-santonin,C[C@H]1[C@@H]2CC[C@@]3(C)C=CC(=O)C(=C3[C@H]2OC1=O)C,481-06-1
+168,beta-elemenone,CC(=C1CC(C(CC1=O)(C)C=C)C(=C)C)C,
+169,trans-alpha-bisabolene,CC1=CCC(CC1)C(=CCC=C(C)C)C,
+170,beta-sesquiphellandrene,CC(CCC=C(C)C)C1CCC(=C)C=C1,
+171,spathulenol,C1([C@@H]2CCC([C@@H]3CC[C@]([C@@H]3[C@H]12)(C)O)=C)(C)C,6750-60-3
+172,viridiflorol,C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@@H](CC[C@]2(C)O)C3(C)C,552-02-3
+173,(e)-nerolidol,C([C@@](O)(CC\C=C(\CC\C=C(/C)C)C)C)=C,40716-66-3
+174,alpha-cadinol,CC1=C[C@H]2[C@@H](CC[C@@]([C@@H]2CC1)(C)O)C(C),
+175,globulol,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@@]2(C)O,489-41-8
+176,gamma-eudesmol,CC1=C2C[C@@H](CC[C@]2(CCC1)C)C(C)(C)O,1209-71-8
+177,germacrene d-4-ol,CC1=CCCC(C=CC(CC1)C(C)C)(C)O,
+178,ledol,C[C@H]1CC[C@@H]2[C@H]1[C@@H]3[C@H](CC[C@]2(C)O)C3(C)C,577-27-5
+179,1-epi-cubenol,CC1CCC(C2C1(CCC(=C2)C)O)C(C)C,
+180,nerolidol,CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C,7212-44-4
+181,(z)-nerolidol,CC(=CCC\C(=C/CC[C@](C)(O)C=C)\C)C,142-50-7
+182,t-cadinol,C1[C@@]([C@@H]2CCC(=C[C@H]2[C@@H](C1)C(C)C)C)(O)C,
+183,t-muurolol,CC1=C[C@H]2[C@@H](CC[C@]([C@H]2CC1)(C)O)C(C)C,19912-62-0
+184,10-epi-alpha-cadinol,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C,
+185,trans-nerolidol,C([C@@](O)(CC\C=C(\CC\C=C(/C)C)C)C)=C,40716-66-3
+186,cis-nerolidol,CC(=CCC\C(=C/CC[C@](C)(O)C=C)\C)C,142-50-7
+187,beta-amyrin,C1=2[C@@]([C@@]3([C@@H]([C@@]4(CC[C@@H](C([C@@H]4CC3)(C)C)O)C)CC2)C)(CC[C@@]2(CCC(C[C@@H]12)(C)C)C)C,559-70-6

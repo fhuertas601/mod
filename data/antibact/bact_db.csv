@@ -1,0 +1,107 @@
+ID,Compound name,SMILES,CAS,Activity
+1,(E)-Anethole,C/C=C/c1ccc(cc1)OC,4180-23-8,1
+2,syn-7-hydroxy-7-anisylnorbornene,COC1=CC=C(C=C1)C2(C3CCC2C=C3)O,,1
+3,borneol,CC1(C)[C@@H]2CC[C@@]1(C)[C@@H](O)C2,507-70-0,1
+4,camphor,CC1(C)[C@@H]2CC[C@@]1(C)C(=O)C2,76-22-2,1
+5,carvacrol,CC(C)c1ccc(C)c(O)c1,499-75-2,1
+6,p-cymene,c1(C(C)C)ccc(C)cc1,99-87-6,1
+7,eucalyptol,C[C@@]12CC[C@@H](CC1)C(C)(C)O2,470-82-6,1
+8,geijerene,CC(=C)C1C=CCCC1(C)C=C,6902-73-4,1
+9,limonene,C([C@@H]1CCC(C)=CC1)(C)=C,138-86-3,1
+10,linalool,C([C@@](C=C)(C)O)C\C=C(\C)C,78-70-6,1
+11,menthone,C1([C@@H](CC[C@@H](C1)C)C(C)C)=O,89-80-5,1
+12,nerolidol,CC(=CCC\C(=C/CC[C@](C)(O)C=C)\C)C,142-50-7,1
+13,alpha-pinene,CC1=CC[C@H]2C[C@@H]1C2(C)C,80-56-8,1
+14,beta-pinene,CC1(C)[C@H]2CCC(=C)[C@@H]1C2,127-91-3,1
+15,piperitone,C1([C@@H](CCC(=C1)C)C(C)C)=O,89-81-6,1
+16,pregeijerene,CC1=CCCC(=CC=CCC1)C,20082-17-1,1
+17,pulegone,C[C@@H]1CCC(=C(C)C)C(=O)C1,89-82-7,1
+18,gamma-terpinene,C=1(C(C)C)CC=C(C)CC1,99-85-4,1
+19,terpinen-4-ol,CC1=CCC(CC1)(C(C)C)O,562-74-3,1
+20,alpha-terpineol,CC1=CC[C@H](CC1)C(C)(C)O,10482-56-1,1
+21,thymol,c1(c(cc(C)cc1)O)C(C)C,89-83-8,1
+22,thymol methyl ether,CC1=CC(=C(C=C1)C(C)C)OC,1076-56-8,1
+23,thujene,CC(C)[C@@]12C[C@@H]1[C@@H](C)C=C2,28634-89-1,0
+24,camphene,C1([C@@H]2C[C@@H](CC2)C1(C)C)=C,"5794-04-7",0
+25,sabinene,CC(C)[C@@]12CCC(=C)[C@@H]1C2,10408-16-9,0
+26,alpha-myrcene,CC(=C)CCCC(=C)C=C,1686-30-2,0
+27,delta-3 carene,CC1=CC[C@H]2[C@@H](C1)C2(C)C,13466-78-9,0
+28,alpha-terpinene,C=1(C(C)C)CCC(C)=CC1,99-86-5,0
+29,beta-phellandrene,C([C@@H]1CCC(=C)C=C1)(C)C,555-10-2,0
+30,cis-sabinene hydrate,C[C@@H]1CC[C@@]2(C1C2)C(C)C,,0
+31,thujone,C[C@@H]1[C@H]2C[C@]2(CC1=O)C(C)C,546-80-5,0
+32,cis-menth-2-en-1-ol,CC(C)[C@@H]1CC[C@](C=C1)(C)O,,0
+33,chrysanthenone,CC1=CC[C@H]2C(=O)[C@@H]1C2(C)C,473-06-3,0
+34,trans-pinocarveol,CC1(C)[C@H]2C[C@H](O)C(=C)[C@@H]1C2,1674-08-4,0
+35,trans-menth-2-en-1-ol,CC(C)[C@@H]1CC[C@@](C=C1)(C)O,29803-81-4,0
+36,umbellulone,CC1=CC(=O)C2(C1C2)C(C)C,24545-81-1,0
+37,methyl cavicol,c1(ccc(OC)cc1)CC=C,140-67-0,0
+38,cis-dihydrocarveol,CC1CC[C@H](C[C@H]1O)C(=C)C,,0
+39,gamma-terpineol,OC1(CCC(\CC1)=C(\C)C)C,586-81-2,0
+40,bornyl formate,C[C@@]12CC[C@@H](C1(C)C)C[C@@H]2OC=O,7492-41-3,0
+41,piperitone epoxide,CC(C)[C@H]1CC[C@@]2(C)O[C@H]2C1=O,4713-37-5,0
+42,p-cymen-7-ol,c1(ccc(CO)cc1)C(C)C,536-60-7,0
+43,iso-ascaridole,CC(C)[C@]12CC[C@@]3([C@H]([C@H]1O2)O3)C,,0
+44,alpha-cubebene,CC(C)[C@@H]1CC[C@@H](C)[C@@]23CC=C(C)[C@@H]2[C@@H]13,17699-14-8,0
+45,caryophyllene,C\C\1=C\CCC(=C)[C@H]2CC(C)(C)[C@@H]2CC1,87-44-5,1
+46,alpha-bergamotene,C(\C)(=C\CC[C@@]1([C@@H]2C(=CC[C@@H]1C2)C)C)C,17699-05-7,0
+47,cis muurola-4(14)5 diene,C[C@@H]1CC[C@@H](C2=CC(=C)CC[C@@H]12)C(C)C,,0
+48,zingiberene,C1=C[C@H](CC=C1C)[C@@H](C)CC\C=C(/C)C,495-60-3,0
+49,gamma-cadinene,C=1[C@@H]2[C@@H](C(CC[C@@H]2C(C)C)=C)CCC1C,1460-97-5,0
+50,spathulenol,C[C@]1(CC[C@H]2[C@H]1[C@@H]3[C@@H](C3(C)C)CCC2=C)O,77171-55-2,0
+51,cadinol epi-alpha,CC1=C[C@@H]2[C@@H](CC[C@@]([C@H]2CC1)(C)O)C(C)C,,0
+52,apiole,c12c(c(cc(c1OC)CC=C)OC)OCO2,523-80-8,0
+53,cedrenol acetate,C[C@@H]1CCC2[C@@]13C[C@H](C2(C)C)C(=C)C(C3)OC(=O)C,,0
+54,(E)-B-Santalol acetate,C/C(=C\CC[C@@]1([C@@H]2CC[C@@H](C2)C1=C)C)/COC(=O)C,,0
+55,Caffeine,c12c(n(c(=O)n(c1=O)C)C)ncn2C,58-08-2,1
+56,Ricinine,c1(c(ccn(c1=O)C)OC)C#N,524-40-3,1
+57,Glucosinalbin,CC1C(C(C(C(O1)OC2=CC=C(C=C2)C/C(=N\OS(=O)(=O)O)/SC3C(C(C(C(O3)CO)O)O)O)O)O)OC(=O)C,,1
+58,Extract of Echinacea purpurea,CC1=CCCC2(C(O2)C(C(C(C1)OC(=O)C=CC3=CC=CC=C3)C(C)C)O)C,,1
+59,Lactulose,C(C1C(C(C(C(O1)OC2C(OC(C2O)(CO)O)CO)O)O)O)O,,1
+60,AE clavo,COC(=O)C(CC1=CN=CN1)N.Cl,,1
+61,Eugenol,COC1=C(C=CC(=C1)CC=C)O,,1
+62,Allicin,C=CCSS(=O)CC=C,,1
+63,cinnamaldehyde,C1=CC=C(C=C1)C=CC=O,,1
+64,Carvona cetona,CC1=CCC(CC1=O)C(C)C,,1
+65,Capric acid,C(CCCCCC)CCC(=O)O,,1
+66,Caprylic acid,C(CCCCC)CC(O)=O,,1
+67,Mannan oligosaccharide,C(C1C(C(C(C(O1)OC2C(OC(C(C2O)O)OC3C(OC(C(C3O)O)OC4C(OC(C(C4O)O)O)CO)CO)CO)O)O)O)O,,1
+68,Beta-glucan,C1C(C(OC(C1O)OC2C(C(OC(C2O)OC3C(COC(C3O)CO)O)CO)O)CO)O,,1
+69,Zinc sulphate,[O-]S(=O)(=O)[O-].[Zn+2],,1
+70,Isoquinoline,C1=CC=C2C=NC=CC2=C1,,1
+71,Rutin,CC1C(C(C(C(O1)OCC2C(C(C(C(O2)OC3=C(OC4=CC(=CC(=C4C3=O)O)O)C5=CC(=C(C=C5)O)O)O)O)O)O)O)O,,1
+72,Vitamin C,C(C(C1C(=C(C(=O)O1)O)O)O)O,,1
+73,Anethole,CC=CC1=CC=C(C=C1)OC,,1
+74,Butylhydroxytoluene,CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,,1
+75,Citral,CC(C)=CCC\C(C)=C\C=O,5392-40-5,1
+76,Perillaldehyde,CC(=C)[C@H]1CCC(=CC1)C=O,18031-40-8,1
+77,Salicylaldehyde,OC1=C(C=O)C=CC=C1,90-02-8,1
+78,Geraniol,CC(C)=CCC\C(C)=C\CO,106-24-1,1
+79,Estragole,COC1=CC=C(CC=C)C=C1,140-67-0,1
+80,Benzaldehyde,O=CC1=CC=CC=C1,100-52-7,1
+81,Menthol,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,2216-51-5,1
+82,Ocimene,CC(C)=CC\C=C(/C)C=C,13877-91-3,1
+83,Isopulegol,CC1CCC(C(O)C1)C(C)=C,7786-67-6,1
+84,Geranyl acetate,CC(C)=CCC\C(C)=C\COC(C)=O,105-87-3,1
+85,trans-Caryophyllene,[H][C@]12CC(C)(C)[C@]1([H])CC\C(C)=C\CCC2=C,87-44-5,1
+86,Chloramphenicol,OC[C@@H](NC(=O)C(Cl)Cl)[C@H](O)C1=CC=C(C=C1)N(=O)=O,56-75-7,1
+87,Citric acid,OC(=O)CC(O)(CC(O)=O)C(O)=O,77-92-9,1
+88,Cinnamic acid,c1(\C=C\C(O)=O)ccccc1,140-10-3,1
+89,Nisin,CCC(C)C1C(=O)NC(=C)C(=O)NC(C(=O)NC(CSCC(C(=O)N1)NC(=O)C(=CC)NC(=O)C(C(C)CC)N)C(=O)NC2C(SCC(NC(=O)CNC(=O)C3CCCN3C2=O)C(=O)NC(CCCCN)C(=O)NC4C(SCC(NC(=O)CNC(=O)C(NC(=O)C(NC(=O)C(NC(=O)CNC4=O)C)CC(C)C)CCSC)C(=O)NC(CC(=O)N)C(=O)NC(CCSC)C(=O)NC(CCCCN)C(=O)NC5C(SCC6C(=O)NC(C(=O)NC(CSC(C(C(=O)N6)NC(=O)C(NC5=O)C)C)C(=O)NC(CO)C(=O)NC(C(C)CC)C(=O)NC(CC7=CN=CN7)C(=O)NC(C(C)C)C(=O)NC(=C)C(=O)NC(CCCCN)C(=O)O)CC8=CN=CN8)C)C)C)CC(C)C,1414-45-5,0
+90,Diacetyl,CC(=O)C(=O)C,431-03-8,1
+91,Gingerol,c1c(c(O)ccc1CCC(=O)C[C@@H](O)CCCCC)OC,23513-14-6,1
+92,Shogaol,CCCCC/C=C/C(=O)CCc1ccc(c(c1)OC)O,23513-13-5,1
+93,Curcumin,c1(cc(c(O)cc1)OC)\C=C\C(CC(\C=C\c1cc(c(O)cc1)OC)=O)=O,458-37-7,1
+94,Ferulic acid,c1c(c(cc(c1)/C=C/C(=O)O)OC)O,1135-24-6,1
+95,Methoxy cinnamaldehyde,COC1=CC=C(C=C1)/C=C/C=O,24680-50-0,1
+96,Geranial,C(\CC\C=C(/C)C)(=C\C=O)C,141-27-5,0
+97,Neral,O=C\C=C(/CC\C=C(\C)C)C,106-26-3,0
+98,Limonene,C([C@@H]1CCC(C)=CC1)(C)=C,138-86-3,0
+99,Citronellal,C(CC/C=C(/C)C)(CC=O)C,106-23-0,0
+100,Citronellol,C(CC/C=C(/C)C)(CCO)C,106-22-9,0
+101,Bornyl acetate,O=C(O[C@H]1[C@]2(CC[C@@H](C1)C2(C)C)C)C,5655-61-8,0
+102,Linalyl acetate,C([C@@](OC(C)=O)(C=C)C)C\C=C(\C)C,115-95-7,0
+103,Thujanol,CC(C)C12CCC(C)(O)C1C2,546-79-2,0
+104,Trans-thujanol,CC1C2CC2(CC1O)C(C)C,,0
+105,Eugenyl acetate,c1(c(cc(CC=C)cc1)OC)OC(C)=O,93-28-7,1
+106,Myrcene,C(CC\C=C(\C)C)(C=C)=C,123-35-3,1

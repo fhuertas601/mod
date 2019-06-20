@@ -1,0 +1,491 @@
+ID,Compound name,CASRN,SMILES,Activity
+0,(2E)-2-[(2-formyl-4-hydroxyphenyl)-methylidene]-butanedioic acid,773059-57-7,OC(=O)CC(=Cc1ccc(O)cc1C=O)C(O)=O,Sensitizer
+1,(4R;5S)-1;5-Dimethyl-3-(1-oxo-2-propenyl)-4-phenyl-2-imidazo-lidinone,139109-23-2,CC1C(N(C(=O)C=C)C(=O)N1C)c1ccccc1,Sensitizer
+2,(5R)-5-Isopropenyl-2-methyl-1-methylene-2-cyclohexene,,CC(=C)C1CC=C(C)C(=C)C1,Sensitizer
+3,'1-(2'';3'';4'';5''-Tetramethylphenyl)butane-1;3-dione',167998-73-4,CC(=O)CC(=O)c1cc(C)c(C)c(C)c1C,Sensitizer
+4,1-(2;3-epoxypropoxy)-2;2-bis[(2;3-epoxypropoxy)methylbutane,3454-29-3,CCC(COCC1CO1)(COCC1CO1)COCC1CO1,Sensitizer
+5,'1-(2'';5''-diethylphenyl)butane-1;3-dione',167998-76-7,CCc1ccc(CC)c(c1)C(=O)CC(C)=O,Sensitizer
+6,'1-(2'';5''-dimethylphenyl)butane-1;3-dione',56290-55-2,CC(=O)CC(=O)c1cc(C)ccc1C,Sensitizer
+7,1-(p-methoxyphenyl)-1-penten-3-one,104-27-8,CCC(=O)C=Cc1ccc(OC)cc1,Sensitizer
+8,1;1;3-Trimethyl-2-formylcyclohexa-2;4-diene (Safranal),116-26-7,CC1=C(C=O)C(C)(C)CC=C1,Sensitizer
+9,1;1-dimethylethyl 3-[[[[(3s)-2;3;4;5-tetrahydro-1-[2-[(1-methylethyl)phenylamino]-2-oxoethyl]-2;4-dioxo-5-phenyl-1h-1;5-benzodiazepin-3-yl]amino]carbonyl]amino]benzoate,305366-94-3,CC(C)N(C(=O)CN1c2ccccc2N(c2ccccc2)C(=O)C(NC(=O)Nc2cccc(c2)C(=O)OC(C)(C)C)C1=O)c1ccccc1,Sensitizer
+10,1;2-Benzisothiazolin-3-one,2634-33-5,O=C1NSc2ccccc12,Sensitizer
+11,1;2-Diaminocyclohexane,694-83-7,NC1CCCCC1N,Sensitizer
+12,1;2-Dibromo-2;4-dicyanobutane,35691-65-7,BrCC(Br)(CCC#N)C#N,Sensitizer
+13,1;3-Benzodioxazole-5-sulphonyl chloride,115010-10-1,ClS(=O)(=O)c1ccc2OCOc2c1,Sensitizer
+14,1;3-bis-(2;4-diaminophenoxy)-propane,74918-21-1,Nc1ccc(OCCCOc2ccc(N)cc2N)c(N)c1,Sensitizer
+15,1;4-Phenylenediamine,106-50-3,Nc1ccc(N)cc1,Sensitizer
+16,1;6-Bis(2;3-epoxypropoxy)hexane,16096-31-4,C(CCCOCC1CO1)CCOCC1CO1,Sensitizer
+17,12-Bromo-1-dodecanol,3344-77-2,OCCCCCCCCCCCCBr,Sensitizer
+18,12-Bromododecanoic acid,73367-80-3,OC(=O)CCCCCCCCCCCBr,Sensitizer
+19,14-Hydroxynor-morphinone,84116-46-1,Oc1ccc2CC3NCCC45C(Oc1c24)C(=O)C=CC35O,Sensitizer
+20,1-Amino-2-nitro-4-bis-(2-hydroxyethyl)-amino-benzol,29705-39-3,Nc1ccc(cc1N(=O)=O)N(CCO)CCO,Sensitizer
+21,1-Bromodocosane,6938-66-5,CCCCCCCCCCCCCCCCCCCCCCBr,Sensitizer
+22,1-Bromododecane,143-15-7,CCCCCCCCCCCCBr,Sensitizer
+23,1-Bromoeicosane,4276-49-7,CCCCCCCCCCCCCCCCCCCCBr,Sensitizer
+24,1-Bromoheptadecane,3508-00-7,CCCCCCCCCCCCCCCCCBr,Sensitizer
+25,1-Bromohexadecane,112-82-3,CCCCCCCCCCCCCCCCBr,Sensitizer
+26,1-Bromohexane,111-25-1,CCCCCCBr,Sensitizer
+27,1-Bromooctadecane,112-89-0,CCCCCCCCCCCCCCCCCCBr,Sensitizer
+28,1-Bromopentadecane,629-72-1,CCCCCCCCCCCCCCCBr,Sensitizer
+29,1-Bromotetradecane,112-71-0,CCCCCCCCCCCCCCBr,Sensitizer
+30,1-Bromotridecane,765-09-3,CCCCCCCCCCCCCBr,Sensitizer
+31,1-Bromoundecane,693-67-4,CCCCCCCCCCCBr,Sensitizer
+32,1-Chlorohexadecane,4860-03-1,CCCCCCCCCCCCCCCCCl,Sensitizer
+33,1-Chloromethylpyrene,1086-00-6,ClCc1ccc2ccc3cccc4ccc1c2c34,Sensitizer
+34,1-Chlorooctadecane,3386-33-2,CCCCCCCCCCCCCCCCCCCl,Sensitizer
+35,1-Chlorotetradecane,2425-54-9,CCCCCCCCCCCCCCCl,Sensitizer
+36,1-Iododecane,4292-19-7,CCCCCCCCCCCCI,Sensitizer
+37,1-Iodohexadecane,544-77-4,CCCCCCCCCCCCCCCCI,Sensitizer
+38,1-Iodononane,4282-42-2,CCCCCCCCCI,Sensitizer
+39,1-Iodotetradecane,19218-94-1,CCCCCCCCCCCCCCI,Sensitizer
+40,1-Methyl-3-nitronitrosoguanidine,70-25-7,CN(N=O)C(=N)NN(=O)=O,Sensitizer
+41,1-Naphthol,90-15-3,Oc1cccc2ccccc12,Sensitizer
+42,1-Phenyl-1;2-propanedione,579-07-7,CC(=O)C(=O)c1ccccc1,Sensitizer
+43,1-Phenyl-2-methylbutane-1;3-dione,6668-24-2,CC(C(C)=O)C(=O)c1ccccc1,Sensitizer
+44,1-Phenyloctane-1;3-dione,55846-68-1,CCCCCC(=O)CC(=O)c1ccccc1,Sensitizer
+45,2-(2;4-Diaminophenoxy)ethanol dihydrochloride,66422-95-5,Nc1ccc(OCCO)c(N)c1,Sensitizer
+46,2-(3;4-dimethyl-phenyl)-5-methyl-2;4-dihydropyrazol-3-one,18048-64-1,CC1=CC(=O)N(N1)c1ccc(C)c(C)c1,Sensitizer
+47,2-(4-Amino-2nitro-phenylamino)-ethanol,2871-01-4,Nc1ccc(NCCO)c(c1)N(=O)=O,Sensitizer
+48,2-(4-tert-Amylcyclohexyl)acetaldehyde,620159-84-4,CCC(C)(C)C1CCC(CC=O)CC1,Sensitizer
+49,2-(hexadecyloxy)ethanol,2136-71-2,CCCCCCCCCCCCCCCCOCCO,Sensitizer
+50,2;2;6;6-Tetramethyl-heptane-3;5-dione,1118-71-4,CC(C)(C)C(=O)CC(=O)C(C)(C)C,Sensitizer
+51,2;2-bis-[4-(2-hydroxy-3 methacryloxypropoxy)phenyl)]-propane,1565-94-2,CC(=C)C(=O)OCC(O)COc1ccc(cc1)C(C)(C)c1ccc(OCC(O)COC(=O)C(C)=C)cc1,Sensitizer
+52,'2'';3'';4''-Trihydroxychalcone',1482-74-2,Oc1ccc(C(=O)C=Cc2ccccc2)c(O)c1O,Sensitizer
+53,2;3-Butanedione,431-03-8,CC(=O)C(C)=O,Sensitizer
+54,2;4;5-Trichlorophenoxyacetic Acid,93-76-5,OC(=O)COc1cc(Cl)c(Cl)cc1Cl,Sensitizer
+55,2;4;6-Trichloro-1;3;5-triazine,108-77-0,Clc1nc(Cl)nc(Cl)n1,Sensitizer
+56,2;4-Dichloropyrimidine,3934-20-1,Clc1ccnc(Cl)n1,Sensitizer
+57,2;4-Dinitrochlorobenzene ,97-00-7,Clc1ccc(cc1N(=O)=O)N(=O)=O,Sensitizer
+58,2;4-Dinitrofluorobenzene,70-34-8,Fc1ccc(cc1N(=O)=O)N(=O)=O,Sensitizer
+59,2;4-Heptadienal,5910-85-0,CCC=CC=CC=O,Sensitizer
+60,2;4-Hexadienal,142-83-6,CC=CC=CC=O,Sensitizer
+61,2;5-Diaminotoluene,95-70-5,Cc1cc(N)ccc1N,Sensitizer
+62,2;6-Dimethoxy-4-methyl-8-nitro-5-[3-(trifluoromethyl)-phenoxy]quinoline ,189746-15-4,COc1cc(C)c2c(Oc3cccc(c3)C(F)(F)F)c(OC)cc(c2n1)N(=O)=O,Sensitizer
+63,2.4-Dinitrobenzene sulfonic acid,89-02-1,OS(=O)(=O)c1ccc(cc1N(=O)=O)N(=O)=O,Sensitizer
+64,2-[1-(4-Bromophenyl)-1-phenylethoxy]-N;N-dimethylethanamine hydrochloride,13977-28-1,CN(C)CCOC(C)(c1ccccc1)c1ccc(Br)cc1,Sensitizer
+65,'2''-4''-dihydroxychalcone',1776-30-3,C1=CC=C(C=C1)/C=C/C(=O)C2=C(C=C(C=C2)O)O,Sensitizer
+66,2-Amino-6-chloro-4-nitrophenol,6358-09-4,Nc1cc(cc(Cl)c1O)N(=O)=O,Sensitizer
+67,2-Amino-di-phenylamine,534-85-0,Nc1ccccc1Nc1ccccc1,Sensitizer
+68,2-Aminophenol,95-55-6,Nc1ccccc1O,Sensitizer
+69,'2-Benzyl-tert-butylamino-3''-hydroxymethyl-4''-hydroxyaceto-phenone hydrochloride',24085-08-3,CC(C)(C)N(CC(=O)c1ccc(O)c(CO)c1)Cc1ccccc1,Sensitizer
+70,2-Bromo-5-hydroxy-benzaldehyde,2973-80-0,Oc1ccc(Br)c(C=O)c1,Sensitizer
+71,2-Bromotetradecanoic acid,10520-81-7,CCCCCCCCCCCCC(Br)C(O)=O,Sensitizer
+72,2-Chloro-1-[(3-Fluorophenyl)-Methoxy]-4-Nitrobenzene,443882-99-3,Fc1cccc(COc2ccc(cc2Cl)N(=O)=O)c1,Sensitizer
+73,2-Ethylhexylacrylate,103-11-7,CCCCC(CC)COC(=O)C=C,Sensitizer
+74,2-Hydroxyethyl acrylate,818-61-1,OCCOC(=O)C=C,Sensitizer
+75,2-Mercaptobenzothiazole,149-30-4,Sc1nc2ccccc2s1,Sensitizer
+76,2-Methoxy-4-methylphenol,93-51-6,COc1cc(C)ccc1O,Sensitizer
+77,2-Methyl-2H-isothiazol-3-one,2682-20-4,CN1SC=CC1=O,Sensitizer
+78,2-Methyl-4H;3;1-benzoxazin-4-one,525-76-8,CC1=Nc2ccccc2C(=O)O1,Sensitizer
+79,2-Methyl-5-hydroxyethylaminophenol,55302-96-0,Cc1ccc(NCCO)cc1O,Sensitizer
+80,2-Methylundecanal,110-41-8,CCCCCCCCCC(C)C=O,Sensitizer
+81,2-Nitro-4-(propylthio)aniline,54393-89-4,CCCSc1ccc(N)c(c1)N(=O)=O,Sensitizer
+82,2-Nitro-p-phenylenediamine,5307-14-2,Nc1ccc(N)c(c1)N(=O)=O,Sensitizer
+83,3;4-Dichloroaniline hydrochloride,95-76-1,Nc1ccc(Cl)c(Cl)c1,Sensitizer
+84,3;4-Dihydrocoumarin,119-84-6,O=C1CCc2ccccc2O1,Sensitizer
+85,3;4-Dinitrophenol,577-71-9,Oc1ccc(c(c1)N(=O)=O)N(=O)=O,Sensitizer
+86,3;5;5-Trimethylhexanoyl chloride,36727-29-4,CC(CC(Cl)=O)CC(C)(C)C,Sensitizer
+87,3;5-Diamino-2;6-dimethoxypyridinedihydrochloride,56216-28-5,COc1nc(OC)c(N)cc1N,Sensitizer
+88,3-Aminomethyl-3;5;5- trimethylcyclohexylamine,2855-13-2,CC1(C)CC(N)CC(C)(CN)C1,Sensitizer
+89,3-Aminophenol,591-27-5,Nc1cccc(O)c1,Sensitizer
+90,3-Bromomethyl-5;5-dimethyl-dihydro-2(3H)-furanone,154750-20-6,CC1(C)CC(CBr)C(=O)O1,Sensitizer
+91,3-Chloro-4-fluorobenzoyl chloride,65055-17-6,Fc1ccc(cc1Cl)C(Cl)=O,Sensitizer
+92,3-Dimethylaminopropylamine,109-55-7,CN(C)CCCN,Sensitizer
+93,'3-Ethoxy-1-(2'';3'';4'';5''-tetramethylphenyl)propane-1;3-dione',170928-69-5,CCOC(=O)CC(=O)c1cc(C)c(C)c(C)c1C,Sensitizer
+94,3-Fluoro-5-(3-pyridinyl)benzen-amine,181633-36-3,Nc1cc(F)cc(c1)-c1cccnc1,Sensitizer
+95,3-Methyl-1-phenylpyrazolone,89-25-8,CC1=CC(=O)N(N1)c1ccccc1,Sensitizer
+96,3-Methyl-4-phenyl-1;2;5-thiadiazole-1;1-dioxide,3775-21-1,CC1=NS(=O)(=O)N=C1c1ccccc1,Sensitizer
+97,3-Methyleugenol,186743-26-0,CC1=C(C=CC(=C1OC)O)CC=C,Sensitizer
+98,3-Methylisoeugenol,186743-29-3,COc1c(C)c(C=CC)ccc1O,Sensitizer
+99,3-Phenylenediamine,108-45-2,Nc1cccc(N)c1,Sensitizer
+100,3-Propylidenephthalide,17369-59-4,CCC=C1OC(=O)c2ccccc12,Sensitizer
+101,4-((2-hydroxyethyl)amino)-3-nitrophenol,65235-31-6,OCCNc1ccc(O)cc1N(=O)=O,Sensitizer
+102,4-(4-Hydroxy-4-methylpentyl)-3-cyclohexene-1-carboxaldehyde (Lyral),31906-04-4,CC(C)(O)CCCC1=CCC(CC1)C=O,Sensitizer
+103,4-(bromomethyl)-benzoic acid ethyl ester,26496-94-6,CCOC(=O)c1ccc(CBr)cc1,Sensitizer
+104,4-(Methylamino)phenol sulfate (metol),55-55-0,CNc1ccc(O)cc1,Sensitizer
+105,4-(N-Ethyl-N-2-methan-sulfamido-ethyl)-2-methyl-1;4;-phenylenediamine (CD3),25646-71-3,CCN(CCNS(C)(=O)=O)c1ccc(N)c(C)c1,Sensitizer
+106,4;4;4-Trifluoro-1-phenylbutane-1;3-dione,362-06-7,FC(F)(F)C(=O)CC(=O)c1ccccc1,Sensitizer
+107,4;4-Dibromobenzil,35578-47-3,BrC1(Br)CC=C(C=C1)C(=O)C(=O)c1ccccc1,Sensitizer
+108,4-Allylanisole,140-67-0,COc1ccc(CC=C)cc1,Sensitizer
+109,4-Amimo-3-methylphenol,2835-99-6,Cc1cc(O)ccc1N,Sensitizer
+110,4-Amino-3-nitrophenol,610-81-1,Nc1ccc(O)cc1N(=O)=O,Sensitizer
+111,4-Amino-3-nitrophenyl thiocyanate,54029-45-7,Nc1ccc(SC#N)cc1N(=O)=O,Sensitizer
+112,4-Bromo-1-phthalimidopentane,59353-62-7,CC(Br)CCCN1C(=O)c2ccccc2C1=O,Sensitizer
+113,'4''-Hydroxychalcone',2657-25-2,Oc1ccc(cc1)C(=O)C=Cc1ccccc1,Sensitizer
+114,4-Iodo-1-phthalimido-pentane,63460-47-9,CC(I)CCCN1C(=O)c2ccccc2C1=O,Sensitizer
+115,4-Nitrobenzene-1;2-diamine,99-56-9,Nc1ccc(cc1N)N(=O)=O,Sensitizer
+116,4-Nitrobenzyl bromide,100-11-8,BrCc1ccc(cc1)N(=O)=O,Sensitizer
+117,4-Sulfophenyl-6-((1-oxononyl)amino)hexanoate (Nonanoylamidocaproylacidoxybenzenesulfonate),168151-92-6,CCCCCCCCC(=O)NCCC(CCC(O)=O)c1ccccc1S(O)(=O)=O,Sensitizer
+118,5;5-Dimethyl-3-methylenedihydro-2(3H)-furanone,29043-97-8,CC1(C)CC(=C)C(=O)O1,Sensitizer
+119,5-Chloro-2-hydroxy-3-nitro-[1;1-biphenyl]-3-carboxylic acid,376592-58-4,OC(=O)c1cccc(c1)-c1cc(Cl)cc(c1O)N(=O)=O,Sensitizer
+120,5-Methoxy-6-(trifluoromethyl)-2;3-dihydro-1H-indole,178896-79-2,COc1cc2CCNc2cc1C(F)(F)F,Sensitizer
+121,5-Methyl-2;3-hexanedione,13706-86-0,CC(C)CC(=O)C(C)=O,Sensitizer
+122,5-Methyl-2-phenyl-2-hexenal,21834-92-4,CC(C)CC=C(C=O)c1ccccc1,Sensitizer
+123,5-Methyleugenol,186743-25-9,COc1cc(CC=C)c(C)cc1O,Sensitizer
+124,6-(Diethylamino)-1-hexanol,06947-12-2,CCN(CC)CCCCCCO,Sensitizer
+125,6-[(2-Methyl-3-pyridinyl)oxy]-3-pyridinamine,181633-42-1,Cc1ncccc1Oc1ccc(N)cn1,Sensitizer
+126,6-Chlorocoumarin,2051-59-4,Clc1ccc2OC(=O)C=Cc2c1,Sensitizer
+127,6-Methyleugenol,186743-24-8,COc1cc(CC=C)cc(C)c1O,Sensitizer
+128,6-Methylisoeugenol,13041-12-8,COc1cc(C=CC)cc(C)c1O,Sensitizer
+129,7;12-Dimethylbenz[a]anthracene,57-97-6,Cc1c2ccccc2c(C)c2c1ccc1ccccc21,Sensitizer
+130,7-[(4z)-3-(aminomethyl)-4-(methoxyimino)-1-pyrrolidinyl]-1-cyclopropyl-6-fluoro-1;4-dihydro-4-oxo-1;8-naphthyridine-3-carboxylic acid; monomethane-sulfonate,210353-53-0,CON=C1CN(CC1CN)c1nc2N(C=C(C(O)=O)C(=O)c2cc1F)C1CC1,Sensitizer
+131,7-Bromotetradecane,74036-97-8,CCCCCCCC(Br)CCCCCC,Sensitizer
+132,8-Chloro-3-Pentyl-3;7-dihydro-1H-purine-2;6-dione,862892-90-8,CCCCCN1c2nc(Cl)[nH]c2C(=O)NC1=O,Sensitizer
+133,8-Methyl-8-azabicyclo[3.2.1]octan-3-ol,120-29-6,CN1C2CCC1CC(O)C2,Sensitizer
+134,a-Amyl cinnamic aldehyde,122-40-7,CCCCCC(C=O)=Cc1ccccc1,Sensitizer
+135,Abietic acid,514-10-3,CC(C)C1=CC2=CCC3C(C)(CCCC3(C)C(O)=O)C2CC1,Sensitizer
+136,a-Butyl cinnamic aldehyde,7492-44-6,CCCCC(C=O)=Cc1ccccc1,Sensitizer
+137,Acetyl cedrene,32388-55-9,C[C@@H]1CC[C@@H]2[C@@]13C[C@H](C2(C)C)C(=C(C3)C(=O)C)C,Sensitizer
+138,Alachlor,15972-60-8,CCc1cccc(CC)c1N(COC)C(=O)CCl,Sensitizer
+139,a-Methyl cinnamic aldehyde,101-39-3,CC(C=O)=Cc1ccccc1,Sensitizer
+140,a-Methyl-1;3-benzodioxole-5-propionaldehyde,1205-17-0,CC(Cc1ccc2OCOc2c1)C=O,Sensitizer
+141,a-Methylionone,127-51-5,CC(=O)C(C)=CC1C(C)=CCCC1(C)C,Sensitizer
+142,a-Methylphenylacetaldehyde,93-53-8,CC(C=O)c1ccccc1,Sensitizer
+143,Aniline,62-53-3,Nc1ccccc1,Sensitizer
+144,Anisyl Alcohol ,1331-81-3,COc1ccc(CO)cc1,Sensitizer
+145,a-Phellandrene,99-83-2,CC(C)C1CC=C(C)C=C1,Sensitizer
+146,a-Terpinene,99-86-5,CC(C)C1=CC=C(C)CC1,Sensitizer
+147,a-Tocopherol,10191-41-0,CC(C)CCCC(C)CCCC(C)CCCC1(C)CCc2c(C)c(O)c(C)c(C)c2O1,Sensitizer
+148,Atranol,526-37-4,Cc1cc(O)c(C=O)c(O)c1,Sensitizer
+149,Bandrowski’s base,20048-27-5,NC1=CC=C(C=C1)N=C1C=C(N)C(C=C1N)=NC1=CC=C(N)C=C1,Sensitizer
+150,Benzene; 2-bromoethyl,103-63-9,BrCCc1ccccc1,Sensitizer
+151,Benzene-1;3;4-tricarboxylic anhydride,552-30-7,OC(=O)c1ccc2C(=O)OC(=O)c2c1,Sensitizer
+152,Benzo[a]pyrene,50-32-8,c1ccc2c(c1)cc1ccc3cccc4ccc2c1c34,Sensitizer
+153,Benzoyl peroxide,94-36-0,O=C(OOC(=O)c1ccccc1)c1ccccc1,Sensitizer
+154,Benzyl benzoate,120-51-4,O=C(OCc1ccccc1)c1ccccc1,Sensitizer
+155,Benzyl bromide,100-39-0,BrCc1ccccc1,Sensitizer
+156,Benzyl cinnamate ,103-41-3,O=C(OCc1ccccc1)C=Cc1ccccc1,Sensitizer
+157,Benzyl salicylate ,118-58-1,Oc1ccccc1C(=O)OCc1ccccc1,Sensitizer
+158,Benzylidene acetone,122-57-6,CC(=O)C=Cc1ccccc1,Sensitizer
+159,Bisphenol A-diglycidyl ether,1675-54-3,CC(C)(c1ccc(OCC2CO2)cc1)c1ccc(OCC2CO2)cc1,Sensitizer
+160,b-Phellandrene,555-10-2,CC(C)C1CCC(=C)C=C1,Sensitizer
+161,b-Phenylcinnamaldehyde,1210-39-5,O=CC=C(c1ccccc1)c1ccccc1,Sensitizer
+162,b-Propiolactone,57-57-8,O=C1CCO1,Sensitizer
+163,Butanoic acid; 3-methyl; 2-phenylethyl ester,140-26-1,CC(C)CC(=O)OCCc1ccccc1,Sensitizer
+164,Butyl glycidyl ether,2426-08-6,CCCCOCC1CO1,Sensitizer
+165,C.I. Reactive Red 231,,Oc1c(N=Nc2ccccc2S(O)(=O)=O)c(cc2cc(cc(Nc3nc(Cl)nc(NCc4ccc(Nc5nc(Cl)nc(Nc6cc(cc7cc(c(N=Nc8ccccc8S(O)(=O)=O)c(O)c67)S(O)(=O)=O)S(O)(=O)=O)n5)cc4)n3)c12)S(O)(=O)=O)S(O)(=O)=O,Sensitizer
+166,C.I. Reactive Yellow 174,106359-91-5,NC(=O)Nc1cc(Nc2nc(F)nc(NCCOCCS(=O)(=O)C=C)n2)ccc1N=Nc1cc2c(cc(cc2cc1S(O)(=O)=O)S(O)(=O)=O)S(O)(=O)=O,Sensitizer
+167,C11 Azlactone,176665-06-8,CCCCCCCCCCCC1=NC(C)(C)C(=O)O1,Sensitizer
+168,C15 Azlactone,176665-09-1,CCCCCCCCCCCCCCCC1=NC(C)(C)C(=O)O1,Sensitizer
+169,C17 Azlactone,176665-11-5,CCCCCCCCCCCCCCCCCC1=NC(C)(C)C(=O)O1,Sensitizer
+170,C19 Azlactone,,CCCCCCCCCCCCCCCCCCCC1=NC(C)(C)C(=O)O1,Sensitizer
+171,C4 Azlactone,176664-99-6,CCCCC1=NC(C)(C)C(=O)O1,Sensitizer
+172,C6 Azlactone,176665-02-4,CCCCCCC1=NC(C)(C)C(=O)O1,Sensitizer
+173,C9 Azlactone,176665-04-6,CCCCCCCCCC1=NC(C)(C)C(=O)O1,Sensitizer
+174,Camphorquinone,465-29-2,CC1(C)C2CCC1(C)C(=O)C2=O,Sensitizer
+175,Chloroantrol,57074-21-2,Cc1cc(O)c(C=O)c(O)c1Cl,Sensitizer
+176,Chlorosalicylanilide,4638-48-6,ClOc1ccccc1C(=O)Nc1ccccc1,Sensitizer
+177,Chlorothalonil,1897-45-6,Clc1c(Cl)c(C#N)c(Cl)c(C#N)c1Cl,Sensitizer
+178,Cinnamic alcohol,104-54-1,OCC=Cc1ccccc1,Sensitizer
+179,Cinnamic aldehyde,104-55-2,O=CC=Cc1ccccc1,Sensitizer
+180,cis-6-Nonenal,2277-19-2,CCC=CCCCCC=O,Sensitizer
+181,Citral,5392-40-5,CC(C)=CCCC(C)=CC=O,Sensitizer
+182,Citronellol ,106-22-9,CC(CCO)CCC=C(C)C,Sensitizer
+183,Clotrimazole,23593-75-1,Clc1ccccc1C(c1ccccc1)(c1ccccc1)n1ccnc1,Sensitizer
+184,Cyclamen aldehyde ,103-95-7,CC(Cc1ccc(cc1)C(C)C)C=O,Sensitizer
+185,Cyclohex-3-ene-1-carboxylic acid,4771-80-6,OC(=O)C1CCC=CC1,Sensitizer
+186,Dibenzodioxocin,,c1ccc2c(c1)ccooc1ccccc21,Sensitizer
+187,Dicyclohexylcarbodiimide,538-75-0,C1CCC(CC1)N=C=NC1CCCCC1,Sensitizer
+188,Diethyl maleate,141-05-9,CCOC(=O)C=CC(=O)OCC,Sensitizer
+189,Diethyl sulfate,64-67-5,CCOS(=O)(=O)OCC,Sensitizer
+190,Diethylacetaldehyde,97-96-1,CCC(CC)C=O,Sensitizer
+191,Diethylamine,109-89-7,CCNCC,Sensitizer
+192,Diethylenetriamine,111-40-0,NCCNCCN,Sensitizer
+193,Dihydroeugenol,2785-87-7,CCCc1ccc(O)c(OC)c1,Sensitizer
+194,Dimethyl sulfate,77-78-1,COS(=O)(=O)OC,Sensitizer
+195,Dimethyl sulfoxide,67-68-5,CS(C)=O,Sensitizer
+196,Dimethyldithiocarbamate,137-30-4,CN(C)C(S)=S,Sensitizer
+197,Dinocap,39300-45-3 ,CCCCCCC(C)c1cc(cc(c1OC(=O)C=CC)N(=O)=O)N(=O)=O,Sensitizer
+198,Dipropylene triamine,56-18-8,NCCCNCCCN,Sensitizer
+199,Disperse Blue 106,12223-01-7,CCN(CCO)c1ccc(N=Nc2ncc(s2)N(=O)=O)c(C)c1,Sensitizer
+200,Dodecyl methanesulfonate,51323-71-8,CCCCCCCCCCCCOS(C)(=O)=O,Sensitizer
+201,Ethyl (3-endo)-8-methyl-8-azabicyclo[3.2.1]-octane-3-acetate,56880-11-6,CCOC(=O)CC1CC2CCC(C1)N2C,Sensitizer
+202,Ethyl 4-iodobenzoate,51934-41-9,CCOC(=O)c1ccc(I)cc1,Sensitizer
+203,Ethyl acrylate,140-88-5,CCOC(=O)C=C,Sensitizer
+204,Ethyl-2-(Hydroxymethyl)-1;3-Propanediol Triacrylate,15625-89-5,CCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,Sensitizer
+205,Ethylene glycol dimethacrylate ,97-90-5,CC(=C)C(=O)OCCOC(=O)C(C)=C,Sensitizer
+206,Ethylenediamine,107-15-3,NCCN,Sensitizer
+207,Eugenol ,97-53-0,COc1cc(CC=C)ccc1O,Sensitizer
+208,Farnesal,502-67-0,CC(C)=CCCC(C)=CCCC(C)=CC=O,Sensitizer
+209,Fluorescein-5-isothiocyanate,3326-32-7,Oc1ccc2c(Oc3cc(O)ccc3C22OC(=O)c3cc(ccc23)N=C=S)c1,Sensitizer
+210,Formaldehyde,50-00-0,C=O,Sensitizer
+211,Formulation 10 (Dithiopyr),97886-45-8,CSC(=O)c1c(nc(c(C(=O)SC)c1CC(C)C)C(F)(F)F)C(F)F,Sensitizer
+212,Formulation 13 (2-ethylhexyl 2-(2;4-dichlorophenoxy)acetate),1928-43-4,CCCCC(CC)COC(=O)COc1ccc(Cl)cc1Cl,Sensitizer
+213,Formulation 16 (Triclopyr ester),64470-88-8,CCCCOCCOC(=O)COc1nc(Cl)c(Cl)cc1Cl,Sensitizer
+214,Formulation 24 (Cloquintocet-mexyl),99607-70-2,CCCCCC(C)OC(=O)COc1ccc(Cl)c2cccnc12,Sensitizer
+215,Formulation 27 (Fluroxypyr-meptyl),81406-37-3,CCCCCCC(C)OC(=O)COc1nc(F)c(Cl)c(N)c1Cl,Sensitizer
+216,Formulation 32 (Myclobutanil),88671-89-0,CCCCC(Cn1cncn1)(C#N)c1ccc(Cl)cc1,Sensitizer
+217,Formulation 38 (N-(3;4-dichlorophenyl)propanamide),709-98-8,CCC(=O)Nc1ccc(Cl)c(Cl)c1,Sensitizer
+218,Formulation 56 (Nitrapyrin),1929-82-4,Clc1cccc(n1)C(Cl)(Cl)Cl,Sensitizer
+219,Geraniol,106-24-1,CC(C)=CCCC(C)=CCO,Sensitizer
+220,Glutaraldehyde ,111-30-8,O=CCCCC=O,Sensitizer
+221,Glygeryl thioglycollate,30618-84-9,OCC(O)COC(=O)CS,Sensitizer
+222,Glyoxal,107-22-2,O=CC=O,Sensitizer
+223,Glyoxylic  acid,298-12-4,OC(=O)C=O,Sensitizer
+224,Hexyl cinnamic aldehyde,101-86-0,CCCCCCC(C=O)=Cc1ccccc1,Sensitizer
+225,Hexyl salicylate,6259-76-3,CCCCCCOC(=O)c1ccccc1O,Sensitizer
+226,Hydroxycitronellal ,107-75-5,CC(CCCC(C)(C)O)CC=O,Sensitizer
+227,Hydroxytyrosol,10597-60-1,OCCc1ccc(O)c(O)c1,Sensitizer
+228,Imidazolidinyl urea,39236-46-9,OCN1C(=O)NC(O)=C1NC(=O)NCNC(=O)NC1=C(O)NC(=O)N1CO,Sensitizer
+229,Iodopropynyl butylcarbamate,87977-28-4,CCCCNC(=O)OC#CCI,Sensitizer
+230,Isoeugenol,97-54-1,COc1cc(C=CC)ccc1O,Sensitizer
+231,Isononanoyl chloride,57077-36-8,CC(C)CCCCCC(Cl)=O,Sensitizer
+232,Isopropyl isoeugenol,186743-30-6,CC=Cc1ccc(O)c(OC(C)C)c1,Sensitizer
+233,Isopropyl myristate,110-27-0,CCCCCCCCCCCCCC(=O)OC(C)C,Sensitizer
+234,Lauryl gallate,1166-52-5,CCCCCCCCCCCCOC(=O)c1cc(O)c(O)c(O)c1,Sensitizer
+235,Linalool,78-70-6,CC(C)=CCCC(C)(O)C=C,Sensitizer
+236,Linalool aldehyde,,CC(C=O)=CCCC(C)(O)C=C,Sensitizer
+237,Linoleic acid,60-33-3,CCCCCC=CCC=CCCCCCCCC(O)=O,Sensitizer
+238,Linolenic acid,463-40-1,CCC=CCC=CCC=CCCCCCCCC(O)=O,Sensitizer
+239,Methyl 2-nonynoate,111-80-8,CCCCCCC#CC(=O)OC,Sensitizer
+240,Methyl 2-octynoate,111-12-6,CCCCCC#CC(=O)OC,Sensitizer
+241,Methyl acrylate,96-33-3,COC(=O)C=C,Sensitizer
+242,Methyl dodecanesulfonate,2374-65-4,CCCCCCCCCCCCS(=O)(=O)OC,Sensitizer
+243,Methyl hexadecenesulfonate,26452-48-2,CCCCCCCCCCCCCCC=CS(=O)(=O)OC,Sensitizer
+244,Methyl methacrylate,80-62-6,COC(=O)C(C)=C,Sensitizer
+245,Methyl methanesulfonate,66-27-3,COS(C)(=O)=O,Sensitizer
+246,Methyl pyruvate,600-22-6,COC(=O)C(C)=O,Sensitizer
+247,m-Phenylenebis(methylamine),1477-55-0,NCc1cccc(CN)c1,Sensitizer
+248,N-(2-Hydroxyethyl)-ethylendiamine,111-41-1,NCCNCCO,Sensitizer
+249,'N-(3;4-Dichlorophenyl)-N''-(1-methylethyl)-imidodicarbonimidic diamide monohydrochloride',15537-76-5,CC(C)NC(=N)NC(=N)NC1=CC(=C(C=C1)Cl)Cl,Sensitizer
+250,N-(4-Methoxyphenyl)-3-oxobutanamide,5437-98-9,COc1ccc(NC(=O)CC(C)=O)cc1,Sensitizer
+251,N;N-dibutylaniline,613-29-6,CCCCN(CCCC)c1ccccc1,Sensitizer
+252,'N-[2-(diethylamino)ethyl]-2-[[(4-fluorophenyl)-methyl]thio]-4;5;6;7-tetrahydro-4-oxo-N-[[4''-(trifluoromethyl)-[1;1''-biphenyl]-4-yl]methyl]-1h-cyclopentapyrim-idine-1-acetamide (Darapladib)',356057-34-6,CCN(CC)CCN(Cc1ccc(cc1)-c1ccc(cc1)C(F)(F)F)C(=O)CN1C2=C(CCC2)C(=O)N=C1SCc1ccc(F)cc1,Sensitizer
+253,N-Ethyl-N-nitrosourea,759-73-9,CCN(N=O)C(N)=O,Sensitizer
+254,N-Isopropyl-N-phenyl-2-(2-phenylamino-phenylamino)-acetamide,161455-90-9,CC(C)N(C(=O)CNc1ccccc1Nc1ccccc1)c1ccccc1,Sensitizer
+255,'N-isopropyl-N''-phenyl-p-phenylenediamine',101-72-4,CC(C)Nc1ccc(Nc2ccccc2)cc1,Sensitizer
+256,n-Methyl-n-nitrosourea,684-93-5,CN(N=O)C(N)=O,Sensitizer
+257,Nonanoyl chloride,764-85-2,CCCCCCCCC(Cl)=O,Sensitizer
+258,Norbornene fluoroalcohol,305815-63-8,OC(COC1CC2CC1C=C2)(C(F)(F)F)C(F)(F)F,Sensitizer
+259,Oct-1-yn-3-ol,818-72-4,CCCCCC(O)C#C,Sensitizer
+260,Oleic acid,112-80-1,CCCCCCCCC=CCCCCCCCC(O)=O,Sensitizer
+261,Oleyl methane sulfonate,35709-09-2,CCCCCCCCC=CCCCCCCCCOS(C)(=O)=O,Sensitizer
+262,Oripavine,467-04-9,COC1=CC=C2C3Cc4ccc(O)c5OC1C2(CCN3C)c45,Sensitizer
+263,Oxalic Acid,144-62-7,OC(=O)C(O)=O,Sensitizer
+264,Oxazolone,15646-46-5,CCOC=C1N=C(OC1=O)c1ccccc1,Sensitizer
+265,Oxyfluorfen,42874-03-3 ,CCOc1cc(Oc2ccc(cc2Cl)C(F)(F)F)ccc1N(=O)=O,Sensitizer
+266,Palmitoyl chloride,112-67-4,CCCCCCCCCCCCCCCC(Cl)=O,Sensitizer
+267,p-Benzoquinone,106-51-4,O=C1C=CC(=O)C=C1,Sensitizer
+268,p-chlorophenethylic alcohol,1875-88-3,OCCc1ccc(Cl)cc1,Sensitizer
+269,Penicillin G ,61-33-6,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(O)=O,Sensitizer
+270,Pentachlorophenol,87-86-5,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Sensitizer
+271,Perillaldehyde,2111-75-3,CC(=C)C1CCC(C=O)=CC1,Sensitizer
+272,'Phenol; 2;2''-azobis-',2050-14-8,Oc1ccccc1N=Nc1ccccc1O,Sensitizer
+273,Phenyl benzoate,93-99-2,O=C(Oc1ccccc1)c1ccccc1,Sensitizer
+274,Phenylacetaldehyde                  ,127-78-1,O=CCc1ccccc1,Sensitizer
+275,p-Methylhydrocinnamic aldehyde ,5406-12-2,Cc1ccc(CCC=O)cc1,Sensitizer
+276,p-tert-Butyl-alpha-methylhydrocinnamic aldehyde (Lilial),80-54-6,CC(Cc1ccc(cc1)C(C)(C)C)C=O,Sensitizer
+277,p-tert-Butylphenyl 1-(2;3-epoxy)propyl ether,3101-60-8,CC(C)(C)c1ccc(OCC2CO2)cc1,Sensitizer
+278,Pyridine,110-86-1,c1ccncc1,Sensitizer
+279,Pyrogallol,87-66-1,Oc1cccc(O)c1O,Sensitizer
+280,R-Carvone,6485-40-1,CC(=C)C1CC=C(C)C(=O)C1,Sensitizer
+281,R-Carvoxime,55658-55-4,CC(=C)C1CC=C(C)C(C1)=NO,Sensitizer
+282,Resorcinol ,108-46-3,Oc1cccc(O)c1,Sensitizer
+283,R-Limonene,5989-27-5,CC(=C)C1CCC(C)=CC1,Sensitizer
+284,Sodium 4-[(3;3;5-trimethylhexanoyl)oxy]benzene-1-sulfonate,94612-91-6,CC(CC(=O)Oc1ccc(cc1)S(O)(=O)=O)CC(C)(C)C,Sensitizer
+285,Sodium ethyl xanthate,140-90-9,CCOC(S)=S,Sensitizer
+286,Sodium lauroyl lactylate,13557-75-0,CCCCCCCCCCCC(=O)OC(C)C(=O)OC(C)C(O)=O,Sensitizer
+287,Sodium lauryl sulfate,151-21-3,CCCCCCCCCCCCOS(O)(=O)=O,Sensitizer
+288,Squalene,111-02-4 or 7683-64-9,CC(C)=CCCC(C)=CCCC(C)=CCCC=C(C)CCC=C(C)CCC=C(C)C,Sensitizer
+289,Squaric acid,2892-51-5,OC1=C(O)C(=O)C1=O,Sensitizer
+290,Tetrachlorosalicylanilide,1154-59-2,Oc1c(Cl)cc(Cl)cc1C(=O)Nc1ccc(Cl)c(Cl)c1,Sensitizer
+291,Tetramethylthiuram disulfide,137-26-8,CN(C)C(=S)SSC(=S)N(C)C,Sensitizer
+292,Thioglycerol,96-27-5,OCC(O)CS,Sensitizer
+293,Toluene 2;4-diisocyanate,584-84-9,Cc1ccc(cc1N=C=O)N=C=O,Sensitizer
+294,trans-2-Decenal,3913-71-1,CCCCCCCC=CC=O,Sensitizer
+295,trans-2-Hexenal,6728-26-3,CCCC=CC=O,Sensitizer
+296,trans-Anethol,104-46-1,COc1ccc(C=CC)cc1,Sensitizer
+297,Tridecane,629-50-5,CCCCCCCCCCCCC,Sensitizer
+298,Trifluralin,1582-09-8   ,CCCN(CCC)c1c(cc(cc1N(=O)=O)C(F)(F)F)N(=O)=O,Sensitizer
+299,Trimethylhexamine diamine,25620-58-0,CC(CCCCN)C(C)(C)N,Sensitizer
+300,Trinitrochlorobenzene,28260-61-9,Clc1ccc(c(c1N(=O)=O)N(=O)=O)N(=O)=O,Sensitizer
+301,Tropolone,533-75-5,OC1=CC=CC=CC1=O,Sensitizer
+302,Undec-10-enal,112-45-8,C=CCCCCCCCCC=O,Sensitizer
+303,Undecylenic acid,112-38-9,OC(=O)CCCCCCCCC=C,Sensitizer
+304,Veratraldehyde,120-14-9,COc1ccc(C=O)cc1OC,Sensitizer
+305, 3-Cyclohexene-1-methanol; 2;4;6-trimethyl-,68527-77-5,CC1CC(C)=CC(C)C1CO,Non-sensitizer
+306,(16-beta)-21-(acetyloxy)-17-hydroxy-16-methylpregna-1;4;9(11)-triene-3;20-dione,910-99-6,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3=CCC2(C)C1(O)C(=O)COC(C)=O,Non-sensitizer
+307,(1R;4R)-4-Isopropenyl-1-methyl-2-methylenecyclohexane,,CC1CCC(CC1=C)C(C)=C,Non-sensitizer
+308,(2-Bromo-5-propoxyphenyl)(2-hydroxy-4-methoxyphenyl)-methanone,190965-45-8,CCCOc1ccc(Br)c(c1)C(=O)c1ccc(OC)cc1O,Non-sensitizer
+309,(2-oxo-1-phenyl-pyrrolidin-3-yl)(triphenyl)-phosphonium bromide,148776-18-5,O=C1C(CCN1c1ccccc1)[P+](c1ccccc1)(c1ccccc1)c1ccccc1,Non-sensitizer
+310,(2R;4S)-4-(4-acetyl-1-piperazinyl)-N-{(1R)-1-[3;5-bis(trifluoro-methyl)phenyl]-ethyl}-2-(4-fluoro-2-methylphenyl)-N-methyl-1-piperidine-carboxamide monomethane-sulfonate,414910-30-8,CC(N(C)C(=O)N1CCC(CC1c1ccc(F)cc1C)N1CCN(CC1)C(C)=O)c1cc(cc(c1)C(F)(F)F)C(F)(F)F,Non-sensitizer
+311,(2S;4S)-1-[(2S)-2-amino-3;3-bis(4-fluorophenyl)-1-oxopropyl]-4-fluoro-2-pyrrolidine carbonitrile,483369-58-0,NC(C(c1ccc(F)cc1)c1ccc(F)cc1)C(=O)N1CC(F)CC1C#N,Non-sensitizer
+312,(3aS;4R;5S;6S;8R;9R;9aR;10R)-6-Ethenyldeca-hydro-5-hydroxy-4;6;9;10-tetramethyl-1-oxo-3a;9-propano-3aH-cyclopentacyclo-octen-8-yl [[(3-exo)-8-methyl-8-azabicyclo-[3.2.1]oct-3-yl]thio]-acetate,224452-66-8,CC1CCC23CCC(=O)C2C1(C)C(CC(C)(C=C)C(O)C3C)OC(=O)CSC1CC2CCC(C1)N2C,Non-sensitizer
+313,(3aS;4R;5S;6S;8R;9R;9AR;10R)-6-Ethenyldeca-hydro-5-hydroxy-4;6;9;10-tetra-methyl-1-oxo-3a;9-propano-3aH-cyclopentacycloocten-8-yl hydroxyacetate,125-65-5,CC1CCC23CCC(=O)C2C1(C)C(CC(C)(C=C)C(O)C3C)OC(=O)CO,Non-sensitizer
+314,(3R;3aS;6aR)-hexahydrofuro[2;3-b]furan-3-ol,156928-09-5,OC1COC2OCCC12,Non-sensitizer
+315,(3R;3aS;6aR)-hexahydrofuro-[2;3-b]furan-3-yl [(1S;2R)-3-[(1;3-benzodioxol-5-ylsulfonyl)(2-methylpropyl)-amino]-2-hydroxy-1-[[4-[(2-methyl-4-thiazolyl)methoxy]phenyl]methyl]-propyl]carbamate,313682-08-5,CC(C)CN(CC(O)C(Cc1ccc(OCc2csc(C)n2)cc1)NC(=O)OC1COC2OCCC12)S(=O)(=O)c1ccc2OCOc2c1,Non-sensitizer
+316,(3R;6Rr)-3-(2;3-dihydro-1H-inden-2-yl)-1-[(1R)-1-(2-methyl-1;3-oxazol-4-yl)-2-(4-morpholinyl)-2-oxoethyl]-6-[(1S)-1-methylpropyl]-2;5-piperazinedione,820957-38-8,CCC(C)C1N(C(C(=O)N2CCOCC2)c2coc(C)n2)C(=O)C(NC1=O)C1Cc2ccccc2C1,Non-sensitizer
+317,(3S;6R)-3-isopropyl-6-methylcyclohexene,5113-93-9,CC(C)C1CCC(C)C=C1,Non-sensitizer
+318,(4R;5S)-(-)-1;5-Dimethyl-4-phenyl-2-imidazolidinone,92841-65-1,CC1C(NC(=O)N1C)c1ccccc1,Non-sensitizer
+319,(4S)-1-(tert-butoxycarbonyl)-4-fluoro-L-proline,203866-13-1,CC(C)(C)OC(=O)N1CC(F)CC1C(O)=O,Non-sensitizer
+320,(4S;5R)-1-[(1R;2R;3S)-3-(1;3-Benzodioxol-5-yl)-1-(2-benzyloxy-4-methoxyphenyl)-1-hydroxy-6-propoxy-2-indanoyl]-3;4-dimethyl-5-phenyl-2-imidazolidinone,190965-47-0,CCCOc1ccc2C(C(C(=O)N3C(C(C)N(C)C3=O)c3ccccc3)C(O)(c2c1)c1ccc(OC)cc1OCc1ccccc1)c1ccc2OCOc2c1,Non-sensitizer
+321,(4Z)-2-Methyl-6-methyleneoct-4-ene,,CCC(=C)C=CCC(C)C,Non-sensitizer
+322,(R)-N-Methyl-1-[3;5-bis(trifluoromethyl)phenyl]ethylamine,334477-60-0,CNC(C)c1cc(cc(c1)C(F)(F)F)C(F)(F)F,Non-sensitizer
+323,(R;S)-3-amino-2;3;4;5-tetrahydro-N-(1-methylethyl)-2;4-dioxo-N;5-diphenyl-1H-1;5-benzodiazepine-1-acetamide,184944-86-3,CC(C)N(C(=O)CN1c2ccccc2N(c2ccccc2)C(=O)C(N)C1=O)c1ccccc1,Non-sensitizer
+324,(S)-(-)-1-phenylpropyl-amine,3789-59-1,CCC(N)c1ccccc1,Non-sensitizer
+325,(S)-2-hydroxy-2-methylsuccinic acid,6236-09-5,CC(O)(CC(O)=O)C(O)=O,Non-sensitizer
+326,[3aS-(3aalpha;4beta;5alpha;6alpha;8beta;9alpha;9abeta;10S*)]-6-Ethenyldecahydro-5-hydroxy-4;6;9;10-tetramethyl-1-oxo-3a;9-propano-3aH-cyclopentacycloocten-8-yl [(methylsulfonyl)-oxy]acetate,60924-38-1,CC1CCC23CCC(=O)C2C1(C)C(CC(C)(C=C)C(O)C3C)OC(=O)COS(C)(=O)=O,Non-sensitizer
+327,[4-(ethoxymethyl)-2;6-dimethoxyphenyl]-boronic acid,591249-50-2,CCOCc1cc(OC)c(B(O)O)c(OC)c1,Non-sensitizer
+328,[4S-[1(E);4alpha;5alpha]]-1-[3-[2-[4-Methoxy-2-(phenylmethoxy)-benzoyl]-4-propoxyphenyl]-1-oxo-2-propenyl]-3;4-dimethyl-5-phenyl-2-imidazoli-dinone,190965-46-9,CCCOc1ccc(C=CC(=O)N2C(C(C)N(C)C2=O)c2ccccc2)c(c1)C(=O)c1ccc(OC)cc1OCc1ccccc1,Non-sensitizer
+329,'1-(2'';3'';4'';5''-Tetramethylphenyl)-3-(4''-tetrabutylphenyl)-propane-1;3-dione',,Cc1cc(C(=O)CC(=O)c2ccc(cc2)C(C)(C)C)c(C)c(C)c1C,Non-sensitizer
+330,'1-(3'';4'';5''-Tetramethoxyphenyl)-4-dimethylpentane-1;3-dione',135099-98-8,COc1cc(cc(OC)c1OC)C(=O)CC(=O)C(C)(C)C,Non-sensitizer
+331,1-(4-ethoxy-phenyl)-2-[4-(methyl-sulfonyl)phenyl]-ethanone,346413-00-1,CCOc1ccc(cc1)C(=O)Cc1ccc(cc1)S(C)(=O)=O,Non-sensitizer
+332,1;1-Dimethylethyl [(1S)-1-[bis(4-fluorophenyl)-methyl]-2-[(2S;4S)-2-cyano-4-fluoro-1-pyrrolidinyl]-2-oxoethyl]carbamate,483368-24-7,CC(C)(C)OC(=O)NC(C(c1ccc(F)cc1)c1ccc(F)cc1)C(=O)N1CC(F)CC1C#N,Non-sensitizer
+333,1;1-Dimethylethyl [(1S)-2-[4-[(2-methyl-4-thiazolyl)methoxy]phenyl]-1-(2S)-oxiranylethyl]-carbamate,313680-92-1,Cc1nc(COc2ccc(CC(NC(=O)OC(C)(C)C)C3CO3)cc2)cs1,Non-sensitizer
+334,1;2;3;5;6;7-Hexahydro-2-thioxo-4H-cyclopentapyrimi-din-4-one,35563-27-0,O=C1NC(=S)NC2=C1CCC2,Non-sensitizer
+335,1.2-Benzenedicarboxylic acid; dibutyl ester,84-74-2,CCCCOC(=O)c1ccccc1C(=O)OCCCC,Non-sensitizer
+336,1-[3-(Cyclopentyl-oxy)-4-methoxy-phenyl]-4-oxocyclohexane carbonitrile,152630-47-2,COc1ccc(cc1OC1CCCC1)C1(CCC(=O)CC1)C#N,Non-sensitizer
+337,1-[5-[(4-Fluorophenyl)methyl]-2-furanyl]ethanone,280571-34-8,CC(=O)c1ccc(Cc2ccc(F)cc2)o1,Non-sensitizer
+338,17;21-dihydroxy-16β-methylpregna-1;4;9(11)-triene-3;20-dione,13504-15-9,CC1CC2C3CCC4=CC(=O)C=CC4(C)C3=CCC2(C)C1(O)C(=O)CO,Non-sensitizer
+339,1-Aminopyridazin-ium,35073-04-2,N[n+]1ccccn1,Non-sensitizer
+340,1-Bromobutane,109-65-9,CCCCBr,Non-sensitizer
+341,1-Bromononane,693-58-3,CCCCCCCCCBr,Non-sensitizer
+342,1-Butanol,71-36-3,CCCCO,Non-sensitizer
+343,1-Chloro-3-iodopropane,6940-76-7,ClCCCI,Non-sensitizer
+344,1-Chlorononane,2473-01-0,CCCCCCCCCCl,Non-sensitizer
+345,1-Iodohexane,638-45-9,CCCCCCI,Non-sensitizer
+346,1-Iodooctadecane,629-93-6,CCCCCCCCCCCCCCCCCCI,Non-sensitizer
+347,2-(4-ethoxyphenyl)-3-[4-(methyl-sulfonyl)phenyl-]pyrazolo[1;5-b]-pyridazine,221148-46-5,CCOc1ccc(cc1)-c1nn2ncccc2c1-c1ccc(cc1)S(C)(=O)=O,Non-sensitizer
+348,2-(4-Oxopentyl)-1h-isoindole-1;3(2h)-dione,3197-25-9,CC(=O)CCCN1C(=O)c2ccccc2C1=O,Non-sensitizer
+349,2-(benzyl)tert-butyl)amino)-1-(alpha;4-dihydroxy-m-tolyl)ethane,24085-03-8,CC(C)(C)N(CC(O)c1ccc(O)c(CO)c1)Cc1ccccc1,Non-sensitizer
+350,'2;2''-Oxybisethanol',111-46-6,OCCOCCO,Non-sensitizer
+351,2;3;4;5-tetrahydro-n-(1-methylethyl)-2;4-dioxo-n;5-diphenyl-3-[(phenylmethoxy)-imino]-1h-1;5-benzodiazepine-1-acetamide,305366-97-6,CC(C)N(C(=O)CN1c2ccccc2N(c2ccccc2)C(=O)C(=NOCc2ccccc2)C1=O)c1ccccc1,Non-sensitizer
+352,2;3-Dimethyl-2H-indazol-6-amine,444731-72-0,Cc1n(C)nc2cc(N)ccc12,Non-sensitizer
+353,2;6-Dimethoxy-4-methyl-5-[3-(trifluoromethyl)-phenoxy]-8-quinolinamine,106635-86-3,COc1cc(C)c2c(Oc3cccc(c3)C(F)(F)F)c(OC)cc(N)c2n1,Non-sensitizer
+354,2;6-Dimethylbenzoic acid,632-46-2,Cc1cccc(C)c1C(O)=O,Non-sensitizer
+355,2-[(benzyloxy)-imino]malonic acid,305366-96-5,OC(=O)C(=NOCc1ccccc1)C(O)=O,Non-sensitizer
+356,'2''-4-Dihydroxychalcone',13323-66-5,Oc1ccc(C=CC(=O)c2ccccc2O)cc1,Non-sensitizer
+357,2-Acetylcyclohexanone,874-23-7,CC(=O)C1=C(O)CCCC1,Non-sensitizer
+358,2-Aminoethyl-methylsulfone,49773-20-8,CS(=O)(=O)CCN,Non-sensitizer
+359,2-Bromo-5-propoxybenzoic acid,190965-43-6,CCCOc1ccc(Br)c(c1)C(O)=O,Non-sensitizer
+360,2-Butoxyethyl acetate,112-07-2,CCCCOCCOC(C)=O,Non-sensitizer
+361,2-Chloro-6-methoxy-4-methylquinoline,6340-55-2,COc1ccc2nc(Cl)cc(C)c2c1,Non-sensitizer
+362,2-Chloro-6-nitrotoluene,83-42-1,Cc1c(Cl)cccc1N(=O)=O,Non-sensitizer
+363,2-Fluoro-5-nitroaniline,369-36-8,Nc1cc(ccc1F)N(=O)=O,Non-sensitizer
+364,2-Hydroxybenzothiazole,934-34-9,O=C1Nc2ccccc2S1,Non-sensitizer
+365,2-Hydroxypropyl methacrylate,923-26-2,CC(O)COC(=O)C(C)=C,Non-sensitizer
+366,2-Mercaptobenzoxazole,2382-96-9,Sc1nc2ccccc2o1,Non-sensitizer
+367,3-[(2R)-3-[[2-(2;3-Dihydro-1H-inden-2-yl)-1;1-dimethyl-ethyl]amino]-2-hydroxypropoxy]-4;5-difluoro-benzene propanoic acid,753449-67-1,CC(C)(CC1Cc2ccccc2C1)NCC(O)COc1cc(CCC(O)=O)cc(F)c1F,Non-sensitizer
+368,'3''-[(2z)-[1-(3;4-dimethylphenyl)-1;5-dihydro-3-methyl)-5-oxo-4h-pyrazol-4-ylidene]hydrazino]-2''-hydroxy-[1;1''-biphenyl]-3-carboxylic acid; compound with 2-aminoethanol (2:1)',496775-62-3,CC1=C(N=Nc2cccc(-c3cccc(c3)C(O)=O)c2O)C(=O)N(N1)c1ccc(C)c(C)c1,Non-sensitizer
+369,3-[4-[(6-bromohexyl)oxy]-butyl]benzene-sulfonamide,452342-04-0,NS(=O)(=O)c1cccc(CCCCOCCCCCCBr)c1,Non-sensitizer
+370,3-Chloro-p-anisaldehyde,4903-09-7,COc1ccc(C=O)cc1Cl,Non-sensitizer
+371,3-Hydroxy-2-nitropyridine,15128-82-2,Oc1cccnc1N(=O)=O,Non-sensitizer
+372,3-Hydroxy-2-phenyl-4-quinolinecarboxylic acid,485-89-2,OC(=O)c1c(O)c(nc2ccccc12)-c1ccccc1,Non-sensitizer
+373,3-Hydroxy-4-methoxybenzaldehyde,621-59-0,COc1ccc(C=O)cc1O,Non-sensitizer
+374,3-Methyl-1-butanol,123-51-3,CC(C)CCO,Non-sensitizer
+375,3-Phenoxypropiononitrile,3055-86-5,N#CCCOc1ccccc1,Non-sensitizer
+376,3-Propoxybenzoic acid,190965-42-5,CCCOc1cccc(c1)C(O)=O,Non-sensitizer
+377,'4''-(Trifluoro-methyl)-[1;1''-biphenyl]-4-carboxaldehyde',90035-34-0,FC(F)(F)c1ccc(cc1)-c1ccc(C=O)cc1,Non-sensitizer
+378,4-[4-[[(3R)-1-butyl-3-[(R)-cyclohexyl-hydroxymethyl]-2;5-dioxo-1;4;9-triazaspiro[5.5]-undec-9-yl]methyl]phenoxy]benzoic acid,461443-59-4,CCCCN1C(=O)C(NC(=O)C11CCN(Cc2ccc(Oc3ccc(cc3)C(O)=O)cc2)CC1)C(O)C1CCCCC1,Non-sensitizer
+379,4-Carboxyphenylacetate,2345-34-8,CC(=O)Oc1ccc(cc1)C(O)=O,Non-sensitizer
+380,4-Chloroaniline,106-47-8,Nc1ccc(Cl)cc1,Non-sensitizer
+381,4-Fluoro-2-pyrrolidine-carboxamide,748165-40-4,NC(=O)C1CC(F)CN1,Non-sensitizer
+382,4-Hydroxybenzoic acid,99-96-7,OC(=O)c1ccc(O)cc1,Non-sensitizer
+383,4-Isopropyl-1-methylenecyclohexane,,CC(C)C1CCC(=C)CC1,Non-sensitizer
+384,'4''-Methoxyacetophenone',100-06-1,COc1ccc(cc1)C(C)=O,Non-sensitizer
+385,4S-1-(tert-Butoxycarbonyl)-4-fluoro-L-prolinamide,426844-22-6,CC(C)(C)OC(=O)N1CC(F)CC1C(N)=O,Non-sensitizer
+386,5-[[4-[(2;3-dimethyl-2h-indazol-6-yl)-methylamino]-2-pyrimidinyl]amino]-2-methylbenzene-sulfonamide,444731-52-6,CN(c1ccc2c(C)n(C)nc2c1)c1ccnc(Nc2ccc(C)c(c2)S(N)(=O)=O)n1,Non-sensitizer
+387,5-Amino-2-methylbenzene-sulfonamide, 6973-09-7,Cc1ccc(N)cc1S(N)(=O)=O,Non-sensitizer
+388,5-Chloro-2;6-dimethoxy-4-methylquinoline,189746-19-8,COc1cc(C)c2c(Cl)c(OC)ccc2n1,Non-sensitizer
+389,5-Hydroxy-4-nitrobenzoic acid,619-14-7,OC(=O)c1ccc(c(O)c1)N(=O)=O,Non-sensitizer
+390,5-Methoxy-2-nitro-4-(trifluoromethyl)benzene acetonitrile,178896-77-0,COc1cc(CC#N)c(cc1C(F)(F)F)N(=O)=O,Non-sensitizer
+391,6-(trifluoro-methyl)-2;3-dihydro-5-methyl-1h-indole; hydrochloride,280121-24-6,Cc1cc2CCNc2cc1C(F)(F)F,Non-sensitizer
+392,6-Chloro-1-hexanol,2009-83-8,OCCCCCCCl,Non-sensitizer
+393,6-Iodo-quinazolin-4-ol,16064-08-7,Ic1ccc2N=CNC(=O)c2c1,Non-sensitizer
+394,6-Methoxy-4-methyl-2(1H)-quinolinone,5342-23-4,COc1ccc2NC(=O)C=C(C)c2c1,Non-sensitizer
+395,6-Methoxynaphthalene-2-carbaldehyde,3453-33-6,COc1ccc2cc(C=O)ccc2c1,Non-sensitizer
+396,6-Methylcoumarin,92-48-8,Cc1ccc2OC(=O)C=Cc2c1,Non-sensitizer
+397,8-[(4-Phthalimido-1-methylbutyl)amino]-2;6-dimethoxy-4-methyl-5-(3-trifluoromethylphenoxy)quinoline,106635-87-4,COc1cc(C)c2c(Oc3cccc(c3)C(F)(F)F)c(OC)cc(NC(C)CCCN3C(=O)c4ccccc4C3=O)c2n1,Non-sensitizer
+398,8-Acetoxycarvotanacetone,87578-93-6,CC(=O)OC(C)(C)C1CC=C(C)C(=O)C1,Non-sensitizer
+399,8-AMINO-6-METHOXY-4-METHYLQUINOLINE,57514-21-3,COc1cc(N)c2nccc(C)c2c1,Non-sensitizer
+400,'8-Hydroxy-5-[(1R)-1-hydroxy-2-[[2-[4-[(6-methoxy[1;1''-biphenyl]-3-yl)amino]phenyl]-ethyl]amino]ethyl]-2(1H)-quinolinone',530084-87-8,COc1ccc(Nc2ccc(CCNCC(O)c3ccc(O)c4NC(=O)C=Cc34)cc2)cc1-c1ccccc1,Non-sensitizer
+401,a-Amyl cinnamyl alcohol ,101-85-9,CCCCCC(CO)=Cc1ccccc1,Non-sensitizer
+402,Adipic acid,124-04-9,OC(=O)CCCCC(O)=O,Non-sensitizer
+403,Allyl acetate,591-87-7,CC(=O)OCC=C,Non-sensitizer
+404,Anthranilic acid,118-92-3,Nc1ccccc1C(O)=O,Non-sensitizer
+405,Atrazine,1912-24-9,CCNc1nc(Cl)nc(NC(C)C)n1,Non-sensitizer
+406,Beclomethasone-17-monopropionate,5534-18-9,CCC(=O)OC1(C(C)CC2C3CCC4=CC(=O)C=CC4(C)C3(Cl)C(O)CC12C)C(=O)CO,Non-sensitizer
+407,Benzaldehyde,100-52-7,O=Cc1ccccc1,Non-sensitizer
+408,Benzene; 1-methoxy-4-methyl-2-nitro,119-10-8,COc1ccc(C)cc1N(=O)=O,Non-sensitizer
+409,Benzenepropanol; acetate,122-72-5,CC(=O)OCCCc1ccccc1,Non-sensitizer
+410,Benzocaine,94-09-7,CCOC(=O)c1ccc(N)cc1,Non-sensitizer
+411,Benzoic acid,65-85-0,OC(=O)c1ccccc1,Non-sensitizer
+412,Benzyl alcohol ,100-51-6,OCc1ccccc1,Non-sensitizer
+413,'bis-1;3-(2'';5''-dimethylphenyl)-propane-1;3-dione',,Cc1ccc(C)c(c1)C(=O)CC(=O)c1cc(C)ccc1C,Non-sensitizer
+414,b-Terpinene,99-84-3,CC(C)C1=CCC(=C)CC1,Non-sensitizer
+415,Butyl benzyl phthalate,85-68-7,CCCCOC(=O)c1ccccc1C(=O)OCc1ccccc1,Non-sensitizer
+416,Chlorobenzene,108-90-7,Clc1ccccc1,Non-sensitizer
+417,Chlorpyrifos,2921-88-2,CCOP(=S)(OCC)Oc1nc(Cl)c(Cl)cc1Cl,Non-sensitizer
+418,cis-4-Cyano-4-[3-(cyclopentyloxy)-4-methoxyphenyl]cyclo-hexanecarboxylic acid,153259-65-5,COc1ccc(cc1OC1CCCC1)C1(CCC(CC1)C(O)=O)C#N,Non-sensitizer
+419,Clarithromycin,81103-11-9,CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(C2O)N(C)C)C(C)(CC(C)C(=O)C(C)C(O)C1(C)O)OC,Non-sensitizer
+420,Clofibrate,637-07-0,CCOC(=O)C(C)(C)Oc1ccc(Cl)cc1,Non-sensitizer
+421,Coumarin,91-64-5,O=C1Oc2ccccc2C=C1,Non-sensitizer
+422,Crotonyl thioglycerol,,OCC(O)CSC(=O)CC=C,Non-sensitizer
+423,Cyclooctanol,696-71-9,OC1CCCCCCC1,Non-sensitizer
+424,Cyclopentanepropanol,767-05-5,OCCCC1CCCC1,Non-sensitizer
+425,Cytosine hemihydrate,71-30-7,NC1=NC(=O)NC=C1,Non-sensitizer
+426,Diethyl phthalate,84-66-2,CCOC(=O)c1ccccc1C(=O)OCC,Non-sensitizer
+427,Dimethyl 4-cyano-4-(3-cyclopentyloxy-4-methoxyphenyl)-pimelate,152630-48-3,COC(=O)CCC(CCC(=O)OC)(C#N)c1ccc(OC)c(OC2CCCC2)c1,Non-sensitizer
+428,Dimethyl carbonate,616-38-6,COC(=O)OC,Non-sensitizer
+429,Dimethyl isophthalate,1459-93-4,COC(=O)c1cccc(c1)C(=O)OC,Non-sensitizer
+430,Dimethyl sulfone,67-71-0,CS(C)(=O)=O,Non-sensitizer
+431,Equol,531-95-3,Oc1ccc(cc1)C1COc2cc(O)ccc2C1,Non-sensitizer
+432,Ethyl (Z)-alpha-((2-(tert-butoxy)-1;1-dimethyl-2-oxoethoxy)imino)-2-(tritylamino)thiazol-4-acetate,68672-65-1,CCOC(=O)C(=NOC(C)(C)C(=O)OC(C)(C)C)c1csc(NC(c2ccccc2)(c2ccccc2)c2ccccc2)n1,Non-sensitizer
+433,Ethyl 1H-1;2;4-triazole-3-carboxylate,64922-04-9,CCOC(=O)c1nnc[nH]1,Non-sensitizer
+434,Ethyl 2;6-dichloro-5-fluoro-beta-oxo-3-pyridinepropanoate,96568-04-6,CCOC(=O)CC(=O)c1cc(F)c(Cl)nc1Cl,Non-sensitizer
+435,Ethyl benzoylacetate,94-02-0,CCOC(=O)CC(=O)c1ccccc1,Non-sensitizer
+436,Ethyl vanillin ,121-32-4,CCOc1cc(C=O)ccc1O,Non-sensitizer
+437,Formulation 21 (Sonet),86479-06-3,FC(F)C(F)(F)Oc1c(Cl)cc(NC(=O)NC(=O)c2c(F)cccc2F)cc1Cl,Non-sensitizer
+438,Formulation 34 (Aminopyralid),150114-71-9,Nc1cc(Cl)nc(C(O)=O)c1Cl,Non-sensitizer
+439,Formulation 4 (Clopyralid),1702-17-6,OC(=O)c1nc(Cl)ccc1Cl,Non-sensitizer
+440,Furil,492-94-4,O=C(C(=O)c1ccco1)c1ccco1,Non-sensitizer
+441,Geranyl nitrile,5146-66-7,CC(C)=CCCC(C)=CC#N,Non-sensitizer
+442,Glycerol,56-81-5,OCC(O)CO,Non-sensitizer
+443,Hexane,110-54-3,CCCCCC,Non-sensitizer
+444,Hydrocortisone,50-23-7,CC12CC(O)C3C(CCC4=CC(=O)CCC34C)C1CCC2(O)C(=O)CO,Non-sensitizer
+445,Isopropanol,67-63-0,CC(C)O,Non-sensitizer
+446,Isopropyl dicyandiamide,35695-36-4,CC(C)N(C#N)C#N,Non-sensitizer
+447,Isopropyl eugenol,51474-90-9,CC(C)Oc1cc(CC=C)ccc1O,Non-sensitizer
+448,Isopropyl glycerol ether,17226-43-6,CC(C)OCC(O)CO,Non-sensitizer
+449,Kanamycin,25389-94-0,NCC1OC(OC2C(N)CC(N)C(OC3OC(CO)C(O)C(N)C3O)C2O)C(O)C(O)C1O,Non-sensitizer
+450,Lactic acid,598-82-3,CC(O)C(O)=O,Non-sensitizer
+451,Lead acetate,6080-56-4,CC(O)=O,Non-sensitizer
+452,Linalool alcohol,,CC(C)(O)C=CCC(C)(O)C=C,Non-sensitizer
+453,M-Chloropropiophenone,34841-35-5,CCC(=O)c1cccc(Cl)c1,Non-sensitizer
+454,Methyl 4-hydroxybenzoate (methylparaben)      ,99-76-3,COC(=O)c1ccc(O)cc1,Non-sensitizer
+455,Methyl hexadecyl sulfonate,4230-15-3,CCCCCCCCCCCCCCCCS(=O)(=O)OC,Non-sensitizer
+456,Methyl salicylate,119-36-8,COC(=O)c1ccccc1O,Non-sensitizer
+457,N-(2;6-difluorophenyl)-5-methyl-[1;2;4]triazolo[1;5-a]pyrimidine-2-sulfonamide,98967-40-9,Cc1ccn2nc(nc2n1)S(=O)(=O)Nc1c(F)cccc1F,Non-sensitizer
+458,N-(2-chloro-4-pyrimidinyl)-2;3-dimethyl-2H-indazol-6-amine,444731-74-2,Cc1n(C)nc2cc(Nc3ccnc(Cl)n3)ccc12,Non-sensitizer
+459,N-(2-chloro-4-pyrimidinyl)-n;2;3-trimethyl-2H-indazol-6-amine,444731-75-3,CN(c1ccc2c(C)n(C)nc2c1)c1ccnc(Cl)n1,Non-sensitizer
+460,N;N-diethyl-m-toluamide,134-62-3,CCN(CC)C(=O)c1cccc(C)c1,Non-sensitizer
+461,N-[(1;1-dimethylethoxy)-carbonyl]-l-tyrosine; ethyl ester,72594-77-5,CCOC(=O)C(Cc1ccc(O)cc1)NC(=O)OC(C)(C)C,Non-sensitizer
+462,N-[(1-butyl-4-piperidinyl)methyl]-3;4-dihydro-2h-[1;3]oxazino[3;2-a]indole-10-carboxamide,152811-62-6,CCCCN1CCC(CNC(=O)c2c3OCCCn3c3ccccc23)CC1,Non-sensitizer
+463,N-[2-benzyloxy-5-(2-bromo-1-hydroxy-ethyl)-phenyl]-formamide,201677-59-0,OC(CBr)c1ccc(OCc2ccccc2)c(NC=O)c1,Non-sensitizer
+464,N-{[(1;1-dimethylethyl)oxy]carbonyl}-4-fluoro-beta-(4-fluorophenyl)-l-phenylalanine,481055-29-2,CC(C)(C)OC(=O)NC(C(c1ccc(F)cc1)c1ccc(F)cc1)C(O)=O,Non-sensitizer
+465,Neomycin sulfate,1405-10-3,NCC1OC(OC2C(CO)OC(OC3C(O)C(N)CC(N)C3OC3OC(CN)C(O)C(O)C3N)C2O)C(N)C(O)C1O,Non-sensitizer
+466,Nonanoic acid,112-05-0,CCCCCCCCC(O)=O,Non-sensitizer
+467,Octanenitrile,124-12-9,CCCCCCCC#N,Non-sensitizer
+468,Octanoic acid,124-07-2,CCCCCCCC(O)=O,Non-sensitizer
+469,p-Aminobenzoic acid,150-13-0,Nc1ccc(cc1)C(O)=O,Non-sensitizer
+470,Pentaerythritol triacrylate,3524-68-3,OCC(COC(=O)C=C)(COC(=O)C=C)COC(=O)C=C,Non-sensitizer
+471,Phenethyl alcohol,60-12-8,OCCc1ccccc1,Non-sensitizer
+472,Phenylmethyl 2-(4-fluoro-2-methylphenyl)-4-oxo-3;4-dihydro-1(2h)-pyridine-carboxylate,414909-98-1,Cc1cc(F)ccc1C1CC(=O)C=CN1C(=O)OCc1ccccc1,Non-sensitizer
+473,Propanoic acid; 3-bromo; methyl ester,3395-91-3,COC(=O)CCBr,Non-sensitizer
+474,Propylene glycol,57-55-6,CC(O)CO,Non-sensitizer
+475,Propylparaben,94-13-3,CCCOC(=O)c1ccc(O)cc1,Non-sensitizer
+476,Quinoxyfen,124495-18-7,Fc1ccc(Oc2ccnc3cc(Cl)cc(Cl)c23)cc1,Non-sensitizer
+477,Rifamycin,14897-39-3,COC1C=COC2(C)OC3=C(C2=O)C2=C(O)C=C(NC(=O)C(C)=CC=CC(C)C(O)C(C)C(O)C(C)C(OC(C)=O)C1C)C(O)=C2C(O)=C3C,Non-sensitizer
+478,Saccharin,81-07-2,O=C1NS(=O)(=O)c2ccccc12,Non-sensitizer
+479,Salicylic acid,69-72-7,OC(=O)c1ccccc1O,Non-sensitizer
+480,Streptomycin,3810-74-0,CNC1C(O)C(O)C(CO)OC1OC1C(OC2C(O)C(O)C(N=C(N)N)C(O)C2N=C(N)N)OC(C)C1(O)C=O,Non-sensitizer
+481,Succinic acid,110-15-6,OC(=O)CCC(O)=O,Non-sensitizer
+482,Sulfanilamide,63-74-1,Nc1ccc(cc1)S(N)(=O)=O,Non-sensitizer
+483,Sulfanilic acid,121-57-3,Nc1ccc(cc1)S(O)(=O)=O,Non-sensitizer
+484,Tartaric acid,87-69-4,OC(C(O)C(O)=O)C(O)=O,Sensitizer
+485,tert-Butyl-3-aminobenzoate,92146-82-2,CC(C)(C)OC(=O)c1cccc(N)c1,Non-sensitizer
+486,trans-2-Methyl-2-butenal,497-03-0,CC=C(C)C=O,Non-sensitizer
+487,Vanillin,121-33-5,COc1cc(C=O)ccc1O,Non-sensitizer
+488,Vinylidene dichloride,75-35-4,ClC(Cl)=C,Non-sensitizer
+489,Yellow E-JD 3442,147703-65-9,CCC(O)COc1ccc(cc1)N=Nc1ccc(N=Nc2cccc(c2)S(O)(=O)=O)c(NC(C)=O)c1,Non-sensitizer
