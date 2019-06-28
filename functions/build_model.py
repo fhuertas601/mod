@@ -127,6 +127,11 @@ def evaluate(m,x_ts,y_ts,path,verb):
 # calc coverage
 	print(sum(da) / len(da))
 
+# FUNCTION: save the model
+# m
+# acc_sc: accuracy of the model (from 'accuracy_score' variable rounded to
+# 2 decimal places), to not replace different models
+# path: path from <input> where all files with descriptors are contained
 def save(m,acc_sc,path):
 	model_name= path+'/modelRF_'+str(round(acc_sc,2))+'.pkl'
 	if os.path.isfile(model_name):
@@ -144,6 +149,7 @@ def save(m,acc_sc,path):
 # inp: path to the descriptors file <input>
 # d: .csv file with all data of the prediction dataset (ID,Compound name,
 # SMILES, CAS)
+#
 def predict(arg,path,inp,csv_file):
 # Part where database to be predicted is read and calculated
 ##p=f.calculate_desc_pred(calc,pred,desc_list,ndescs,verb)

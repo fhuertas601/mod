@@ -1,0 +1,187 @@
+1,C=12[C@@H]([C@@H](CCC1C)C(C)C)C=C(C)CC2,delta-cadinene,0
+2,CC1=CC2C(CC1)C(=C)CCC2C(C)C,gamma-muurolene,0
+3,CC1=C[C@@H]2[C@H](CC1)C(=CC[C@H]2C(C)C)C,alpha-muurolene,0
+4,CC(=C)[C@@H]1CC[C@@]2(C)CCC=C(C)[C@@H]2C1,alpha-selinene,0
+5,CC1=CCCC(=C)C2CC(C2CC1)(C)C,beta-caryophylene,0
+6,C([C@@H]1CC=C(C)C=C1)(C)C,alpha-phellandrene,1
+7,C1(=C(\C)C)\CCC(C)=CC1,terpinolene,1
+8,CC(C)CCCC(C)CCCC(C)CCCC(=CCO)C,phytol,0
+9,C[C@@](O)(CC[C@H]1[C@](C)(O)CC[C@H]2C(C)(C)CCC[C@]12C)C=C,sclareol,0
+10,CC(C)CCCC(C)CCCC(C)CCCC(C)(C=C)O,phytol isomer,0
+11,CC1=CCCC(=CCC=C(C=CC(CC1)C(C)C)C)C,cembrene,0
+12,CC(C)C1=CC2=CCC3C(CCCC3(C2CC1)C)(C)CO,abietol,0
+13,CC1(CCCC2(C1CC=C3C2CCC(C3)(C)C=C)C)C,isopimara-7;15-diene,0
+14,C([C@@H](CCC[C@@H](CC)C)C)CC[C@@H](CCCC(C)C)C,phytane,0
+15,CC1=CC[C@H](CC1)[C@@](C)(CCC=C(C)C)O,alpha-bisabolol,0
+16,c1(C(C)C)ccc(C)cc1,p-cymene,1
+17,C(CC\C=C(\C)C)(C=C)=C,myrcene,1
+18,CC(C)[C@@H]1CC[C@@H](C)C[C@H]1O,menthol,1
+19,CC(=CCC=C(C)C=C)C,(e)-beta-ocimene,0
+20,COC1=C(C=CC(=C1)CC=C)O,eugenol,1
+21,C[C@@H]1CCC(=C(C)C)C(=O)C1,pulegone,1
+22,CC(C)=CCC\C(C)=C\COC(C)=O,geranyl acetate,1
+23,C1([C@@H](CC[C@@H](C1)C)C(C)C)=O,menthone,1
+24,C1([C@@H](CCC(=C1)C)C(C)C)=O,piperitone,1
+25,COc1ccc(cc1OC)CC=C,methyl eugenol,1
+26,C1[C@@]2(CC(=O)[C@H]([C@@H]12)C)C(C)C,beta-thujone,1
+27,CC1=CCC2([C@H]1C2)C(C)C,alpha-thujene,0
+28,C(CC/C=C(/C)C)(CCO)C,citronellol,1
+29,C([C@@](OC(C)=O)(C=C)C)C\C=C(\C)C,linalyl acetate,1
+30,CC(=C)C1CC=C(C)C(=O)C1,carvone,1
+31,C1C[C@@]2(C)C(C([C@H]1C2)(C)C)=O,fenchone,1
+32,O=C(OC([C@H]1CCC(=CC1)C)(C)C)C,alpha-terpinyl acetate,1
+33,C1(=C(\C)C)\C(=O)C=C(CC1)C,piperitenone,1
+34,C1(C)([C@@H]2C[C@H]1C(=CC2)CO)C,myrtenol,1
+35,CC(C)C12CCC(C1C2)(C)O,trans-sabinene hydrate,1
+36,CC1(C2CC1C(=C)C(=O)C2)C,pinocarvone,1
+37,Cc1coc2c1CC[C@@H](C2)C,menthofuran,1
+38,CC1([C@@H]2CC=C([C@H]1C2)C=O)C,myrtenal,1
+39,CC(=C)[C@@H]1CC=C(C)[C@H](O)C1,cis-carveol,1
+40,C(=C\CO)(\CC/C=C(/C)C)C,nerol,1
+41,CC1(C)[C@@H]2CC[C@@]1(C)[C@H](O)C2,isoborneol,1
+42,C1([C@H]2C(=CC(=O)[C@@H]1C2)C)(C)C,verbenone,1
+43,C12([C@@H]3CC(C2(C)C)C[C@@H]13)C,tricyclene,0
+44,C([C@@H](CCOC(C)=O)C)C\C=C(/C)C,citronellyl acetate,1
+45,C=1(C(C=C(C)C(C1)=O)=O)C(C)C,thymoquinone,1
+46,CC(=C)[C@H]1CC=C(C)[C@H](O)C1,trans-carveol,1
+47,C(\CC\C=C(/C)C)(=C\CCC(C)=O)C,geranyl acetone,1
+48,C(=C\C\C=C(\C)C)(\C=C)C,trans-beta-ocimene,0
+49,C([C@@H](CCOC=O)C)C\C=C(\C)C,citronellyl formate,1
+50,CC(C)(C1CCC(=C)CC1)O,delta-terpineol,1
+51,CC(C)[C@@]12CC[C@@](C)(OO1)C=C2,ascaridole,1
+52,C(=C\C\C=C(\C)C)(\C=C)C,beta-ocimene,0
+53,CC1=CCC(=C(C)C)CC1,alpha-terpinolene,1
+54,CC1([C@@H]2C[C@H]1C(=C)[C@@H](C2)O)C,cis-pinocarveol,1
+55,O[C@H]1C=C(CC[C@H]1C(C)C)C,cis-piperitol,1
+56,O[C@H]1C=C(CC[C@@H]1C(C)C)C,trans-piperitol,1
+57,C(=C/C\C=C(\C)C)(\C=C)C,cis-beta-ocimene,0
+58,CC1=CCC(CC1)(C(C)C)O,4-terpineol,1
+59,COc1cc(cc(c1O[C@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CO)O)O)O)OC)/C=C/CO,beta-terpineol,0
+60,CC(=C)[C@@H]1CC[C@@]2([C@H](C1)O2)C,cis-limonene oxide,1
+61,C12C(=C)C(CC(C1(C)C)C2)O,pinocarveol,1
+62,CC(=C)/C=C/C[C@](C)(C=C)O,hotrienol,1
+63,CC(=C)[C@H]1CC[C@@]2([C@H](C1)O2)C,trans-limonene oxide,1
+64,CC1=CCC2CC1C2(C)C,(-)-alpha-pinene,1
+65,CC(=C)[C@H]1CC[C@](CC1)(O)C,trans-beta-terpineol,1
+66,CC1(C2CCC(=C)C1C2)C,(-)-beta-pinene,1
+67,CC1=CCC2CC1C2(C)C,(+)-alpha-pinene,1
+68,CC1=C[C@@H]2[C@H](CC1)C2(C)C,2-carene,1
+69,CC(=C)[C@H]1CC[C@@](CC1)(O)C,cis-beta-terpineol,1
+70,CC(C)C12CCC(C1C2)(C)O,sabinene hydrate,1
+71,C([C@@H]1CCC(C)=CC1)(C)=C,(+)-limonene,1
+72,C1[C@@H]([C@@H](C=C(C)C1)O)C(C)C,piperitol,1
+73,CC1=CCC(CC1O)C(=C)C,carveol,1
+74,CC1=CCC(CC1)C(=C)C,(-)-limonene,1
+75,C1[C@@]2([C@@H](C(C)(C)[C@@H]1CC2)O)C,fenchol,1
+76,CC(=CCCC(C)(C=C)O)C,(+)-linalool,1
+77,C(CC\C=C(\C=C)C)(=C)C,alpha-ocimene,1
+78,C1(C(=C(C)CC[C@@H]1C(C)C)O)=O,diosphenol,1
+79,CC(C)[C@]12C[C@@H](O)C(=C)[C@H]1C2,sabinol,1
+80,O1[C@@]2(CC[C@@H](C(=C)C)C[C@@H]12)C,limonene oxide,1
+81,CC(=C)C1CCC(CC1)(C)O,(e)-beta-terpineol,1
+82,C1(C(O)=O)=CC[C@@H](C(=C)C)CC1,perillic acid,1
+83,CC1=CCC2(C1C2)C(C)C,(+)-alpha-thujene,0
+84,CC(=CCCC(C)(C=C)O)C,(-)-linalool,1
+85,CC1=CCC2([C@H]1C2)C(C)C,(-)-alpha-thujene,0
+86,CC(=C)CCC=C(C)C=C,(z)-alpha-ocimene,1
+87,O=C(OC1(CC\C(=C(/C)C)CC1)C)C,gamma-terpinyl acetate,1
+88,CC(C)c1ccc(cc1)C=O,cuminaldehyde,1
+89,CC1(C2CCC(=C)C1C2)C,(+)-beta-pinene,1
+90,CC(C)[C@@H]1CC=C(C)[C@@H]2CCC(=C[C@@H]12)C,alpha-cadinene,0
+91,C1C[C@@](C)(O)[C@@H]2CCC(=C[C@@H]2[C@@H]1C(C)C)C,alpha-cadinol,0
+92,CC(C)[C@@H]1CC\C(=C\CCC(=C)\C=C\1)\C,germacrene d,0
+93,C[C@@]12CC[C@@H]3[C@H](CC3(C)C)C(=C)CC[C@H]1O2,caryophyllene oxide,1
+94,C=1([C@@H]2[C@@H](CC(=CC2)C)CC(CC1)(C)C)C,bicyclogermacrene,0
+95,CC1=CCC(C=CCC(=CCC1)C)(C)C,alpha-humulene,0
+96,CC(=C)[C@@H]1CC[C@@](C)(C=C)[C@@H](C1)C(=C)C,beta-elemene,0
+97,CC(=CCCC(=C)[C@H]1CCC(=CC1)C)C,beta-bisabolene,1
+98,CC1=CC[C@@H]2[C@@H]3[C@H]1[C@]2(CC[C@@H]3C(C)C)C,alpha-copaene,1
+99,C1([C@@H]2[C@@]3(CC1)[C@@H](CC[C@H]([C@@H]23)C(C)C)C)=C,beta-cubebene,0
+100,C1[C@H]2[C@@](CC[C@@H]1C(C)=C)(CCCC2=C)C,beta-selinene,0
+101,C(C=C)(CC\C=C(\CC\C=C(\C)C)C)=C,(e)-beta-farnesene,1
+102,C1(=CCCC(=CC\C(CC1)=C(\C)C)C)C,germacrene b,0
+103,C1C[C@@H]([C@@H]2[C@@H]3[C@@H](CCC([C@@H]12)=C)C3(C)C)C,aromadendrene,0
+104,c12c(ccc2C)c(ccc(c1)CC)C,chamazulene,1
+105,CC1CCC2C1C3C(C3(C)C)CCC2=C,allo-aromadendrene,0
+106,C1C([C@@H]2[C@H]3[C@H](C(C)C)CC[C@@]3([C@H]2C1)C)=C,beta-bourbonene,0
+107,C[C@H]1CC[C@H](CC2=C1CC[C@@H]2C)C(C)(C)O,guaiol,0
+108,CC(=C1CCC(C(C1)C(=C)C)(C)C=C)C,gamma-elemene,0
+109,C=12[C@@H](C(CCCC1C)(C)C)C=C(C)CC2,beta-himachalene,1
+110,CC1=CCC(C=CCC2(C(O2)CC1)C)(C)C,humulene epoxide ii,0
+111,C1[C@@H](C)[C@H]2CCC(=C2[C@@H]2[C@@H](C1)C2(C)C)C,alpha-gurjunene,0
+112,CC(=CCC/C(=C\CCC(=C)C=C)/C)C,(z)-beta-farnesene,1
+113,C\C(=C\CC[C@]1(C)C2C[C@@H]3[C@H](C2)C13C)\CO,alpha-santalol,0
+114,CC(=CCCC(=CCC=C(C)C=C)C)C,(e;e)-alpha-farnesene,1
+115,C[C@@H]1CC[C@@H]2[C@@H](C2(C)C)[C@H]3[C@@H]1CCC3=C,beta-gurjunene,0
+116,C=1(CC[C@@H]2[C@@H](C(CCC1)=C)CC2(C)C)C,isocaryophyllene,0
+117,CC1=CC2C(CC1)C(=CCC2C(C)C)C,alpha-cadinene,0
+118,CC(C)[C@H]1CC[C@]2(C)CC=C(C)CC[C@]12O,carotol,0
+119,C(\C)(=C\CC[C@@]1([C@@H]2C(=CC[C@@H]1C2)C)C)C,alpha-bergamotene,0
+120,C12=C([C@@H](CC[C@@H](C(=C)C)C1)C)CC[C@@H]2C,alpha-guaiene,1
+121,C[C@@H]1CC[C@H]2C(C)(C)[C@H]3C[C@@]12CC[C@@]3(C)O,cedrol,1
+122,C1C[C@H]([C@@H]2[C@H]3C(CC[C@@H]2[C@@]13C)=C)C(C)C,beta-copaene,1
+123,C(C=C)(CC\C=C(\CC\C=C(\C)C)C)=C,beta-farnesene,1
+124,C(=C\C/C=C(/C=C)C)(/CC/C=C(\C)C)C,alpha-farnesene,1
+125,CC1=C2C=C(CCC2(CCC1)C)C(C)C,delta-selinene,0
+126,C/C(=C/CC[C@@]1([C@H]2CC[C@H](C2)C1=C)C)/CO,beta-santalol,0
+127,CC(C)[C@@H]1CC[C@@]2(C)[C@@H]3CC=C(C)[C@H]2[C@H]13,ylangene,1
+128,c12c(c(ccc1C(C)C)C)ccc(c2)C,cadalene,1
+129,CC1(C)CCC[C@@]2(C)[C@@H]3CC[C@@H]([C@H]13)C2=C,longifolene,0
+130,C[C@@H]1CCC2=C(C)CC[C@@H]3[C@H]([C@H]12)C3(C)C,ledene,0
+131,C1(=CCC(/C(=C/C/C=C(\C)C)C)CC1)C,alpha-bisabolene,1
+132,C1[C@@H]2[C@H](C(=CC[C@H]2C(C)C)C)CC=C1C,beta-cadinene,0
+133,C(=C\CC\C(=C\CO)C)(\CC\C=C(\C)C)C,farnesol,1
+134,c1cc(ccc1C)[C@@]1(CCCC1(C)C)C,cuparene,1
+135,c1cc(ccc1C)[C@@H](C)CC\C=C(\C)C,alpha-curcumene,1
+136,CC1=CC/C(=C(\C)/CCC=C(C)C)/CC1,(e)-gamma-bisabolene,1
+137,CC(=CCC/C(=C/C/C=C(/C)\C=C)/C)C,(z;e)-alpha-farnesene,1
+138,C(\C(=C\[C@H]1C2=C(CC[C@@H]2[C@@H](CC1)C)C)C)=O,valerenal,0
+139,CC1=CC/C(=C(/C)\CCC=C(C)C)/CC1,(z)-gamma-bisabolene,1
+140,C1(CC=C(CCC=C(CC=C1)C)C)(C)C,humulene,0
+141,C(C=C)(CC\C=C(\CC\C=C(\C)C)C)=C,beta-farnesene,1
+142,CC(=CCC/C(=C\CCC(=C)C=C)/C)C,cis-beta-farnesene,1
+143,C1[C@@H]([C@@](CC\C=C(/C)C)(C)O)CC=C(C1)C,bisabolol,0
+144,C1([C@@H]2[C@@H]1CCC([C@@H]1[C@@H]2[C@@H](CC1)C)=C)(C)C,alloaromadendrene,0
+145,C=12[C@@H](C(CCCC1C)(C)C)C=C(C)CC2,himachalene,1
+146,C1(=C(\CC\C=C(\C)C)C)\CCC(C)=CC1,gamma-bisabolene,1
+147,C1[C@@H]([C@@](CC\C=C(/C)C)(C)O)CC=C(C1)C,alpha-bisabolol,0
+148,C1(=C(\CC\C=C(\C)C)C)\CCC(C)=CC1,bisabolene,1
+149,CC(=CCC/C(=C\C/C=C(/C)\C=C)/C)C,(z;z)-alpha-farnesene,1
+150,C1C(=O)C=C2CC[C@@H](C[C@@]2([C@@H]1C)C)C(C)=C,nootkatone,1
+151,C[C@@H]1CC[C@H]([C@@H]2[C@H]1CCC(=C2)C)C(=C)C,amorpha-4;11-diene,0
+152,CC(C)[C@@H]1CC[C@@]2(C)[C@H]3CC=C(C)C2[C@@H]13,copaene,1
+153,C1[C@H]([C@@]2(C[C@@H](CC=C2CC1)C(=C)C)C)C,aristolochene,0
+154,CC1=CC/C(=C(/C)\CCC=C(C)C)/CC1,cis-gamma-bisabolene,1
+155,CC1CCC2C13CCC(C(C3)C2(C)C)(C)O,epi-cedrol,1
+156,C(\C(=C\[C@H]1C2=C(CC[C@@H]2[C@@H](CC1)C)C)C)(=O)O,valerenic acid,1
+157,C[C@@H]1CC[C@@H]2CC3=C(C)CC[C@]13C2(C)C,cyperene,0
+158,CC(=CCCC(=CCC=C(C)C=C)C)C,farnesene (unknown isomer),1
+159,c12c(c(ccc(c1)C(C)C)C)ccc2C,guaiazulene,1
+160,C/C/1=C\CC/C(=C/C[C@@H](CC1)C(=C)C)/C,germacrene A,0
+161,C/C/1=C\CC/C(=C/CC(=C(C)C)CC1)/C,germacrene B,0
+162,C/C/1=C\CC/C(=C/C=C(\CC1)/C(C)C)/C,germacrene C,0
+163,CC\1CC/C=C(/CCC(/C=C1)C(=C)C)\C,germacrene E,0
+164,C/C/1=C\CC/C(=C/C[C@H](CC1)C(C)C)/C,germacrene,0
+165,CC(C)C1=CC2C(=C)CCCC2(CC1)C,sibirene,1
+166,CC1CCC2C1C3C(C3(C)C)CCC2=C,alpha-aromadendrene,0
+167,C[C@H]1[C@@H]2CC[C@@]3(C)C=CC(=O)C(=C3[C@H]2OC1=O)C,alpha-santonin,1
+168,CC(=C1CC(C(CC1=O)(C)C=C)C(=C)C)C,beta-elemenone,1
+169,CC1=CCC(CC1)C(=CCC=C(C)C)C,trans-alpha-bisabolene,1
+170,CC(CCC=C(C)C)C1CCC(=C)C=C1,beta-sesquiphellandrene,1
+171,C1([C@@H]2CCC([C@@H]3CC[C@]([C@@H]3[C@H]12)(C)O)=C)(C)C,spathulenol,0
+172,C[C@@H]1CC[C@H]2[C@@H]1[C@H]3[C@@H](CC[C@]2(C)O)C3(C)C,viridiflorol,0
+173,C([C@@](O)(CC\C=C(\CC\C=C(/C)C)C)C)=C,(e)-nerolidol,0
+174,CC1=C[C@H]2[C@@H](CC[C@@]([C@@H]2CC1)(C)O)C(C),alpha-cadinol,1
+175,C[C@@H]1CC[C@@H]2[C@@H]1[C@H]3[C@H](C3(C)C)CC[C@@]2(C)O,globulol,0
+176,CC1=C2C[C@@H](CC[C@]2(CCC1)C)C(C)(C)O,gamma-eudesmol,0
+177,CC1=CCCC(C=CC(CC1)C(C)C)(C)O,germacrene d-4-ol,0
+178,C[C@H]1CC[C@@H]2[C@H]1[C@@H]3[C@H](CC[C@]2(C)O)C3(C)C,ledol,0
+179,CC1CCC(C2C1(CCC(=C2)C)O)C(C)C,1-epi-cubenol,0
+180,CC(=CCC/C(=C/CCC(C)(C=C)O)/C)C,nerolidol,0
+181,CC(=CCC\C(=C/CC[C@](C)(O)C=C)\C)C,(z)-nerolidol,0
+182,C1[C@@]([C@@H]2CCC(=C[C@H]2[C@@H](C1)C(C)C)C)(O)C,t-cadinol,0
+183,CC1=C[C@H]2[C@@H](CC[C@]([C@H]2CC1)(C)O)C(C)C,t-muurolol,0
+184,CC1=CC2C(CCC(C2CC1)(C)O)C(C)C,10-epi-alpha-cadinol,0
+185,C([C@@](O)(CC\C=C(\CC\C=C(/C)C)C)C)=C,trans-nerolidol,0
+186,CC(=CCC\C(=C/CC[C@](C)(O)C=C)\C)C,cis-nerolidol,0
+187,C1=2[C@@]([C@@]3([C@@H]([C@@]4(CC[C@@H](C([C@@H]4CC3)(C)C)O)C)CC2)C)(CC[C@@]2(CCC(C[C@@H]12)(C)C)C)C,beta-amyrin,1

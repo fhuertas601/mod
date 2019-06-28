@@ -1,6 +1,0 @@
-ID,Compound name,CASRN,SMILES,Activity
-0,(2E)-2-[(2-formyl-4-hydroxyphenyl)-methylidene]-butanedioic acid,773059-57-7,OC(=O)CC(=Cc1ccc(O)cc1C=O)C(O)=O,Sensitizer
-1,(4R;5S)-1;5-Dimethyl-3-(1-oxo-2-propenyl)-4-phenyl-2-imidazo-lidinone,139109-23-2,CC1C(N(C(=O)C=C)C(=O)N1C)c1ccccc1,Non-Sensitizer
-2,(5R)-5-Isopropenyl-2-methyl-1-methylene-2-cyclohexene,,CC(=C)C1CC=C(C)C(=C)C1,Sensitizer
-3,'1-(2'';3'';4'';5''-Tetramethylphenyl)butane-1;3-dione',167998-73-4,CC(=O)CC(=O)c1cc(C)c(C)c(C)c1C,Sensitizer
-4,1-(2;3-epoxypropoxy)-2;2-bis[(2;3-epoxypropoxy)methylbutane,3454-29-3,CCC(COCC1CO1)(COCC1CO1)COCC1CO1,Non-Sensitizer

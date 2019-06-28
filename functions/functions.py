@@ -1,6 +1,7 @@
 from rdkit import Chem
+from datetime import datetime
 import numpy as np
-import math
+import math, os
 def calculate_desc_pred(calc,dat,desc_list,ndescs,verb):
     desc = {}
 # Arrays are defined as floats from the beginning
@@ -24,8 +25,14 @@ def calculate_desc_pred(calc,dat,desc_list,ndescs,verb):
 
     return desc_array
 
-def calculate_desc(calc,dat,desc_list,ndescs,verb):
+def calculate_desc(calc,dat,desc_list,ndescs,path,verb):
     desc = {}
+# Create folder 'desc_data' with today's date and time to save the files
+# with the info of the descriptors
+    date=datetime.now()
+    date_string = date.strftime("%d.%m.%Y_%H.%M")
+    desc_data=str(path+'/desc_data_'+date_string)
+    os.mkdir(desc_data)
 # Arrays are defined as floats from the beginning
     desc_array = np.zeros([dat.shape[0],ndescs])
     activity=np.zeros(dat.shape[0],dtype=int)
@@ -55,16 +62,22 @@ def calculate_desc(calc,dat,desc_list,ndescs,verb):
             	print('Active compound')
             else:
             	print('ERROR: No correct activity specified')
-
-        for j in range(0,ndescs):
-            if dat.loc[i,'SMILES'] is not None:
+        comp_name=str(dat.loc[i,'Compound name'])
+        filename=str(desc_data+'/'+str(dat.loc[i,'ID'])+'_'+comp_name.replace("/","")+'.desc')
+        chars="(); "
+        for k in chars:
+        	filename=filename.replace(k,"")
+        with open(filename,'w+') as f:
+        	for j in range(0,ndescs):
+        		if dat.loc[i,'SMILES'] is not None:
             # Print the name (stored in desc_list) and calculated descriptor
-            	desc_value = calc(Chem.MolFromSmiles(row['SMILES']))[j];
-            	store=np.append(store,desc_value)
+        			desc_value = calc(Chem.MolFromSmiles(row['SMILES']))[j];
+        			store=np.append(store,desc_value)
 # Print the descriptors for each SMILES and whether it is taken as test or
 # training molecule
-            	if verb: 
-            		print(j,' ',desc_list.loc[j,'name'],'=',desc_value)
+        			if verb: 
+        				print(j,' ',desc_list.loc[j,'name'],'=',desc_value)
+        			f.write(str(j)+' '+str(desc_list.loc[j,'name'])+' '+str(desc_value)+'\n')
 # desc_array stores all the descriptors. 
 # Row: compound by ID (i.e.: row 0 contains all descriptors of compound
 # with ID = 0)
