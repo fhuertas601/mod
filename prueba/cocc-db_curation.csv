@@ -78,7 +78,7 @@ ID,Compound name,SMILES,CAS,Activity
 77,Rabdophilin G,C1(C)(C)CC[C@@H]2OC([C@@]34C(C([C@@H](C[C@@H]([C@@H]3[C@@]2(COC(C)=O)[C@@H]1CO)O)C4)=C)=O)=O,82460-75-1,0
 78,Rotenone,c12c3c(O[C@H](C3)C(=C)C)ccc1C(=O)[C@@H]1[C@H](O2)COc2c1cc(c(c2)OC)OC,83-79-4,0
 79,Rufocromycin,Cc1c(c(c(nc1C(=O)O)c2ccc3c(n2)C(=O)C(=C(C3=O)OC)N)N)c4ccc(c(c4O)OC)OC,3930-19-6,0
-80,Vinervine,C/C=C\1CN2CC[C@]35/C(=C(C(=O)O)\[C@H]1C[C@H]23)Nc4ccccc45,,0
+80,Vinervine,￼￼￼￼￼￼C/C=C\1CN2CC[C@]35/C(=C(C(=O)O)\[C@H]1C[C@H]23)Nc4ccccc45,,0
 81,Hisfen,C([C@@H](NC(=O)Cc1ccc(cc1)N(CCCl)CCCl)Cc1c[nH]cn1)(=O)OC,2764-56-9,0
 82,Holacanthone,C1(=O)C[C@@H]([C@@H]2[C@@]([C@@H]1O)(C)[C@@H]1[C@]34[C@@H]([C@H]([C@H]([C@@]1(O)OC4)O)C)[C@@H](OC(C)=O)C(=O)O[C@H]3C2)C,77648-51-2,0
 83,Irisquinone A,C1(OC)=CC(=O)C=C(CCCCCCCCC\C=C/CCCCCC)C1=O,56495-82-0,0

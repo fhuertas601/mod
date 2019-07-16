@@ -1,0 +1,9 @@
+ID,Compound name,SMILES,CAS
+1,Alpha-isomethyl ionone,CC(=O)C(C)=CC1C(C)=CCCC1(C)C,
+2,Coumarin,O=C1Oc2ccccc2C=C1,
+3,Benzyl benzoate,O=C(OCc1ccccc1)c1ccccc1,
+4,Vanillin,c1(C=O)cc(OC)c(O)cc1,
+5,Vanillin bis,COc1cc(C=O)ccc1O,
+6,Citral,CC(C)=CCCC(C)=CC=O,
+7,Majantol,CC1=CC(=CC=C1)CC(C)(C)CO,
+8,Sclareol,CC1(C)CCC[C@@]2(C)[C@@]1([H])CC[C@@](C)(O)[C@@H]2CC[C@](O)(C)C=C,

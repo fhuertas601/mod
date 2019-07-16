@@ -1,36 +1,94 @@
-from rdkit import Chem
+from rdkit import Chem 
 from datetime import datetime
 import numpy as np
-import math, os
-def calculate_desc_pred(calc,dat,desc_list,ndescs,verb):
+import pandas as pd
+import math, os, sys
+
+def calculate_desc_pred(calc,dat,path,inp,date_string,verb):
     desc = {}
+    desc_data=str(path+'/desc_data_'+date_string)
+    os.mkdir(desc_data)
 # Arrays are defined as floats from the beginning
-    desc_array = np.zeros([dat.shape[0],ndescs])
+    desc_array = np.zeros([dat.shape[0],len(calc)])
     for i, row in dat.iterrows():
-        store= []
         if verb:
             print()
             print('ID','    Compound name')
             print('-------------------------------')
             print(dat.loc[i,'ID'],'   ',dat.loc[i,'Compound name'].replace(";",","))
             print(dat.loc[i,'SMILES']) 
-        for j in range(0,ndescs):
-            if dat.loc[i,'SMILES'] is not None:
-            # Print the name (stored in desc_list) and calculated descriptor
-            	desc_value = calc(Chem.MolFromSmiles(row['SMILES']))[j];
-            	store=np.append(store,desc_value)
-            	if verb: 
-            		print(j,' ',desc_list.loc[j,'name'],'=',desc_value)
-        desc_array[i]=store
+        comp_name=str(dat.loc[i,'Compound name'])
+        if dat.loc[i,'ID'] < 10:
+        	filename=str(desc_data+'/'+str(dat.loc[i,'ID']).zfill(2)+'_'+comp_name.replace("/","")+'.desc')
+        else:
+        	filename=str(desc_data+'/'+str(dat.loc[i,'ID'])+'_'+comp_name.replace("/","")+'.desc')
+        with open(filename.replace(" ",""),'w+') as f:
+# Print the name (stored in dscpts_name) and calculated descriptor
+        	if dat.loc[i,'SMILES'] is not None:
+        		desc_value = calc(Chem.MolFromSmiles(row['SMILES']))
+        		for key, value in desc_value.items():
+        			f.write(str(key)+' '+str(value)+'\n')
+        with open(path+'/'+inp+'_names.dat','w+') as f:
+        	for key, value in desc_value.items():
+        		f.write(str(key)+'\n')
+        desc_array[i]=list(desc_value.values())
 
     return desc_array
 
-def calculate_desc(calc,dat,desc_list,ndescs,path,verb):
+def calculate_pred(calc,dat,path,inp,date_string,verb):
+    desc = {}
+    desc_data=str(path+'/prediction_data_'+date_string)
+    os.mkdir(desc_data)
+# Arrays are defined as floats from the beginning
+    desc_array = np.zeros([dat.shape[0],len(calc)])
+    for i, row in dat.iterrows():
+        if verb:
+            print()
+            print('ID','    Compound name')
+            print('-------------------------------')
+            print(dat.loc[i,'ID'],'   ',dat.loc[i,'Compound name'].replace(";",","))
+            print(dat.loc[i,'SMILES']) 
+        comp_name=str(dat.loc[i,'Compound name'])
+        if dat.loc[i,'ID'] < 10:
+        	filename=str(desc_data+'/'+str(dat.loc[i,'ID']).zfill(2)+'_'+comp_name.replace("/","")+'.desc')
+        else:
+        	filename=str(desc_data+'/'+str(dat.loc[i,'ID'])+'_'+comp_name.replace("/","")+'.desc')
+        with open(filename.replace(" ",""),'w+') as f:
+# Print the name (stored in dscpts_name) and calculated descriptor
+        	if dat.loc[i,'SMILES'] is not None:
+        		desc_value = calc(Chem.MolFromSmiles(row['SMILES']))
+        		for key, value in desc_value.items():
+        			f.write(str(key)+' '+str(value)+'\n')
+        desc_array[i]=list(desc_value.values())
+
+# Indices are integers
+    ind=[i for i in range(0,desc_array.shape[0])]
+# Take dropped descriptors to again drop them in the 
+    dropp_names= [s for s in os.listdir(path) if "_nan_dropped.dat" in s]
+    with open(path+'/'+dropp_names[0],'r') as f:
+    	dropp_names = [line.split(' ')[0] for line in f]
+    names= [s for s in os.listdir(path) if "_names.dat" in s]
+    with open(path+'/'+names[0],'r') as f:
+    	names=f.read().splitlines()
+
+# Store descriptors as df, with integers as indices and descriptor names as
+# columns
+    data=pd.DataFrame(data=np.float_(desc_array[0:,0:]),index=ind,columns=names)
+# AtomTypeEState that are NaN, set to zero
+    AtomTypeEState_names=names[933:1249]
+    zero=[0.0]*len(AtomTypeEState_names)
+    AtomTypeEState=dict(zip(AtomTypeEState_names, zero))
+# Assign AtomTypeEState descriptors that are NaN with value 0.0
+    data=data.fillna(value=AtomTypeEState)
+# Drop columns that have been removed to build the model
+    drop=data.drop(columns=dropp_names)
+
+    return drop 
+
+def calculate_desc(calc,dat,dscpts_name,ndescs,path,date_string,verb):
     desc = {}
 # Create folder 'desc_data' with today's date and time to save the files
 # with the info of the descriptors
-    date=datetime.now()
-    date_string = date.strftime("%d.%m.%Y_%H.%M")
     desc_data=str(path+'/desc_data_'+date_string)
     os.mkdir(desc_data)
 # Arrays are defined as floats from the beginning
@@ -63,27 +121,26 @@ def calculate_desc(calc,dat,desc_list,ndescs,path,verb):
             else:
             	print('ERROR: No correct activity specified')
         comp_name=str(dat.loc[i,'Compound name'])
-        filename=str(desc_data+'/'+str(dat.loc[i,'ID'])+'_'+comp_name.replace("/","")+'.desc')
-        chars="(); "
-        for k in chars:
-        	filename=filename.replace(k,"")
-        with open(filename,'w+') as f:
-        	for j in range(0,ndescs):
+        if dat.loc[i,'ID'] < 10:
+        	filename=str(desc_data+'/'+str(dat.loc[i,'ID']).zfill(2)+'_'+comp_name.replace("/","")+'.desc')
+        else:
+        	filename=str(desc_data+'/'+str(dat.loc[i,'ID'])+'_'+comp_name.replace("/","")+'.desc')
+        with open(filename.replace(" ",""),'w+') as f:
+        	for j in range(ndescs):
         		if dat.loc[i,'SMILES'] is not None:
-            # Print the name (stored in desc_list) and calculated descriptor
+# Print the name (stored in dscpts_name) and calculated descriptor
         			desc_value = calc(Chem.MolFromSmiles(row['SMILES']))[j];
         			store=np.append(store,desc_value)
 # Print the descriptors for each SMILES and whether it is taken as test or
 # training molecule
         			if verb: 
-        				print(j,' ',desc_list.loc[j,'name'],'=',desc_value)
-        			f.write(str(j)+' '+str(desc_list.loc[j,'name'])+' '+str(desc_value)+'\n')
+        				print(j+1,' ',dscpts_name[j],'=',desc_value)
+        			f.write(str(j+1)+' '+str(dscpts_name[j])+' '+str(desc_value)+'\n')
 # desc_array stores all the descriptors. 
 # Row: compound by ID (i.e.: row 0 contains all descriptors of compound
 # with ID = 0)
 # Column: descriptor by ID (i.e.: column 0 has #compounds entries of ABC
 # descriptor)
-#        desc_array([i])=store[:] print(desc_array.shape) print(desc_array.shape)
         desc_array[i]=store
 
     return desc_array, activity
@@ -142,4 +199,35 @@ def chir(chiraltag):
 		ew=math.exp(exp)
 
 	return(exp,ew)
+
+def col_to_row(path,ndescs,date_string):
+# Get descriptors form the .desc files into an array, that can be used to
+# generate the model/make the prediction. Files must end as .desc, and
+# start with a number. They are already saved that way, so the code can be
+# directly used with the files from the original calculation
+	a=0
+# <mat> contains the descriptors
+	mat = np.zeros((len(os.listdir(path)),ndescs))
+	for f in sorted(os.listdir(path)):
+# Consider only files ending with .desc
+		if f.split('.')[1] == 'desc':
+			y=open(path+'/'+f,"r")
+			lines=y.readlines()
+			result=[]
+# Convert value to float, but if that's not possible (because the column is
+# a string and a ValueError is raised, print NaN value instead
+			for x in lines:
+				try:
+					result.append(float(x.split(' ')[2].rstrip()))
+				except:
+					result.append(np.nan)
+			y.close()
+			mat[a]=result
+			a=a+1
+# Save descriptores stored in <mat> too 'f' as numpy array. Each file is a
+# molecule with descriptors in rows
+	print('-> Descriptors extracted from .desc files:')
+	print('saved to: \n'+path+'/'+date_string+'_descriptors\n')
+	with open(path+'/'+date_string+'_descriptors','w+') as f:
+		np.savetxt(f,mat,fmt='%.6f')
 

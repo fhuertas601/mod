@@ -13,6 +13,10 @@ import inout as io
 
 def load_desc(path,inp,arg):
 # Create a folder to save the model (model_name/model_name.pkl)
+	print('\n-> Loading the descriptors')
+	print('loaded from:\n'+path+'/'+inp)
+	print('\n-> Loading the activity')
+	print('loaded from:\n'+path+'/'+arg)
 	x=np.loadtxt(path+'/'+inp)
 	y=np.loadtxt(path+'/'+arg)
 #	x = np.array(x, dtype='float64')
@@ -150,31 +154,23 @@ def save(m,acc_sc,path):
 # d: .csv file with all data of the prediction dataset (ID,Compound name,
 # SMILES, CAS)
 #
-def predict(arg,path,inp,csv_file):
-# Part where database to be predicted is read and calculated
-##p=f.calculate_desc_pred(calc,pred,desc_list,ndescs,verb)
-##with open("descriptor_pred_4.txt",'w') as file:
-##  np.savetxt(file,p,fmt='%.6f')
-# File where descriptors of prediction compounds are stored
-	print('\n-> Loading descriptors of the prediction data')
-	x = np.loadtxt(path+'/'+inp)
+def predict(arg,path,inp,drop,csv_file):
+# <arg>: filename of the model. Must be in <path>+<inp>
+# <path>: path to the .csv file with the descriptors
+# <inp>: .csv file with the descriptors. <path> and <inp> are taken from
+# <input> (main option when running the code)
+# <drop>: DataFrame with clean descriptor values, the same that have been
+# used to build the model
+# <csv_file>: the .csv file loaded (<inp> file)
+# Model is loaded
 	m = joblib.load(path+'/'+arg)
 # Predict test set
 	print('\n-> Applying model',arg,'to predict',inp)
-	predict = m.predict(x)
-	if csv_file:
-		pred = pd.read_csv(csv_file) # Database for prediction
-		print('\n-> .csv file with prediction data loaded from:',csv_file)
-# Get the name of the .csv file and use it to save the predictions
-		csv_file=csv_file.rsplit("/",1)[1].split(".",1)[0]
+	predict = m.predict(drop)
+	print('\n-> .csv file with prediction data loaded from:',path+'/'+inp)
 #
 # FUNCTION: prints prediction
 # Explanation and function in inout.py file
-		io.print_csv(csv_file,pred,predict,path)
-		print('\n-> .csv file with predicted data saved in: ',path+'/'+csv_file,'.txt',sep='')
-	else:
-		print('\n*Note that if you give the .csv address with option -d')
-		print('the output will be more complete')
-		print('python mod.py -d <csv> -c <model> <input>')
-		print('\n  Prediction:')
-		print(predict)
+	io.print_csv(csv_file,predict,path,inp)
+	 
+	return predict

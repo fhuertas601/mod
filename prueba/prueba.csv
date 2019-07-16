@@ -6,6 +6,6 @@ ID,Compound name,SMILES,CAS,Activity
 5,AL-1965,C1CN(CCC12OCCO2)CCN3CCN(C3=O)C4=CC(=CC(=C4)Cl)Cl,39113-89-8,0
 6,Ambunol,CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CN(CCO)CCO,2226-97-3,0
 7,Amedin,CN(C)CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O,25520-98-3,0
-8,Aminohexan,CCC1(CCCCC1CN(C)C)OC(=O)C2=CC=CC=C2,5959-44-4,0
-9,Aminopter/in,Nc3nc(N)c2nc(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)cnc2n3,54-62-6,0
+8,Aminohexan/ Aminohexane,CCC1(CCCCC1CN(C)C)OC(=O)C2=CC=CC=C2,5959-44-4,0
+9,Aminopterin,Nc3nc(N)c2nc(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)cnc2n3,54-62-6,0
 10,Asaline,C(=O)(OCC)[C@H](NC([C@@H](Cc1ccc(N(CCCl)CCCl)cc1)NC(=O)C)=O)C(C)C,13425-94-0,0

@@ -1,0 +1,1612 @@
+0 ABC 3.4641016151377544
+1 ABCGG 3.4641016151377544
+2 nAcid 2
+3 nBase 0
+4 SpAbs_A multiple fragments (SpAbs_A/SpAbs)
+5 SpMax_A multiple fragments (SpMax_A/SpMax)
+6 SpDiam_A multiple fragments (SpDiam_A/SpDiam)
+7 SpAD_A multiple fragments (SpAD_A/SpAD)
+8 SpMAD_A multiple fragments (SpMAD_A/SpMAD)
+9 LogEE_A multiple fragments (LogEE_A/LogEE)
+10 SM1_A multiple fragments (VE1_A/VE1)
+11 VE1_A multiple fragments (VE2_A/VE2)
+12 VE2_A multiple fragments (VE3_A/VE3)
+13 VE3_A multiple fragments (VR1_A/VR1)
+14 VR1_A multiple fragments (VR2_A/VR2)
+15 VR2_A multiple fragments (VR3_A/VR3)
+16 VR3_A 0
+17 nAromAtom 0
+18 nAromBond 6
+19 nAtom 6
+20 nHeavyAtom 0
+21 nSpiro 0
+22 nBridgehead 6
+23 nH 0
+24 nB 0
+25 nC 0
+26 nN 0
+27 nO 4
+28 nS 1
+29 nP 0
+30 nF 0
+31 nCl 0
+32 nBr 0
+33 nI 0
+34 nX 0
+35 ATS0dv 170.44444444444446
+36 ATS1dv 17.333333333333332
+37 ATS2dv 253.0
+38 ATS3dv 0.0
+39 ATS4dv 0.0
+40 ATS5dv 0.0
+41 ATS6dv 0.0
+42 ATS7dv 0.0
+43 ATS8dv 0.0
+44 ATS0d 20.0
+45 ATS1d 16.0
+46 ATS2d 6.0
+47 ATS3d 0.0
+48 ATS4d 0.0
+49 ATS5d 0.0
+50 ATS6d 0.0
+51 ATS7d 0.0
+52 ATS8d 0.0
+53 ATS0s missing intrinsic state for ['Zn'] (ATS0s/Props)
+54 ATS1s missing intrinsic state for ['Zn'] (ATS1s/Props)
+55 ATS2s missing intrinsic state for ['Zn'] (ATS2s/Props)
+56 ATS3s missing intrinsic state for ['Zn'] (ATS3s/Props)
+57 ATS4s missing intrinsic state for ['Zn'] (ATS4s/Props)
+58 ATS5s missing intrinsic state for ['Zn'] (ATS5s/Props)
+59 ATS6s missing intrinsic state for ['Zn'] (ATS6s/Props)
+60 ATS7s missing intrinsic state for ['Zn'] (ATS7s/Props)
+61 ATS8s missing intrinsic state for ['Zn'] (ATS8s/Props)
+62 ATS0Z 1412.0
+63 ATS1Z 512.0
+64 ATS2Z 384.0
+65 ATS3Z 0.0
+66 ATS4Z 0.0
+67 ATS5Z 0.0
+68 ATS6Z 0.0
+69 ATS7Z 0.0
+70 ATS8Z 0.0
+71 ATS0m 6326.260004
+72 ATS1m 2051.71176
+73 ATS2m 1535.808006
+74 ATS3m 0.0
+75 ATS4m 0.0
+76 ATS5m 0.0
+77 ATS6m 0.0
+78 ATS7m 0.0
+79 ATS8m 0.0
+80 ATS0v 2619.39417163875
+81 ATS1v 1437.425976882712
+82 ATS2v 1298.3446617861423
+83 ATS3v 0.0
+84 ATS4v 0.0
+85 ATS5v 0.0
+86 ATS6v 0.0
+87 ATS7v 0.0
+88 ATS8v 0.0
+89 ATS0se 67.09244199999999
+90 ATS1se 43.219512
+91 ATS2se 80.11029599999999
+92 ATS3se 0.0
+93 ATS4se 0.0
+94 ATS5se 0.0
+95 ATS6se 0.0
+96 ATS7se 0.0
+97 ATS8se 0.0
+98 ATS0pe 56.71329999999999
+99 ATS1pe 35.5008
+100 ATS2pe 71.0016
+101 ATS3pe 0.0
+102 ATS4pe 0.0
+103 ATS5pe 0.0
+104 ATS6pe 0.0
+105 ATS7pe 0.0
+106 ATS8pe 0.0
+107 ATS0are 57.7092
+108 ATS1are 34.16
+109 ATS2are 73.5
+110 ATS3are 0.0
+111 ATS4are 0.0
+112 ATS5are 0.0
+113 ATS6are 0.0
+114 ATS7are 0.0
+115 ATS8are 0.0
+116 ATS0p 44.045316
+117 ATS1p 9.303200000000002
+118 ATS2p 3.8592240000000007
+119 ATS3p 0.0
+120 ATS4p 0.0
+121 ATS5p 0.0
+122 ATS6p 0.0
+123 ATS7p 0.0
+124 ATS8p 0.0
+125 ATS0i 937.385925261701
+126 ATS1i 564.3325367220001
+127 ATS2i 1112.7077148150001
+128 ATS3i 0.0
+129 ATS4i 0.0
+130 ATS5i 0.0
+131 ATS6i 0.0
+132 ATS7i 0.0
+133 ATS8i 0.0
+134 AATS0dv 28.40740740740741
+135 AATS1dv 4.333333333333333
+136 AATS2dv 42.166666666666664
+137 AATS3dv invalid value encountered in double_scalars (AATS3dv/GSum3_prop)
+138 AATS4dv invalid value encountered in double_scalars (AATS4dv/GSum4_prop)
+139 AATS5dv invalid value encountered in double_scalars (AATS5dv/GSum5_prop)
+140 AATS6dv invalid value encountered in double_scalars (AATS6dv/GSum6_prop)
+141 AATS7dv invalid value encountered in double_scalars (AATS7dv/GSum7_prop)
+142 AATS8dv invalid value encountered in double_scalars (AATS8dv/GSum8_prop)
+143 AATS0d 3.3333333333333335
+144 AATS1d 4.0
+145 AATS2d 1.0
+146 AATS3d invalid value encountered in double_scalars (AATS3d)
+147 AATS4d invalid value encountered in double_scalars (AATS4d)
+148 AATS5d invalid value encountered in double_scalars (AATS5d)
+149 AATS6d invalid value encountered in double_scalars (AATS6d)
+150 AATS7d invalid value encountered in double_scalars (AATS7d)
+151 AATS8d invalid value encountered in double_scalars (AATS8d)
+152 AATS0s missing intrinsic state for ['Zn'] (AATS0s/ATS0s/Props)
+153 AATS1s missing intrinsic state for ['Zn'] (AATS1s/ATS1s/Props)
+154 AATS2s missing intrinsic state for ['Zn'] (AATS2s/ATS2s/Props)
+155 AATS3s missing intrinsic state for ['Zn'] (AATS3s/ATS3s/Props)
+156 AATS4s missing intrinsic state for ['Zn'] (AATS4s/ATS4s/Props)
+157 AATS5s missing intrinsic state for ['Zn'] (AATS5s/ATS5s/Props)
+158 AATS6s missing intrinsic state for ['Zn'] (AATS6s/ATS6s/Props)
+159 AATS7s missing intrinsic state for ['Zn'] (AATS7s/ATS7s/Props)
+160 AATS8s missing intrinsic state for ['Zn'] (AATS8s/ATS8s/Props)
+161 AATS0Z 235.33333333333334
+162 AATS1Z 128.0
+163 AATS2Z 64.0
+164 AATS3Z invalid value encountered in double_scalars (AATS3Z)
+165 AATS4Z invalid value encountered in double_scalars (AATS4Z)
+166 AATS5Z invalid value encountered in double_scalars (AATS5Z)
+167 AATS6Z invalid value encountered in double_scalars (AATS6Z)
+168 AATS7Z invalid value encountered in double_scalars (AATS7Z)
+169 AATS8Z invalid value encountered in double_scalars (AATS8Z)
+170 AATS0m 1054.3766673333332
+171 AATS1m 512.92794
+172 AATS2m 255.968001
+173 AATS3m invalid value encountered in double_scalars (AATS3m)
+174 AATS4m invalid value encountered in double_scalars (AATS4m)
+175 AATS5m invalid value encountered in double_scalars (AATS5m)
+176 AATS6m invalid value encountered in double_scalars (AATS6m)
+177 AATS7m invalid value encountered in double_scalars (AATS7m)
+178 AATS8m invalid value encountered in double_scalars (AATS8m)
+179 AATS0v 436.56569527312496
+180 AATS1v 359.356494220678
+181 AATS2v 216.39077696435706
+182 AATS3v invalid value encountered in double_scalars (AATS3v)
+183 AATS4v invalid value encountered in double_scalars (AATS4v)
+184 AATS5v invalid value encountered in double_scalars (AATS5v)
+185 AATS6v invalid value encountered in double_scalars (AATS6v)
+186 AATS7v invalid value encountered in double_scalars (AATS7v)
+187 AATS8v invalid value encountered in double_scalars (AATS8v)
+188 AATS0se 11.182073666666666
+189 AATS1se 10.804878
+190 AATS2se 13.351715999999998
+191 AATS3se invalid value encountered in double_scalars (AATS3se)
+192 AATS4se invalid value encountered in double_scalars (AATS4se)
+193 AATS5se invalid value encountered in double_scalars (AATS5se)
+194 AATS6se invalid value encountered in double_scalars (AATS6se)
+195 AATS7se invalid value encountered in double_scalars (AATS7se)
+196 AATS8se invalid value encountered in double_scalars (AATS8se)
+197 AATS0pe 9.452216666666665
+198 AATS1pe 8.8752
+199 AATS2pe 11.833599999999999
+200 AATS3pe invalid value encountered in double_scalars (AATS3pe)
+201 AATS4pe invalid value encountered in double_scalars (AATS4pe)
+202 AATS5pe invalid value encountered in double_scalars (AATS5pe)
+203 AATS6pe invalid value encountered in double_scalars (AATS6pe)
+204 AATS7pe invalid value encountered in double_scalars (AATS7pe)
+205 AATS8pe invalid value encountered in double_scalars (AATS8pe)
+206 AATS0are 9.6182
+207 AATS1are 8.54
+208 AATS2are 12.25
+209 AATS3are invalid value encountered in double_scalars (AATS3are)
+210 AATS4are invalid value encountered in double_scalars (AATS4are)
+211 AATS5are invalid value encountered in double_scalars (AATS5are)
+212 AATS6are invalid value encountered in double_scalars (AATS6are)
+213 AATS7are invalid value encountered in double_scalars (AATS7are)
+214 AATS8are invalid value encountered in double_scalars (AATS8are)
+215 AATS0p 7.340886
+216 AATS1p 2.3258000000000005
+217 AATS2p 0.6432040000000001
+218 AATS3p invalid value encountered in double_scalars (AATS3p)
+219 AATS4p invalid value encountered in double_scalars (AATS4p)
+220 AATS5p invalid value encountered in double_scalars (AATS5p)
+221 AATS6p invalid value encountered in double_scalars (AATS6p)
+222 AATS7p invalid value encountered in double_scalars (AATS7p)
+223 AATS8p invalid value encountered in double_scalars (AATS8p)
+224 AATS0i 156.23098754361683
+225 AATS1i 141.08313418050002
+226 AATS2i 185.45128580250002
+227 AATS3i invalid value encountered in double_scalars (AATS3i)
+228 AATS4i invalid value encountered in double_scalars (AATS4i)
+229 AATS5i invalid value encountered in double_scalars (AATS5i)
+230 AATS6i invalid value encountered in double_scalars (AATS6i)
+231 AATS7i invalid value encountered in double_scalars (AATS7i)
+232 AATS8i invalid value encountered in double_scalars (AATS8i)
+233 ATSC0c 5.2842718795219445
+234 ATSC1c -0.06306578255041152
+235 ATSC2c 1.4209298427894392
+236 ATSC3c 0.0
+237 ATSC4c 0.0
+238 ATSC5c 0.0
+239 ATSC6c 0.0
+240 ATSC7c 0.0
+241 ATSC8c 0.0
+242 ATSC0dv 51.92592592592593
+243 ATSC1dv -31.06172839506173
+244 ATSC2dv 24.851851851851848
+245 ATSC3dv 0.0
+246 ATSC4dv 0.0
+247 ATSC5dv 0.0
+248 ATSC6dv 0.0
+249 ATSC7dv 0.0
+250 ATSC8dv 0.0
+251 ATSC0d 9.333333333333332
+252 ATSC1d -3.5555555555555562
+253 ATSC2d 0.6666666666666664
+254 ATSC3d 0.0
+255 ATSC4d 0.0
+256 ATSC5d 0.0
+257 ATSC6d 0.0
+258 ATSC7d 0.0
+259 ATSC8d 0.0
+260 ATSC0s missing intrinsic state for ['Zn'] (ATSC0s/CAVec0s/Props)
+261 ATSC1s missing intrinsic state for ['Zn'] (ATSC1s/CAVec0s/Props)
+262 ATSC2s missing intrinsic state for ['Zn'] (ATSC2s/CAVec0s/Props)
+263 ATSC3s missing intrinsic state for ['Zn'] (ATSC3s/CAVec0s/Props)
+264 ATSC4s missing intrinsic state for ['Zn'] (ATSC4s/CAVec0s/Props)
+265 ATSC5s missing intrinsic state for ['Zn'] (ATSC5s/CAVec0s/Props)
+266 ATSC6s missing intrinsic state for ['Zn'] (ATSC6s/CAVec0s/Props)
+267 ATSC7s missing intrinsic state for ['Zn'] (ATSC7s/CAVec0s/Props)
+268 ATSC8s missing intrinsic state for ['Zn'] (ATSC8s/CAVec0s/Props)
+269 ATSC0Z 398.0
+270 ATSC1Z -60.0
+271 ATSC2Z 150.0
+272 ATSC3Z 0.0
+273 ATSC4Z 0.0
+274 ATSC5Z 0.0
+275 ATSC6Z 0.0
+276 ATSC7Z 0.0
+277 ATSC8Z 0.0
+278 ATSC0m 1982.662988
+279 ATSC1m -224.8587120000002
+280 ATSC2m 713.7758939999993
+281 ATSC3m 0.0
+282 ATSC4m 0.0
+283 ATSC5m 0.0
+284 ATSC6m 0.0
+285 ATSC7m 0.0
+286 ATSC8m 0.0
+287 ATSC0v 326.74897158276497
+288 ATSC1v -94.45307965425947
+289 ATSC2v 140.39938665541771
+290 ATSC3v 0.0
+291 ATSC4v 0.0
+292 ATSC5v 0.0
+293 ATSC6v 0.0
+294 ATSC7v 0.0
+295 ATSC8v 0.0
+296 ATSC0se 1.7788393333333334
+297 ATSC1se -0.4856568888888889
+298 ATSC2se 0.7547306666666668
+299 ATSC3se 0.0
+300 ATSC4se 0.0
+301 ATSC5se 0.0
+302 ATSC6se 0.0
+303 ATSC7se 0.0
+304 ATSC8se 0.0
+305 ATSC0pe 2.7732833333333335
+306 ATSC1pe -0.7390555555555554
+307 ATSC2pe 1.1704166666666678
+308 ATSC3pe 0.0
+309 ATSC4pe 0.0
+310 ATSC5pe 0.0
+311 ATSC6pe 0.0
+312 ATSC7pe 0.0
+313 ATSC8pe 0.0
+314 ATSC0are 3.1075333333333335
+315 ATSC1are -1.1148888888888893
+316 ATSC2are 1.4016666666666695
+317 ATSC3are 0.0
+318 ATSC4are 0.0
+319 ATSC5are 0.0
+320 ATSC6are 0.0
+321 ATSC7are 0.0
+322 ATSC8are 0.0
+323 ATSC0p 20.609955333333335
+324 ATSC1p -4.338770222222222
+325 ATSC2p 8.274352666666662
+326 ATSC3p 0.0
+327 ATSC4p 0.0
+328 ATSC5p 0.0
+329 ATSC6p 0.0
+330 ATSC7p 0.0
+331 ATSC8p 0.0
+332 ATSC0i 19.12595975582083
+333 ATSC1i -10.031011998439892
+334 ATSC2i 9.329782155980187
+335 ATSC3i 0.0
+336 ATSC4i 0.0
+337 ATSC5i 0.0
+338 ATSC6i 0.0
+339 ATSC7i 0.0
+340 ATSC8i 0.0
+341 AATSC0c 0.8807119799203241
+342 AATSC1c -0.01576644563760288
+343 AATSC2c 0.23682164046490653
+344 AATSC3c invalid value encountered in double_scalars (AATSC3c)
+345 AATSC4c invalid value encountered in double_scalars (AATSC4c)
+346 AATSC5c invalid value encountered in double_scalars (AATSC5c)
+347 AATSC6c invalid value encountered in double_scalars (AATSC6c)
+348 AATSC7c invalid value encountered in double_scalars (AATSC7c)
+349 AATSC8c invalid value encountered in double_scalars (AATSC8c)
+350 AATSC0dv 8.654320987654321
+351 AATSC1dv -7.765432098765433
+352 AATSC2dv 4.141975308641975
+353 AATSC3dv invalid value encountered in double_scalars (AATSC3dv)
+354 AATSC4dv invalid value encountered in double_scalars (AATSC4dv)
+355 AATSC5dv invalid value encountered in double_scalars (AATSC5dv)
+356 AATSC6dv invalid value encountered in double_scalars (AATSC6dv)
+357 AATSC7dv invalid value encountered in double_scalars (AATSC7dv)
+358 AATSC8dv invalid value encountered in double_scalars (AATSC8dv)
+359 AATSC0d 1.5555555555555554
+360 AATSC1d -0.8888888888888891
+361 AATSC2d 0.11111111111111106
+362 AATSC3d invalid value encountered in double_scalars (AATSC3d)
+363 AATSC4d invalid value encountered in double_scalars (AATSC4d)
+364 AATSC5d invalid value encountered in double_scalars (AATSC5d)
+365 AATSC6d invalid value encountered in double_scalars (AATSC6d)
+366 AATSC7d invalid value encountered in double_scalars (AATSC7d)
+367 AATSC8d invalid value encountered in double_scalars (AATSC8d)
+368 AATSC0s missing intrinsic state for ['Zn'] (AATSC0s/ATSC0s/CAVec0s/Props)
+369 AATSC1s missing intrinsic state for ['Zn'] (AATSC1s/ATSC1s/CAVec0s/Props)
+370 AATSC2s missing intrinsic state for ['Zn'] (AATSC2s/ATSC2s/CAVec0s/Props)
+371 AATSC3s missing intrinsic state for ['Zn'] (AATSC3s/ATSC3s/CAVec0s/Props)
+372 AATSC4s missing intrinsic state for ['Zn'] (AATSC4s/ATSC4s/CAVec0s/Props)
+373 AATSC5s missing intrinsic state for ['Zn'] (AATSC5s/ATSC5s/CAVec0s/Props)
+374 AATSC6s missing intrinsic state for ['Zn'] (AATSC6s/ATSC6s/CAVec0s/Props)
+375 AATSC7s missing intrinsic state for ['Zn'] (AATSC7s/ATSC7s/CAVec0s/Props)
+376 AATSC8s missing intrinsic state for ['Zn'] (AATSC8s/ATSC8s/CAVec0s/Props)
+377 AATSC0Z 66.33333333333333
+378 AATSC1Z -15.0
+379 AATSC2Z 25.0
+380 AATSC3Z invalid value encountered in double_scalars (AATSC3Z)
+381 AATSC4Z invalid value encountered in double_scalars (AATSC4Z)
+382 AATSC5Z invalid value encountered in double_scalars (AATSC5Z)
+383 AATSC6Z invalid value encountered in double_scalars (AATSC6Z)
+384 AATSC7Z invalid value encountered in double_scalars (AATSC7Z)
+385 AATSC8Z invalid value encountered in double_scalars (AATSC8Z)
+386 AATSC0m 330.4438313333333
+387 AATSC1m -56.21467800000005
+388 AATSC2m 118.96264899999989
+389 AATSC3m invalid value encountered in double_scalars (AATSC3m)
+390 AATSC4m invalid value encountered in double_scalars (AATSC4m)
+391 AATSC5m invalid value encountered in double_scalars (AATSC5m)
+392 AATSC6m invalid value encountered in double_scalars (AATSC6m)
+393 AATSC7m invalid value encountered in double_scalars (AATSC7m)
+394 AATSC8m invalid value encountered in double_scalars (AATSC8m)
+395 AATSC0v 54.458161930460825
+396 AATSC1v -23.613269913564867
+397 AATSC2v 23.399897775902954
+398 AATSC3v invalid value encountered in double_scalars (AATSC3v)
+399 AATSC4v invalid value encountered in double_scalars (AATSC4v)
+400 AATSC5v invalid value encountered in double_scalars (AATSC5v)
+401 AATSC6v invalid value encountered in double_scalars (AATSC6v)
+402 AATSC7v invalid value encountered in double_scalars (AATSC7v)
+403 AATSC8v invalid value encountered in double_scalars (AATSC8v)
+404 AATSC0se 0.2964732222222222
+405 AATSC1se -0.12141422222222223
+406 AATSC2se 0.12578844444444445
+407 AATSC3se invalid value encountered in double_scalars (AATSC3se)
+408 AATSC4se invalid value encountered in double_scalars (AATSC4se)
+409 AATSC5se invalid value encountered in double_scalars (AATSC5se)
+410 AATSC6se invalid value encountered in double_scalars (AATSC6se)
+411 AATSC7se invalid value encountered in double_scalars (AATSC7se)
+412 AATSC8se invalid value encountered in double_scalars (AATSC8se)
+413 AATSC0pe 0.4622138888888889
+414 AATSC1pe -0.18476388888888884
+415 AATSC2pe 0.19506944444444463
+416 AATSC3pe invalid value encountered in double_scalars (AATSC3pe)
+417 AATSC4pe invalid value encountered in double_scalars (AATSC4pe)
+418 AATSC5pe invalid value encountered in double_scalars (AATSC5pe)
+419 AATSC6pe invalid value encountered in double_scalars (AATSC6pe)
+420 AATSC7pe invalid value encountered in double_scalars (AATSC7pe)
+421 AATSC8pe invalid value encountered in double_scalars (AATSC8pe)
+422 AATSC0are 0.5179222222222223
+423 AATSC1are -0.2787222222222223
+424 AATSC2are 0.23361111111111157
+425 AATSC3are invalid value encountered in double_scalars (AATSC3are)
+426 AATSC4are invalid value encountered in double_scalars (AATSC4are)
+427 AATSC5are invalid value encountered in double_scalars (AATSC5are)
+428 AATSC6are invalid value encountered in double_scalars (AATSC6are)
+429 AATSC7are invalid value encountered in double_scalars (AATSC7are)
+430 AATSC8are invalid value encountered in double_scalars (AATSC8are)
+431 AATSC0p 3.434992555555556
+432 AATSC1p -1.0846925555555555
+433 AATSC2p 1.379058777777777
+434 AATSC3p invalid value encountered in double_scalars (AATSC3p)
+435 AATSC4p invalid value encountered in double_scalars (AATSC4p)
+436 AATSC5p invalid value encountered in double_scalars (AATSC5p)
+437 AATSC6p invalid value encountered in double_scalars (AATSC6p)
+438 AATSC7p invalid value encountered in double_scalars (AATSC7p)
+439 AATSC8p invalid value encountered in double_scalars (AATSC8p)
+440 AATSC0i 3.187659959303472
+441 AATSC1i -2.507752999609973
+442 AATSC2i 1.5549636926633645
+443 AATSC3i invalid value encountered in double_scalars (AATSC3i)
+444 AATSC4i invalid value encountered in double_scalars (AATSC4i)
+445 AATSC5i invalid value encountered in double_scalars (AATSC5i)
+446 AATSC6i invalid value encountered in double_scalars (AATSC6i)
+447 AATSC7i invalid value encountered in double_scalars (AATSC7i)
+448 AATSC8i invalid value encountered in double_scalars (AATSC8i)
+449 MATS1c -0.017901931615633564
+450 MATS2c 0.26889794378217863
+451 MATS3c invalid value encountered in double_scalars (MATS3c/AATSC3c)
+452 MATS4c invalid value encountered in double_scalars (MATS4c/AATSC4c)
+453 MATS5c invalid value encountered in double_scalars (MATS5c/AATSC5c)
+454 MATS6c invalid value encountered in double_scalars (MATS6c/AATSC6c)
+455 MATS7c invalid value encountered in double_scalars (MATS7c/AATSC7c)
+456 MATS8c invalid value encountered in double_scalars (MATS8c/AATSC8c)
+457 MATS1dv -0.8972895863052781
+458 MATS2dv 0.4786019971469328
+459 MATS3dv invalid value encountered in double_scalars (MATS3dv/AATSC3dv)
+460 MATS4dv invalid value encountered in double_scalars (MATS4dv/AATSC4dv)
+461 MATS5dv invalid value encountered in double_scalars (MATS5dv/AATSC5dv)
+462 MATS6dv invalid value encountered in double_scalars (MATS6dv/AATSC6dv)
+463 MATS7dv invalid value encountered in double_scalars (MATS7dv/AATSC7dv)
+464 MATS8dv invalid value encountered in double_scalars (MATS8dv/AATSC8dv)
+465 MATS1d -0.5714285714285716
+466 MATS2d 0.07142857142857141
+467 MATS3d invalid value encountered in double_scalars (MATS3d/AATSC3d)
+468 MATS4d invalid value encountered in double_scalars (MATS4d/AATSC4d)
+469 MATS5d invalid value encountered in double_scalars (MATS5d/AATSC5d)
+470 MATS6d invalid value encountered in double_scalars (MATS6d/AATSC6d)
+471 MATS7d invalid value encountered in double_scalars (MATS7d/AATSC7d)
+472 MATS8d invalid value encountered in double_scalars (MATS8d/AATSC8d)
+473 MATS1s missing intrinsic state for ['Zn'] (MATS1s/AATSC1s/ATSC1s/CAVec0s/Props)
+474 MATS2s missing intrinsic state for ['Zn'] (MATS2s/AATSC2s/ATSC2s/CAVec0s/Props)
+475 MATS3s missing intrinsic state for ['Zn'] (MATS3s/AATSC3s/ATSC3s/CAVec0s/Props)
+476 MATS4s missing intrinsic state for ['Zn'] (MATS4s/AATSC4s/ATSC4s/CAVec0s/Props)
+477 MATS5s missing intrinsic state for ['Zn'] (MATS5s/AATSC5s/ATSC5s/CAVec0s/Props)
+478 MATS6s missing intrinsic state for ['Zn'] (MATS6s/AATSC6s/ATSC6s/CAVec0s/Props)
+479 MATS7s missing intrinsic state for ['Zn'] (MATS7s/AATSC7s/ATSC7s/CAVec0s/Props)
+480 MATS8s missing intrinsic state for ['Zn'] (MATS8s/AATSC8s/ATSC8s/CAVec0s/Props)
+481 MATS1Z -0.22613065326633167
+482 MATS2Z 0.3768844221105528
+483 MATS3Z invalid value encountered in double_scalars (MATS3Z/AATSC3Z)
+484 MATS4Z invalid value encountered in double_scalars (MATS4Z/AATSC4Z)
+485 MATS5Z invalid value encountered in double_scalars (MATS5Z/AATSC5Z)
+486 MATS6Z invalid value encountered in double_scalars (MATS6Z/AATSC6Z)
+487 MATS7Z invalid value encountered in double_scalars (MATS7Z/AATSC7Z)
+488 MATS8Z invalid value encountered in double_scalars (MATS8Z/AATSC8Z)
+489 MATS1m -0.1701187090501133
+490 MATS2m 0.3600086844411297
+491 MATS3m invalid value encountered in double_scalars (MATS3m/AATSC3m)
+492 MATS4m invalid value encountered in double_scalars (MATS4m/AATSC4m)
+493 MATS5m invalid value encountered in double_scalars (MATS5m/AATSC5m)
+494 MATS6m invalid value encountered in double_scalars (MATS6m/AATSC6m)
+495 MATS7m invalid value encountered in double_scalars (MATS7m/AATSC7m)
+496 MATS8m invalid value encountered in double_scalars (MATS8m/AATSC8m)
+497 MATS1v -0.4336038727072229
+498 MATS2v 0.4296857798062106
+499 MATS3v invalid value encountered in double_scalars (MATS3v/AATSC3v)
+500 MATS4v invalid value encountered in double_scalars (MATS4v/AATSC4v)
+501 MATS5v invalid value encountered in double_scalars (MATS5v/AATSC5v)
+502 MATS6v invalid value encountered in double_scalars (MATS6v/AATSC6v)
+503 MATS7v invalid value encountered in double_scalars (MATS7v/AATSC7v)
+504 MATS8v invalid value encountered in double_scalars (MATS8v/AATSC8v)
+505 MATS1se -0.40952846031813256
+506 MATS2se 0.42428265022248585
+507 MATS3se invalid value encountered in double_scalars (MATS3se/AATSC3se)
+508 MATS4se invalid value encountered in double_scalars (MATS4se/AATSC4se)
+509 MATS5se invalid value encountered in double_scalars (MATS5se/AATSC5se)
+510 MATS6se invalid value encountered in double_scalars (MATS6se/AATSC6se)
+511 MATS7se invalid value encountered in double_scalars (MATS7se/AATSC7se)
+512 MATS8se invalid value encountered in double_scalars (MATS8se/AATSC8se)
+513 MATS1pe -0.39973677410049446
+514 MATS2pe 0.42203284914992495
+515 MATS3pe invalid value encountered in double_scalars (MATS3pe/AATSC3pe)
+516 MATS4pe invalid value encountered in double_scalars (MATS4pe/AATSC4pe)
+517 MATS5pe invalid value encountered in double_scalars (MATS5pe/AATSC5pe)
+518 MATS6pe invalid value encountered in double_scalars (MATS6pe/AATSC6pe)
+519 MATS7pe invalid value encountered in double_scalars (MATS7pe/AATSC7pe)
+520 MATS8pe invalid value encountered in double_scalars (MATS8pe/AATSC8pe)
+521 MATS1are -0.538154592066591
+522 MATS2are 0.4510544268766233
+523 MATS3are invalid value encountered in double_scalars (MATS3are/AATSC3are)
+524 MATS4are invalid value encountered in double_scalars (MATS4are/AATSC4are)
+525 MATS5are invalid value encountered in double_scalars (MATS5are/AATSC5are)
+526 MATS6are invalid value encountered in double_scalars (MATS6are/AATSC6are)
+527 MATS7are invalid value encountered in double_scalars (MATS7are/AATSC7are)
+528 MATS8are invalid value encountered in double_scalars (MATS8are/AATSC8are)
+529 MATS1p -0.31577726531058625
+530 MATS2p 0.4014735855969667
+531 MATS3p invalid value encountered in double_scalars (MATS3p/AATSC3p)
+532 MATS4p invalid value encountered in double_scalars (MATS4p/AATSC4p)
+533 MATS5p invalid value encountered in double_scalars (MATS5p/AATSC5p)
+534 MATS6p invalid value encountered in double_scalars (MATS6p/AATSC6p)
+535 MATS7p invalid value encountered in double_scalars (MATS7p/AATSC7p)
+536 MATS8p invalid value encountered in double_scalars (MATS8p/AATSC8p)
+537 MATS1i -0.7867065595534651
+538 MATS2i 0.4878072669341858
+539 MATS3i invalid value encountered in double_scalars (MATS3i/AATSC3i)
+540 MATS4i invalid value encountered in double_scalars (MATS4i/AATSC4i)
+541 MATS5i invalid value encountered in double_scalars (MATS5i/AATSC5i)
+542 MATS6i invalid value encountered in double_scalars (MATS6i/AATSC6i)
+543 MATS7i invalid value encountered in double_scalars (MATS7i/AATSC7i)
+544 MATS8i invalid value encountered in double_scalars (MATS8i/AATSC8i)
+545 GATS1c 0.16715830677938698
+546 GATS2c 0.07948615538435133
+547 GATS3c invalid value encountered in double_scalars (GATS3c)
+548 GATS4c invalid value encountered in double_scalars (GATS4c)
+549 GATS5c invalid value encountered in double_scalars (GATS5c)
+550 GATS6c invalid value encountered in double_scalars (GATS6c)
+551 GATS7c invalid value encountered in double_scalars (GATS7c)
+552 GATS8c invalid value encountered in double_scalars (GATS8c)
+553 GATS1dv 1.6503209700427954
+554 GATS2dv 0.03209700427960056
+555 GATS3dv invalid value encountered in double_scalars (GATS3dv)
+556 GATS4dv invalid value encountered in double_scalars (GATS4dv)
+557 GATS5dv invalid value encountered in double_scalars (GATS5dv)
+558 GATS6dv invalid value encountered in double_scalars (GATS6dv)
+559 GATS7dv invalid value encountered in double_scalars (GATS7dv)
+560 GATS8dv invalid value encountered in double_scalars (GATS8dv)
+561 GATS1d 2.410714285714286
+562 GATS2d 0.0
+563 GATS3d invalid value encountered in double_scalars (GATS3d)
+564 GATS4d invalid value encountered in double_scalars (GATS4d)
+565 GATS5d invalid value encountered in double_scalars (GATS5d)
+566 GATS6d invalid value encountered in double_scalars (GATS6d)
+567 GATS7d invalid value encountered in double_scalars (GATS7d)
+568 GATS8d invalid value encountered in double_scalars (GATS8d)
+569 GATS1s missing intrinsic state for ['Zn'] (GATS1s/Props)
+570 GATS2s missing intrinsic state for ['Zn'] (GATS2s/Props)
+571 GATS3s missing intrinsic state for ['Zn'] (GATS3s/Props)
+572 GATS4s missing intrinsic state for ['Zn'] (GATS4s/Props)
+573 GATS5s missing intrinsic state for ['Zn'] (GATS5s/Props)
+574 GATS6s missing intrinsic state for ['Zn'] (GATS6s/Props)
+575 GATS7s missing intrinsic state for ['Zn'] (GATS7s/Props)
+576 GATS8s missing intrinsic state for ['Zn'] (GATS8s/Props)
+577 GATS1Z 0.4020100502512563
+578 GATS2Z 0.0
+579 GATS3Z invalid value encountered in double_scalars (GATS3Z)
+580 GATS4Z invalid value encountered in double_scalars (GATS4Z)
+581 GATS5Z invalid value encountered in double_scalars (GATS5Z)
+582 GATS6Z invalid value encountered in double_scalars (GATS6Z)
+583 GATS7Z invalid value encountered in double_scalars (GATS7Z)
+584 GATS8Z invalid value encountered in double_scalars (GATS8Z)
+585 GATS1m 0.3252642059710452
+586 GATS2m 0.0
+587 GATS3m invalid value encountered in double_scalars (GATS3m)
+588 GATS4m invalid value encountered in double_scalars (GATS4m)
+589 GATS5m invalid value encountered in double_scalars (GATS5m)
+590 GATS6m invalid value encountered in double_scalars (GATS6m)
+591 GATS7m invalid value encountered in double_scalars (GATS7m)
+592 GATS8m invalid value encountered in double_scalars (GATS8m)
+593 GATS1v 0.7226880074947667
+594 GATS2v 0.0
+595 GATS3v invalid value encountered in double_scalars (GATS3v)
+596 GATS4v invalid value encountered in double_scalars (GATS4v)
+597 GATS5v invalid value encountered in double_scalars (GATS5v)
+598 GATS6v invalid value encountered in double_scalars (GATS6v)
+599 GATS7v invalid value encountered in double_scalars (GATS7v)
+600 GATS8v invalid value encountered in double_scalars (GATS8v)
+601 GATS1se 0.6827612124610093
+602 GATS2se 0.0
+603 GATS3se invalid value encountered in double_scalars (GATS3se)
+604 GATS4se invalid value encountered in double_scalars (GATS4se)
+605 GATS5se invalid value encountered in double_scalars (GATS5se)
+606 GATS6se invalid value encountered in double_scalars (GATS6se)
+607 GATS7se invalid value encountered in double_scalars (GATS7se)
+608 GATS8se invalid value encountered in double_scalars (GATS8se)
+609 GATS1pe 0.6667187509390191
+610 GATS2pe 0.0
+611 GATS3pe invalid value encountered in double_scalars (GATS3pe)
+612 GATS4pe invalid value encountered in double_scalars (GATS4pe)
+613 GATS5pe invalid value encountered in double_scalars (GATS5pe)
+614 GATS6pe invalid value encountered in double_scalars (GATS6pe)
+615 GATS7pe invalid value encountered in double_scalars (GATS7pe)
+616 GATS8pe invalid value encountered in double_scalars (GATS8pe)
+617 GATS1are 0.9039323793791433
+618 GATS2are 0.0
+619 GATS3are invalid value encountered in double_scalars (GATS3are)
+620 GATS4are invalid value encountered in double_scalars (GATS4are)
+621 GATS5are invalid value encountered in double_scalars (GATS5are)
+622 GATS6are invalid value encountered in double_scalars (GATS6are)
+623 GATS7are invalid value encountered in double_scalars (GATS7are)
+624 GATS8are invalid value encountered in double_scalars (GATS8are)
+625 GATS1p 0.5339172172878394
+626 GATS2p 0.0
+627 GATS3p invalid value encountered in double_scalars (GATS3p)
+628 GATS4p invalid value encountered in double_scalars (GATS4p)
+629 GATS5p invalid value encountered in double_scalars (GATS5p)
+630 GATS6p invalid value encountered in double_scalars (GATS6p)
+631 GATS7p invalid value encountered in double_scalars (GATS7p)
+632 GATS8p invalid value encountered in double_scalars (GATS8p)
+633 GATS1i 1.3874891478804694
+634 GATS2i 0.0
+635 GATS3i invalid value encountered in double_scalars (GATS3i)
+636 GATS4i invalid value encountered in double_scalars (GATS4i)
+637 GATS5i invalid value encountered in double_scalars (GATS5i)
+638 GATS6i invalid value encountered in double_scalars (GATS6i)
+639 GATS7i invalid value encountered in double_scalars (GATS7i)
+640 GATS8i invalid value encountered in double_scalars (GATS8i)
+641 BalabanJ multiple fragments (BCUTc-1h)
+642 SpAbs_DzZ multiple fragments (BCUTc-1l)
+643 SpMax_DzZ multiple fragments (BCUTdv-1h)
+644 SpDiam_DzZ multiple fragments (BCUTdv-1l)
+645 SpAD_DzZ multiple fragments (BCUTd-1h)
+646 SpMAD_DzZ multiple fragments (BCUTd-1l)
+647 LogEE_DzZ multiple fragments (BCUTs-1h)
+648 SM1_DzZ multiple fragments (BCUTs-1l)
+649 VE1_DzZ multiple fragments (BCUTZ-1h)
+650 VE2_DzZ multiple fragments (BCUTZ-1l)
+651 VE3_DzZ multiple fragments (BCUTm-1h)
+652 VR1_DzZ multiple fragments (BCUTm-1l)
+653 VR2_DzZ multiple fragments (BCUTv-1h)
+654 VR3_DzZ multiple fragments (BCUTv-1l)
+655 SpAbs_Dzm multiple fragments (BCUTse-1h)
+656 SpMax_Dzm multiple fragments (BCUTse-1l)
+657 SpDiam_Dzm multiple fragments (BCUTpe-1h)
+658 SpAD_Dzm multiple fragments (BCUTpe-1l)
+659 SpMAD_Dzm multiple fragments (BCUTare-1h)
+660 LogEE_Dzm multiple fragments (BCUTare-1l)
+661 SM1_Dzm multiple fragments (BCUTp-1h)
+662 VE1_Dzm multiple fragments (BCUTp-1l)
+663 VE2_Dzm multiple fragments (BCUTi-1h)
+664 VE3_Dzm multiple fragments (BCUTi-1l)
+665 VR1_Dzm 0.0
+666 VR2_Dzm multiple fragments (SpAbs_DzZ/SpAbs)
+667 VR3_Dzm multiple fragments (SpMax_DzZ/SpMax)
+668 SpAbs_Dzv multiple fragments (SpDiam_DzZ/SpDiam)
+669 SpMax_Dzv multiple fragments (SpAD_DzZ/SpAD)
+670 SpDiam_Dzv multiple fragments (SpMAD_DzZ/SpMAD)
+671 SpAD_Dzv multiple fragments (LogEE_DzZ/LogEE)
+672 SpMAD_Dzv multiple fragments (SM1_DzZ/SM1)
+673 LogEE_Dzv multiple fragments (VE1_DzZ/VE1)
+674 SM1_Dzv multiple fragments (VE2_DzZ/VE2)
+675 VE1_Dzv multiple fragments (VE3_DzZ/VE3)
+676 VE2_Dzv multiple fragments (VR1_DzZ/VR1)
+677 VE3_Dzv multiple fragments (VR2_DzZ/VR2)
+678 VR1_Dzv multiple fragments (VR3_DzZ/VR3)
+679 VR2_Dzv multiple fragments (SpAbs_Dzm/SpAbs)
+680 VR3_Dzv multiple fragments (SpMax_Dzm/SpMax)
+681 SpAbs_Dzse multiple fragments (SpDiam_Dzm/SpDiam)
+682 SpMax_Dzse multiple fragments (SpAD_Dzm/SpAD)
+683 SpDiam_Dzse multiple fragments (SpMAD_Dzm/SpMAD)
+684 SpAD_Dzse multiple fragments (LogEE_Dzm/LogEE)
+685 SpMAD_Dzse multiple fragments (SM1_Dzm/SM1)
+686 LogEE_Dzse multiple fragments (VE1_Dzm/VE1)
+687 SM1_Dzse multiple fragments (VE2_Dzm/VE2)
+688 VE1_Dzse multiple fragments (VE3_Dzm/VE3)
+689 VE2_Dzse multiple fragments (VR1_Dzm/VR1)
+690 VE3_Dzse multiple fragments (VR2_Dzm/VR2)
+691 VR1_Dzse multiple fragments (VR3_Dzm/VR3)
+692 VR2_Dzse multiple fragments (SpAbs_Dzv/SpAbs)
+693 VR3_Dzse multiple fragments (SpMax_Dzv/SpMax)
+694 SpAbs_Dzpe multiple fragments (SpDiam_Dzv/SpDiam)
+695 SpMax_Dzpe multiple fragments (SpAD_Dzv/SpAD)
+696 SpDiam_Dzpe multiple fragments (SpMAD_Dzv/SpMAD)
+697 SpAD_Dzpe multiple fragments (LogEE_Dzv/LogEE)
+698 SpMAD_Dzpe multiple fragments (SM1_Dzv/SM1)
+699 LogEE_Dzpe multiple fragments (VE1_Dzv/VE1)
+700 SM1_Dzpe multiple fragments (VE2_Dzv/VE2)
+701 VE1_Dzpe multiple fragments (VE3_Dzv/VE3)
+702 VE2_Dzpe multiple fragments (VR1_Dzv/VR1)
+703 VE3_Dzpe multiple fragments (VR2_Dzv/VR2)
+704 VR1_Dzpe multiple fragments (VR3_Dzv/VR3)
+705 VR2_Dzpe multiple fragments (SpAbs_Dzse/SpAbs)
+706 VR3_Dzpe multiple fragments (SpMax_Dzse/SpMax)
+707 SpAbs_Dzare multiple fragments (SpDiam_Dzse/SpDiam)
+708 SpMax_Dzare multiple fragments (SpAD_Dzse/SpAD)
+709 SpDiam_Dzare multiple fragments (SpMAD_Dzse/SpMAD)
+710 SpAD_Dzare multiple fragments (LogEE_Dzse/LogEE)
+711 SpMAD_Dzare multiple fragments (SM1_Dzse/SM1)
+712 LogEE_Dzare multiple fragments (VE1_Dzse/VE1)
+713 SM1_Dzare multiple fragments (VE2_Dzse/VE2)
+714 VE1_Dzare multiple fragments (VE3_Dzse/VE3)
+715 VE2_Dzare multiple fragments (VR1_Dzse/VR1)
+716 VE3_Dzare multiple fragments (VR2_Dzse/VR2)
+717 VR1_Dzare multiple fragments (VR3_Dzse/VR3)
+718 VR2_Dzare multiple fragments (SpAbs_Dzpe/SpAbs)
+719 VR3_Dzare multiple fragments (SpMax_Dzpe/SpMax)
+720 SpAbs_Dzp multiple fragments (SpDiam_Dzpe/SpDiam)
+721 SpMax_Dzp multiple fragments (SpAD_Dzpe/SpAD)
+722 SpDiam_Dzp multiple fragments (SpMAD_Dzpe/SpMAD)
+723 SpAD_Dzp multiple fragments (LogEE_Dzpe/LogEE)
+724 SpMAD_Dzp multiple fragments (SM1_Dzpe/SM1)
+725 LogEE_Dzp multiple fragments (VE1_Dzpe/VE1)
+726 SM1_Dzp multiple fragments (VE2_Dzpe/VE2)
+727 VE1_Dzp multiple fragments (VE3_Dzpe/VE3)
+728 VE2_Dzp multiple fragments (VR1_Dzpe/VR1)
+729 VE3_Dzp multiple fragments (VR2_Dzpe/VR2)
+730 VR1_Dzp multiple fragments (VR3_Dzpe/VR3)
+731 VR2_Dzp multiple fragments (SpAbs_Dzare/SpAbs)
+732 VR3_Dzp multiple fragments (SpMax_Dzare/SpMax)
+733 SpAbs_Dzi multiple fragments (SpDiam_Dzare/SpDiam)
+734 SpMax_Dzi multiple fragments (SpAD_Dzare/SpAD)
+735 SpDiam_Dzi multiple fragments (SpMAD_Dzare/SpMAD)
+736 SpAD_Dzi multiple fragments (LogEE_Dzare/LogEE)
+737 SpMAD_Dzi multiple fragments (SM1_Dzare/SM1)
+738 LogEE_Dzi multiple fragments (VE1_Dzare/VE1)
+739 SM1_Dzi multiple fragments (VE2_Dzare/VE2)
+740 VE1_Dzi multiple fragments (VE3_Dzare/VE3)
+741 VE2_Dzi multiple fragments (VR1_Dzare/VR1)
+742 VE3_Dzi multiple fragments (VR2_Dzare/VR2)
+743 VR1_Dzi multiple fragments (VR3_Dzare/VR3)
+744 VR2_Dzi multiple fragments (SpAbs_Dzp/SpAbs)
+745 VR3_Dzi multiple fragments (SpMax_Dzp/SpMax)
+746 BCUTc-1h multiple fragments (SpDiam_Dzp/SpDiam)
+747 BCUTc-1l multiple fragments (SpAD_Dzp/SpAD)
+748 BCUTdv-1h multiple fragments (SpMAD_Dzp/SpMAD)
+749 BCUTdv-1l multiple fragments (LogEE_Dzp/LogEE)
+750 BCUTd-1h multiple fragments (SM1_Dzp/SM1)
+751 BCUTd-1l multiple fragments (VE1_Dzp/VE1)
+752 BCUTs-1h multiple fragments (VE2_Dzp/VE2)
+753 BCUTs-1l multiple fragments (VE3_Dzp/VE3)
+754 BCUTZ-1h multiple fragments (VR1_Dzp/VR1)
+755 BCUTZ-1l multiple fragments (VR2_Dzp/VR2)
+756 BCUTm-1h multiple fragments (VR3_Dzp/VR3)
+757 BCUTm-1l multiple fragments (SpAbs_Dzi/SpAbs)
+758 BCUTv-1h multiple fragments (SpMax_Dzi/SpMax)
+759 BCUTv-1l multiple fragments (SpDiam_Dzi/SpDiam)
+760 BCUTse-1h multiple fragments (SpAD_Dzi/SpAD)
+761 BCUTse-1l multiple fragments (SpMAD_Dzi/SpMAD)
+762 BCUTpe-1h multiple fragments (LogEE_Dzi/LogEE)
+763 BCUTpe-1l multiple fragments (SM1_Dzi/SM1)
+764 BCUTare-1h multiple fragments (VE1_Dzi/VE1)
+765 BCUTare-1l multiple fragments (VE2_Dzi/VE2)
+766 BCUTp-1h multiple fragments (VE3_Dzi/VE3)
+767 BCUTp-1l multiple fragments (VR1_Dzi/VR1)
+768 BCUTi-1h multiple fragments (VR2_Dzi/VR2)
+769 BCUTi-1l multiple fragments (VR3_Dzi/VR3)
+770 BertzCT 90.7164928725825
+771 nBonds 4
+772 nBondsO 4
+773 nBondsS 2
+774 nBondsD 2
+775 nBondsT 0
+776 nBondsA 0
+777 nBondsM 2
+778 nBondsKS 2
+779 nBondsKD 2
+780 C1SP1 0.37358426050725296
+781 C2SP1 0.9847119459038512
+782 C1SP2 0
+783 C2SP2 0
+784 C3SP2 0
+785 C1SP3 0
+786 C2SP3 0
+787 C3SP3 0
+788 C4SP3 0
+789 HybRatio 0
+790 Xch-3d 0
+791 Xch-4d there are no sp3 and sp2 carbons (HybRatio)
+792 Xch-5d 0.0
+793 Xch-6d 0.0
+794 Xch-7d 0.0
+795 Xch-3dv 0.0
+796 Xch-4dv 0.0
+797 Xch-5dv 0.0
+798 Xch-6dv 0.0
+799 Xch-7dv 0.0
+800 Xc-3d 0.0
+801 Xc-4d 0.0
+802 Xc-5d 0.0
+803 Xc-6d 2.0
+804 Xc-3dv 0.5
+805 Xc-4dv 0.0
+806 Xc-5dv 0.0
+807 Xc-6dv 0.2971604928192348
+808 Xpc-4d 0.029160592175990215
+809 Xpc-5d 0.0
+810 Xpc-6d 0.0
+811 Xpc-4dv 0.0
+812 Xpc-5dv 0.0
+813 Xpc-6dv 0.0
+814 Xp-0d 0.0
+815 Xp-1d 0.0
+816 Xp-2d 0.0
+817 Xp-3d some properties less then or equal to 0 (Xp-0d)
+818 Xp-4d 2.0
+819 Xp-5d 3.0
+820 Xp-6d 0.0
+821 Xp-7d 0.0
+822 AXp-0d 0.0
+823 AXp-1d 0.0
+824 AXp-2d 0.0
+825 AXp-3d some properties less then or equal to 0 (AXp-0d)
+826 AXp-4d 0.5
+827 AXp-5d 0.5
+828 AXp-6d float division by zero (AXp-3d)
+829 AXp-7d float division by zero (AXp-4d)
+830 Xp-0dv float division by zero (AXp-5d)
+831 Xp-1dv float division by zero (AXp-6d)
+832 Xp-2dv float division by zero (AXp-7d)
+833 Xp-3dv some properties less then or equal to 0 (Xp-0dv)
+834 Xp-4dv 1.9258200997725514
+835 Xp-5dv 1.1350166443063274
+836 Xp-6dv 0.0
+837 Xp-7dv 0.0
+838 AXp-0dv 0.0
+839 AXp-1dv 0.0
+840 AXp-2dv 0.0
+841 AXp-3dv some properties less then or equal to 0 (AXp-0dv)
+842 AXp-4dv 0.48145502494313785
+843 AXp-5dv 0.18916944071772124
+844 AXp-6dv float division by zero (AXp-3dv)
+845 AXp-7dv float division by zero (AXp-4dv)
+846 SZ float division by zero (AXp-5dv)
+847 Sm float division by zero (AXp-6dv)
+848 Sv float division by zero (AXp-7dv)
+849 Sse 13.0
+850 Spe 13.440679377237533
+851 Sare 5.699131487889273
+852 Sp 7.209031318281136
+853 Si 7.054901960784314
+854 MZ 7.24
+855 Mm 7.10059880239521
+856 Mv 6.591867801035496
+857 Mse 2.1666666666666665
+858 Mpe 2.2401132295395887
+859 Mare 0.9498552479815455
+860 Mp 1.2015052197135228
+861 Mi 1.1758169934640523
+862 RNCG 1.2066666666666668
+863 RPCG 1.183433133732535
+864 SpAbs_Dt 1.0986446335059161
+865 SpMax_Dt multiple fragments (SpAbs_Dt)
+866 SpDiam_Dt multiple fragments (SpMax_Dt)
+867 SpAD_Dt multiple fragments (SpDiam_Dt)
+868 SpMAD_Dt multiple fragments (SpAD_Dt)
+869 LogEE_Dt multiple fragments (SpMAD_Dt)
+870 SM1_Dt multiple fragments (LogEE_Dt)
+871 VE1_Dt multiple fragments (SM1_Dt)
+872 VE2_Dt multiple fragments (VE1_Dt)
+873 VE3_Dt multiple fragments (VE2_Dt)
+874 VR1_Dt multiple fragments (VE3_Dt)
+875 VR2_Dt multiple fragments (VR1_Dt)
+876 VR3_Dt multiple fragments (VR2_Dt)
+877 DetourIndex multiple fragments (VR3_Dt)
+878 SpAbs_D multiple fragments (DetourIndex)
+879 SpMax_D multiple fragments (SpAbs_D/SpAbs)
+880 SpDiam_D multiple fragments (SpMax_D/SpMax)
+881 SpAD_D multiple fragments (SpDiam_D/SpDiam)
+882 SpMAD_D multiple fragments (SpAD_D/SpAD)
+883 LogEE_D multiple fragments (SpMAD_D/SpMAD)
+884 SM1_D multiple fragments (LogEE_D/LogEE)
+885 VE1_D multiple fragments (VE1_D/VE1)
+886 VE2_D multiple fragments (VE2_D/VE2)
+887 VE3_D multiple fragments (VE3_D/VE3)
+888 VR1_D multiple fragments (VR1_D/VR1)
+889 VR2_D multiple fragments (VR2_D/VR2)
+890 VR3_D multiple fragments (VR3_D/VR3)
+891 ECIndex 0
+892 NsLi 0
+893 NssBe 0
+894 NssssBe 0
+895 NssBH 0
+896 NsssB 0
+897 NssssB 0
+898 NsCH3 0
+899 NdCH2 0
+900 NssCH2 0
+901 NtCH 0
+902 NdsCH 0
+903 NaaCH 0
+904 NsssCH 0
+905 NddC 0
+906 NtsC 0
+907 NdssC 0
+908 NaasC 0
+909 NaaaC 0
+910 NssssC 0
+911 NsNH3 0
+912 NsNH2 0
+913 NssNH2 0
+914 NdNH 0
+915 NssNH 0
+916 NaaNH 0
+917 NtN 0
+918 NsssNH 0
+919 NdsN 0
+920 NaaN 0
+921 NsssN 0
+922 NddsN 0
+923 NaasN 0
+924 NssssN 0
+925 NsOH 2
+926 NdO 0
+927 NssO 0
+928 NaaO 0
+929 NsF 0
+930 NsSiH3 0
+931 NssSiH2 0
+932 NsssSiH 0
+933 NssssSi 0
+934 NsPH2 0
+935 NssPH 0
+936 NsssP 0
+937 NdsssP 0
+938 NsssssP 0
+939 NsSH 0
+940 NdS 0
+941 NssS 0
+942 NaaS 0
+943 NdssS 1
+944 NddssS 0
+945 NsCl 0
+946 NsGeH3 0
+947 NssGeH2 0
+948 NsssGeH 0
+949 NssssGe 0
+950 NsAsH2 0
+951 NssAsH 0
+952 NsssAs 0
+953 NsssdAs 0
+954 NsssssAs 0
+955 NsSeH 0
+956 NdSe 0
+957 NssSe 0
+958 NaaSe 0
+959 NdssSe 0
+960 NddssSe 0
+961 NsBr 0
+962 NsSnH3 0
+963 NssSnH2 0
+964 NsssSnH 0
+965 NssssSn 0
+966 NsI 0
+967 NsPbH3 0
+968 NssPbH2 0
+969 NsssPbH 0
+970 NssssPb 0
+971 SsLi 0
+972 SssBe 0
+973 SssssBe 0
+974 SssBH 0
+975 SsssB 0
+976 SssssB 0
+977 SsCH3 0
+978 SdCH2 0
+979 SssCH2 0
+980 StCH 0
+981 SdsCH 0
+982 SaaCH 0
+983 SsssCH 0
+984 SddC 0
+985 StsC 0
+986 SdssC 0
+987 SaasC 0
+988 SaaaC 0
+989 SssssC 0
+990 SsNH3 0
+991 SsNH2 0
+992 SssNH2 0
+993 SdNH 0
+994 SssNH 0
+995 SaaNH 0
+996 StN 0
+997 SsssNH 0
+998 SdsN 0
+999 SaaN 0
+1000 SsssN 0
+1001 SddsN 0
+1002 SaasN 0
+1003 SssssN 0
+1004 SsOH 17.041666666666668
+1005 SdO 0
+1006 SssO 0
+1007 SaaO 0
+1008 SsF 0
+1009 SsSiH3 0
+1010 SssSiH2 0
+1011 SsssSiH 0
+1012 SssssSi 0
+1013 SsPH2 0
+1014 SssPH 0
+1015 SsssP 0
+1016 SdsssP 0
+1017 SsssssP 0
+1018 SsSH 0
+1019 SdS 0
+1020 SssS 0
+1021 SaaS 0
+1022 SdssS -5.166666666666666
+1023 SddssS 0
+1024 SsCl 0
+1025 SsGeH3 0
+1026 SssGeH2 0
+1027 SsssGeH 0
+1028 SssssGe 0
+1029 SsAsH2 0
+1030 SssAsH 0
+1031 SsssAs 0
+1032 SsssdAs 0
+1033 SsssssAs 0
+1034 SsSeH 0
+1035 SdSe 0
+1036 SssSe 0
+1037 SaaSe 0
+1038 SdssSe 0
+1039 SddssSe 0
+1040 SsBr 0
+1041 SsSnH3 0
+1042 SssSnH2 0
+1043 SsssSnH 0
+1044 SssssSn 0
+1045 SsI 0
+1046 SsPbH3 0
+1047 SssPbH2 0
+1048 SsssPbH 0
+1049 SssssPb max() arg is an empty sequence (MAXsLi)
+1050 MAXsLi max() arg is an empty sequence (MAXssBe)
+1051 MAXssBe max() arg is an empty sequence (MAXssssBe)
+1052 MAXssssBe max() arg is an empty sequence (MAXssBH)
+1053 MAXssBH max() arg is an empty sequence (MAXsssB)
+1054 MAXsssB max() arg is an empty sequence (MAXssssB)
+1055 MAXssssB max() arg is an empty sequence (MAXsCH3)
+1056 MAXsCH3 max() arg is an empty sequence (MAXdCH2)
+1057 MAXdCH2 max() arg is an empty sequence (MAXssCH2)
+1058 MAXssCH2 max() arg is an empty sequence (MAXtCH)
+1059 MAXtCH max() arg is an empty sequence (MAXdsCH)
+1060 MAXdsCH max() arg is an empty sequence (MAXaaCH)
+1061 MAXaaCH max() arg is an empty sequence (MAXsssCH)
+1062 MAXsssCH max() arg is an empty sequence (MAXddC)
+1063 MAXddC max() arg is an empty sequence (MAXtsC)
+1064 MAXtsC max() arg is an empty sequence (MAXdssC)
+1065 MAXdssC max() arg is an empty sequence (MAXaasC)
+1066 MAXaasC max() arg is an empty sequence (MAXaaaC)
+1067 MAXaaaC max() arg is an empty sequence (MAXssssC)
+1068 MAXssssC max() arg is an empty sequence (MAXsNH3)
+1069 MAXsNH3 max() arg is an empty sequence (MAXsNH2)
+1070 MAXsNH2 max() arg is an empty sequence (MAXssNH2)
+1071 MAXssNH2 max() arg is an empty sequence (MAXdNH)
+1072 MAXdNH max() arg is an empty sequence (MAXssNH)
+1073 MAXssNH max() arg is an empty sequence (MAXaaNH)
+1074 MAXaaNH max() arg is an empty sequence (MAXtN)
+1075 MAXtN max() arg is an empty sequence (MAXsssNH)
+1076 MAXsssNH max() arg is an empty sequence (MAXdsN)
+1077 MAXdsN max() arg is an empty sequence (MAXaaN)
+1078 MAXaaN max() arg is an empty sequence (MAXsssN)
+1079 MAXsssN max() arg is an empty sequence (MAXddsN)
+1080 MAXddsN max() arg is an empty sequence (MAXaasN)
+1081 MAXaasN max() arg is an empty sequence (MAXssssN)
+1082 MAXssssN max() arg is an empty sequence (MAXsOH)
+1083 MAXsOH 8.520833333333334
+1084 MAXdO max() arg is an empty sequence (MAXssO)
+1085 MAXssO max() arg is an empty sequence (MAXaaO)
+1086 MAXaaO max() arg is an empty sequence (MAXsF)
+1087 MAXsF max() arg is an empty sequence (MAXsSiH3)
+1088 MAXsSiH3 max() arg is an empty sequence (MAXssSiH2)
+1089 MAXssSiH2 max() arg is an empty sequence (MAXsssSiH)
+1090 MAXsssSiH max() arg is an empty sequence (MAXssssSi)
+1091 MAXssssSi max() arg is an empty sequence (MAXsPH2)
+1092 MAXsPH2 max() arg is an empty sequence (MAXssPH)
+1093 MAXssPH max() arg is an empty sequence (MAXsssP)
+1094 MAXsssP max() arg is an empty sequence (MAXdsssP)
+1095 MAXdsssP max() arg is an empty sequence (MAXsssssP)
+1096 MAXsssssP max() arg is an empty sequence (MAXsSH)
+1097 MAXsSH max() arg is an empty sequence (MAXdS)
+1098 MAXdS max() arg is an empty sequence (MAXssS)
+1099 MAXssS max() arg is an empty sequence (MAXaaS)
+1100 MAXaaS max() arg is an empty sequence (MAXdssS)
+1101 MAXdssS -5.166666666666666
+1102 MAXddssS max() arg is an empty sequence (MAXsCl)
+1103 MAXsCl max() arg is an empty sequence (MAXsGeH3)
+1104 MAXsGeH3 max() arg is an empty sequence (MAXssGeH2)
+1105 MAXssGeH2 max() arg is an empty sequence (MAXsssGeH)
+1106 MAXsssGeH max() arg is an empty sequence (MAXssssGe)
+1107 MAXssssGe max() arg is an empty sequence (MAXsAsH2)
+1108 MAXsAsH2 max() arg is an empty sequence (MAXssAsH)
+1109 MAXssAsH max() arg is an empty sequence (MAXsssAs)
+1110 MAXsssAs max() arg is an empty sequence (MAXsssdAs)
+1111 MAXsssdAs max() arg is an empty sequence (MAXsssssAs)
+1112 MAXsssssAs max() arg is an empty sequence (MAXsSeH)
+1113 MAXsSeH max() arg is an empty sequence (MAXdSe)
+1114 MAXdSe max() arg is an empty sequence (MAXssSe)
+1115 MAXssSe max() arg is an empty sequence (MAXaaSe)
+1116 MAXaaSe max() arg is an empty sequence (MAXdssSe)
+1117 MAXdssSe max() arg is an empty sequence (MAXddssSe)
+1118 MAXddssSe max() arg is an empty sequence (MAXsBr)
+1119 MAXsBr max() arg is an empty sequence (MAXsSnH3)
+1120 MAXsSnH3 max() arg is an empty sequence (MAXssSnH2)
+1121 MAXssSnH2 max() arg is an empty sequence (MAXsssSnH)
+1122 MAXsssSnH max() arg is an empty sequence (MAXssssSn)
+1123 MAXssssSn max() arg is an empty sequence (MAXsI)
+1124 MAXsI max() arg is an empty sequence (MAXsPbH3)
+1125 MAXsPbH3 max() arg is an empty sequence (MAXssPbH2)
+1126 MAXssPbH2 max() arg is an empty sequence (MAXsssPbH)
+1127 MAXsssPbH max() arg is an empty sequence (MAXssssPb)
+1128 MAXssssPb min() arg is an empty sequence (MINsLi)
+1129 MINsLi min() arg is an empty sequence (MINssBe)
+1130 MINssBe min() arg is an empty sequence (MINssssBe)
+1131 MINssssBe min() arg is an empty sequence (MINssBH)
+1132 MINssBH min() arg is an empty sequence (MINsssB)
+1133 MINsssB min() arg is an empty sequence (MINssssB)
+1134 MINssssB min() arg is an empty sequence (MINsCH3)
+1135 MINsCH3 min() arg is an empty sequence (MINdCH2)
+1136 MINdCH2 min() arg is an empty sequence (MINssCH2)
+1137 MINssCH2 min() arg is an empty sequence (MINtCH)
+1138 MINtCH min() arg is an empty sequence (MINdsCH)
+1139 MINdsCH min() arg is an empty sequence (MINaaCH)
+1140 MINaaCH min() arg is an empty sequence (MINsssCH)
+1141 MINsssCH min() arg is an empty sequence (MINddC)
+1142 MINddC min() arg is an empty sequence (MINtsC)
+1143 MINtsC min() arg is an empty sequence (MINdssC)
+1144 MINdssC min() arg is an empty sequence (MINaasC)
+1145 MINaasC min() arg is an empty sequence (MINaaaC)
+1146 MINaaaC min() arg is an empty sequence (MINssssC)
+1147 MINssssC min() arg is an empty sequence (MINsNH3)
+1148 MINsNH3 min() arg is an empty sequence (MINsNH2)
+1149 MINsNH2 min() arg is an empty sequence (MINssNH2)
+1150 MINssNH2 min() arg is an empty sequence (MINdNH)
+1151 MINdNH min() arg is an empty sequence (MINssNH)
+1152 MINssNH min() arg is an empty sequence (MINaaNH)
+1153 MINaaNH min() arg is an empty sequence (MINtN)
+1154 MINtN min() arg is an empty sequence (MINsssNH)
+1155 MINsssNH min() arg is an empty sequence (MINdsN)
+1156 MINdsN min() arg is an empty sequence (MINaaN)
+1157 MINaaN min() arg is an empty sequence (MINsssN)
+1158 MINsssN min() arg is an empty sequence (MINddsN)
+1159 MINddsN min() arg is an empty sequence (MINaasN)
+1160 MINaasN min() arg is an empty sequence (MINssssN)
+1161 MINssssN min() arg is an empty sequence (MINsOH)
+1162 MINsOH 8.520833333333334
+1163 MINdO min() arg is an empty sequence (MINssO)
+1164 MINssO min() arg is an empty sequence (MINaaO)
+1165 MINaaO min() arg is an empty sequence (MINsF)
+1166 MINsF min() arg is an empty sequence (MINsSiH3)
+1167 MINsSiH3 min() arg is an empty sequence (MINssSiH2)
+1168 MINssSiH2 min() arg is an empty sequence (MINsssSiH)
+1169 MINsssSiH min() arg is an empty sequence (MINssssSi)
+1170 MINssssSi min() arg is an empty sequence (MINsPH2)
+1171 MINsPH2 min() arg is an empty sequence (MINssPH)
+1172 MINssPH min() arg is an empty sequence (MINsssP)
+1173 MINsssP min() arg is an empty sequence (MINdsssP)
+1174 MINdsssP min() arg is an empty sequence (MINsssssP)
+1175 MINsssssP min() arg is an empty sequence (MINsSH)
+1176 MINsSH min() arg is an empty sequence (MINdS)
+1177 MINdS min() arg is an empty sequence (MINssS)
+1178 MINssS min() arg is an empty sequence (MINaaS)
+1179 MINaaS min() arg is an empty sequence (MINdssS)
+1180 MINdssS -5.166666666666666
+1181 MINddssS min() arg is an empty sequence (MINsCl)
+1182 MINsCl min() arg is an empty sequence (MINsGeH3)
+1183 MINsGeH3 min() arg is an empty sequence (MINssGeH2)
+1184 MINssGeH2 min() arg is an empty sequence (MINsssGeH)
+1185 MINsssGeH min() arg is an empty sequence (MINssssGe)
+1186 MINssssGe min() arg is an empty sequence (MINsAsH2)
+1187 MINsAsH2 min() arg is an empty sequence (MINssAsH)
+1188 MINssAsH min() arg is an empty sequence (MINsssAs)
+1189 MINsssAs min() arg is an empty sequence (MINsssdAs)
+1190 MINsssdAs min() arg is an empty sequence (MINsssssAs)
+1191 MINsssssAs min() arg is an empty sequence (MINsSeH)
+1192 MINsSeH min() arg is an empty sequence (MINdSe)
+1193 MINdSe min() arg is an empty sequence (MINssSe)
+1194 MINssSe min() arg is an empty sequence (MINaaSe)
+1195 MINaaSe min() arg is an empty sequence (MINdssSe)
+1196 MINdssSe min() arg is an empty sequence (MINddssSe)
+1197 MINddssSe min() arg is an empty sequence (MINsBr)
+1198 MINsBr min() arg is an empty sequence (MINsSnH3)
+1199 MINsSnH3 min() arg is an empty sequence (MINssSnH2)
+1200 MINssSnH2 min() arg is an empty sequence (MINsssSnH)
+1201 MINsssSnH min() arg is an empty sequence (MINssssSn)
+1202 MINssssSn min() arg is an empty sequence (MINsI)
+1203 MINsI min() arg is an empty sequence (MINsPbH3)
+1204 MINsPbH3 min() arg is an empty sequence (MINssPbH2)
+1205 MINssPbH2 min() arg is an empty sequence (MINsssPbH)
+1206 MINsssPbH min() arg is an empty sequence (MINssssPb)
+1207 MINssssPb 800000000
+1208 ETA_alpha multiple fragments (ETA_alpha)
+1209 AETA_alpha multiple fragments (AETA_alpha)
+1210 ETA_shape_p multiple fragments (ETA_shape_p)
+1211 ETA_shape_y multiple fragments (ETA_shape_y)
+1212 ETA_shape_x multiple fragments (ETA_shape_x)
+1213 ETA_beta multiple fragments (ETA_beta)
+1214 AETA_beta multiple fragments (AETA_beta)
+1215 ETA_beta_s multiple fragments (ETA_beta_s)
+1216 AETA_beta_s multiple fragments (AETA_beta_s)
+1217 ETA_beta_ns multiple fragments (ETA_beta_ns)
+1218 AETA_beta_ns multiple fragments (AETA_beta_ns)
+1219 ETA_beta_ns_d multiple fragments (ETA_beta_ns_d)
+1220 AETA_beta_ns_d multiple fragments (AETA_beta_ns_d)
+1221 ETA_eta multiple fragments (ETA_eta)
+1222 AETA_eta multiple fragments (AETA_eta)
+1223 ETA_eta_L multiple fragments (ETA_eta_L)
+1224 AETA_eta_L multiple fragments (AETA_eta_L)
+1225 ETA_eta_R multiple fragments (ETA_eta_R)
+1226 AETA_eta_R multiple fragments (AETA_eta_R)
+1227 ETA_eta_RL multiple fragments (ETA_eta_RL)
+1228 AETA_eta_RL multiple fragments (AETA_eta_RL)
+1229 ETA_eta_F multiple fragments (ETA_eta_F)
+1230 AETA_eta_F multiple fragments (AETA_eta_F)
+1231 ETA_eta_FL multiple fragments (ETA_eta_FL)
+1232 AETA_eta_FL multiple fragments (AETA_eta_FL)
+1233 ETA_eta_B multiple fragments (ETA_eta_B)
+1234 AETA_eta_B multiple fragments (AETA_eta_B)
+1235 ETA_eta_BR multiple fragments (ETA_eta_BR)
+1236 AETA_eta_BR multiple fragments (AETA_eta_BR)
+1237 ETA_dAlpha_A multiple fragments (ETA_dAlpha_A)
+1238 ETA_dAlpha_B multiple fragments (ETA_dAlpha_B)
+1239 ETA_epsilon_1 multiple fragments (ETA_epsilon_1)
+1240 ETA_epsilon_2 multiple fragments (ETA_epsilon_2)
+1241 ETA_epsilon_3 multiple fragments (ETA_epsilon_3)
+1242 ETA_epsilon_4 multiple fragments (ETA_epsilon_4)
+1243 ETA_epsilon_5 multiple fragments (ETA_epsilon_5)
+1244 ETA_dEpsilon_A multiple fragments (ETA_dEpsilon_A)
+1245 ETA_dEpsilon_B multiple fragments (ETA_dEpsilon_B)
+1246 ETA_dEpsilon_C multiple fragments (ETA_dEpsilon_C)
+1247 ETA_dEpsilon_D multiple fragments (ETA_dEpsilon_D)
+1248 ETA_dBeta multiple fragments (ETA_dBeta)
+1249 AETA_dBeta multiple fragments (AETA_dBeta)
+1250 ETA_psi_1 multiple fragments (ETA_psi_1)
+1251 ETA_dPsi_A multiple fragments (ETA_dPsi_A)
+1252 ETA_dPsi_B multiple fragments (ETA_dPsi_B)
+1253 fragCpx 14.06
+1254 fMF 0.0
+1255 nHBAcc 4
+1256 nHBDon 0
+1257 IC0 1.2516291673878228
+1258 IC1 1.9182958340544893
+1259 IC2 1.9182958340544893
+1260 IC3 1.9182958340544893
+1261 IC4 1.9182958340544893
+1262 IC5 1.9182958340544893
+1263 TIC0 7.5097750043269365
+1264 TIC1 11.509775004326936
+1265 TIC2 11.509775004326936
+1266 TIC3 11.509775004326936
+1267 TIC4 11.509775004326936
+1268 TIC5 11.509775004326936
+1269 SIC0 0.4841962570206112
+1270 SIC1 0.7420981285103055
+1271 SIC2 0.7420981285103055
+1272 SIC3 0.7420981285103055
+1273 SIC4 0.7420981285103055
+1274 SIC5 0.7420981285103055
+1275 BIC0 0.4841962570206112
+1276 BIC1 0.7420981285103055
+1277 BIC2 0.7420981285103055
+1278 BIC3 0.7420981285103055
+1279 BIC4 0.7420981285103055
+1280 BIC5 0.7420981285103055
+1281 CIC0 1.3333333333333333
+1282 CIC1 0.6666666666666667
+1283 CIC2 0.6666666666666667
+1284 CIC3 0.6666666666666667
+1285 CIC4 0.6666666666666667
+1286 CIC5 0.6666666666666667
+1287 MIC0 48.22632510482214
+1288 MIC1 58.892325104822135
+1289 MIC2 58.892325104822135
+1290 MIC3 58.892325104822135
+1291 MIC4 58.892325104822135
+1292 MIC5 58.892325104822135
+1293 ZMIC0 32.29724585424686
+1294 ZMIC1 36.72431251322119
+1295 ZMIC2 36.72431251322119
+1296 ZMIC3 36.72431251322119
+1297 ZMIC4 36.72431251322119
+1298 ZMIC5 36.72431251322119
+1299 Kier1 9.375
+1300 Kier2 2.2222222222222223
+1301 Kier3 float division by zero (Kier3)
+1302 Lipinski True
+1303 GhoseFilter False
+1304 VMcGowan -0.12355824417289063
+1305 LabuteASA 80.61999999999999
+1306 PEOE_VSA1 47.88951059429245
+1307 PEOE_VSA2 9.105499747380728
+1308 PEOE_VSA3 8.417796984328938
+1309 PEOE_VSA4 0.0
+1310 PEOE_VSA5 0.0
+1311 PEOE_VSA6 0.0
+1312 PEOE_VSA7 0.0
+1313 PEOE_VSA8 0.0
+1314 PEOE_VSA9 10.399000581649606
+1315 PEOE_VSA10 0.0
+1316 PEOE_VSA11 0.0
+1317 PEOE_VSA12 0.0
+1318 PEOE_VSA13 0.0
+1319 SMR_VSA1 0.0
+1320 SMR_VSA2 37.00126563058097
+1321 SMR_VSA3 0.0
+1322 SMR_VSA4 0.0
+1323 SMR_VSA5 0.0
+1324 SMR_VSA6 0.0
+1325 SMR_VSA7 0.0
+1326 SMR_VSA8 0.0
+1327 SMR_VSA9 0.0
+1328 SlogP_VSA1 0.0
+1329 SlogP_VSA2 0.0
+1330 SlogP_VSA3 17.523296731709664
+1331 SlogP_VSA4 29.87696948052091
+1332 SlogP_VSA5 0.0
+1333 SlogP_VSA6 0.0
+1334 SlogP_VSA7 0.0
+1335 SlogP_VSA8 0.0
+1336 SlogP_VSA9 0.0
+1337 SlogP_VSA10 0.0
+1338 SlogP_VSA11 0.0
+1339 EState_VSA1 0.0
+1340 EState_VSA2 10.399000581649606
+1341 EState_VSA3 19.477968898871303
+1342 EState_VSA4 0.0
+1343 EState_VSA5 0.0
+1344 EState_VSA6 0.0
+1345 EState_VSA7 0.0
+1346 EState_VSA8 0.0
+1347 EState_VSA9 0.0
+1348 EState_VSA10 17.523296731709664
+1349 VSA_EState1 0.0
+1350 VSA_EState2 0.0
+1351 VSA_EState3 0.0
+1352 VSA_EState4 0.0
+1353 VSA_EState5 0.0
+1354 VSA_EState6 0.0
+1355 VSA_EState7 0.0
+1356 VSA_EState8 0.0
+1357 VSA_EState9 34.083333333333336
+1358 MDEC-11 0.0
+1359 MDEC-12 float division by zero (MDEC-11)
+1360 MDEC-13 float division by zero (MDEC-12)
+1361 MDEC-14 float division by zero (MDEC-13)
+1362 MDEC-22 float division by zero (MDEC-14)
+1363 MDEC-23 float division by zero (MDEC-22)
+1364 MDEC-24 float division by zero (MDEC-23)
+1365 MDEC-33 float division by zero (MDEC-24)
+1366 MDEC-34 float division by zero (MDEC-33)
+1367 MDEC-44 float division by zero (MDEC-34)
+1368 MDEO-11 float division by zero (MDEC-44)
+1369 MDEO-12 3.000000000000001
+1370 MDEO-22 float division by zero (MDEO-12)
+1371 MDEN-11 float division by zero (MDEO-22)
+1372 MDEN-12 float division by zero (MDEN-11)
+1373 MDEN-13 float division by zero (MDEN-12)
+1374 MDEN-22 float division by zero (MDEN-13)
+1375 MDEN-23 float division by zero (MDEN-22)
+1376 MDEN-33 float division by zero (MDEN-23)
+1377 MID float division by zero (MDEN-33)
+1378 AMID multiple fragments (MID)
+1379 MID_h multiple fragments (AMID)
+1380 AMID_h multiple fragments (MID_h)
+1381 MID_C multiple fragments (AMID_h)
+1382 AMID_C multiple fragments (MID_C)
+1383 MID_N multiple fragments (AMID_C)
+1384 AMID_N multiple fragments (MID_N)
+1385 MID_O multiple fragments (AMID_N)
+1386 AMID_O multiple fragments (MID_O)
+1387 MID_X multiple fragments (AMID_O)
+1388 AMID_X multiple fragments (MID_X)
+1389 MPC2 multiple fragments (AMID_X)
+1390 MPC3 6
+1391 MPC4 0
+1392 MPC5 0
+1393 MPC6 0
+1394 MPC7 0
+1395 MPC8 0
+1396 MPC9 0
+1397 MPC10 0
+1398 TMPC10 0
+1399 piPC1 16
+1400 piPC2 1.9459101490553132
+1401 piPC3 2.6390573296152584
+1402 piPC4 0.0
+1403 piPC5 0.0
+1404 piPC6 0.0
+1405 piPC7 0.0
+1406 piPC8 0.0
+1407 piPC9 0.0
+1408 piPC10 0.0
+1409 TpiPC10 0.0
+1410 apol 3.258096538021482
+1411 bpol 11.857999999999999
+1412 nRing 8.392
+1413 n3Ring 0
+1414 n4Ring 0
+1415 n5Ring 0
+1416 n6Ring 0
+1417 n7Ring 0
+1418 n8Ring 0
+1419 n9Ring 0
+1420 n10Ring 0
+1421 n11Ring 0
+1422 n12Ring 0
+1423 nG12Ring 0
+1424 nHRing 0
+1425 n3HRing 0
+1426 n4HRing 0
+1427 n5HRing 0
+1428 n6HRing 0
+1429 n7HRing 0
+1430 n8HRing 0
+1431 n9HRing 0
+1432 n10HRing 0
+1433 n11HRing 0
+1434 n12HRing 0
+1435 nG12HRing 0
+1436 naRing 0
+1437 n3aRing 0
+1438 n4aRing 0
+1439 n5aRing 0
+1440 n6aRing 0
+1441 n7aRing 0
+1442 n8aRing 0
+1443 n9aRing 0
+1444 n10aRing 0
+1445 n11aRing 0
+1446 n12aRing 0
+1447 nG12aRing 0
+1448 naHRing 0
+1449 n3aHRing 0
+1450 n4aHRing 0
+1451 n5aHRing 0
+1452 n6aHRing 0
+1453 n7aHRing 0
+1454 n8aHRing 0
+1455 n9aHRing 0
+1456 n10aHRing 0
+1457 n11aHRing 0
+1458 n12aHRing 0
+1459 nG12aHRing 0
+1460 nARing 0
+1461 n3ARing 0
+1462 n4ARing 0
+1463 n5ARing 0
+1464 n6ARing 0
+1465 n7ARing 0
+1466 n8ARing 0
+1467 n9ARing 0
+1468 n10ARing 0
+1469 n11ARing 0
+1470 n12ARing 0
+1471 nG12ARing 0
+1472 nAHRing 0
+1473 n3AHRing 0
+1474 n4AHRing 0
+1475 n5AHRing 0
+1476 n6AHRing 0
+1477 n7AHRing 0
+1478 n8AHRing 0
+1479 n9AHRing 0
+1480 n10AHRing 0
+1481 n11AHRing 0
+1482 n12AHRing 0
+1483 nG12AHRing 0
+1484 nFRing 0
+1485 n4FRing 0
+1486 n5FRing 0
+1487 n6FRing 0
+1488 n7FRing 0
+1489 n8FRing 0
+1490 n9FRing 0
+1491 n10FRing 0
+1492 n11FRing 0
+1493 n12FRing 0
+1494 nG12FRing 0
+1495 nFHRing 0
+1496 n4FHRing 0
+1497 n5FHRing 0
+1498 n6FHRing 0
+1499 n7FHRing 0
+1500 n8FHRing 0
+1501 n9FHRing 0
+1502 n10FHRing 0
+1503 n11FHRing 0
+1504 n12FHRing 0
+1505 nG12FHRing 0
+1506 nFaRing 0
+1507 n4FaRing 0
+1508 n5FaRing 0
+1509 n6FaRing 0
+1510 n7FaRing 0
+1511 n8FaRing 0
+1512 n9FaRing 0
+1513 n10FaRing 0
+1514 n11FaRing 0
+1515 n12FaRing 0
+1516 nG12FaRing 0
+1517 nFaHRing 0
+1518 n4FaHRing 0
+1519 n5FaHRing 0
+1520 n6FaHRing 0
+1521 n7FaHRing 0
+1522 n8FaHRing 0
+1523 n9FaHRing 0
+1524 n10FaHRing 0
+1525 n11FaHRing 0
+1526 n12FaHRing 0
+1527 nG12FaHRing 0
+1528 nFARing 0
+1529 n4FARing 0
+1530 n5FARing 0
+1531 n6FARing 0
+1532 n7FARing 0
+1533 n8FARing 0
+1534 n9FARing 0
+1535 n10FARing 0
+1536 n11FARing 0
+1537 n12FARing 0
+1538 nG12FARing 0
+1539 nFAHRing 0
+1540 n4FAHRing 0
+1541 n5FAHRing 0
+1542 n6FAHRing 0
+1543 n7FAHRing 0
+1544 n8FAHRing 0
+1545 n9FAHRing 0
+1546 n10FAHRing 0
+1547 n11FAHRing 0
+1548 n12FAHRing 0
+1549 nG12FAHRing 0
+1550 nRot 0
+1551 RotRatio 0
+1552 SLogP 0.0
+1553 SMR -1.3404999999999996
+1554 GGI1 10.4746
+1555 GGI2 80.25999999999999
+1556 GGI3 88.63999999999999
+1557 GGI4 3.0
+1558 GGI5 0.0
+1559 GGI6 0.0
+1560 GGI7 0.0
+1561 GGI8 0.0
+1562 GGI9 0.0
+1563 GGI10 0.0
+1564 JGI1 0.0
+1565 JGI2 0.0
+1566 JGI3 0.0
+1567 JGI4 0.75
+1568 JGI5 0.0
+1569 JGI6 0.0
+1570 JGI7 0.0
+1571 JGI8 0.0
+1572 JGI9 0.0
+1573 JGI10 0.0
+1574 JGT10 0.0
+1575 Diameter 0.0
+1576 Radius 0.0
+1577 TopoShapeIndex 0.75
+1578 PetitjeanIndex 100000000
+1579 TopoPSA(NO) 100000000
+1580 TopoPSA 0.0
+1581 Vabc 0.0
+1582 VAdjMat unknown atom type (Vabc)
+1583 MWC01 3.0
+1584 MWC02 4.0
+1585 MWC03 3.044522437723423
+1586 MWC04 3.4965075614664802
+1587 MWC05 4.394449154672439
+1588 MWC06 4.859812404361672
+1589 MWC07 5.771441123130016
+1590 MWC08 6.240275845170769
+1591 MWC09 7.155396301896734
+1592 MWC10 7.6251071482389
+1593 TMWC10 8.54110501146255
+1594 SRW02 61.128616988122985
+1595 SRW03 2.1972245773362196
+1596 SRW04 0.0
+1597 SRW05 3.4965075614664802
+1598 SRW06 0.0
+1599 SRW07 4.859812404361672
+1600 SRW08 0.0
+1601 SRW09 6.240275845170769
+1602 SRW10 0.0
+1603 TSRW10 7.6251071482389
+1604 MW 30.418927536574042
+1605 AMW 159.88087167999998
+1606 WPath 26.646811946666663
+1607 WPol 500000016
+1608 Zagreb1 0
+1609 Zagreb2 20.0
+1610 mZagreb1 16.0
+1611 mZagreb2 divide by zero encountered in power (mZagreb1)

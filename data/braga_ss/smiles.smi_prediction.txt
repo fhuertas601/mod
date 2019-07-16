@@ -1,0 +1,8 @@
+1,CC(=O)C(C)=CC1C(C)=CCCC1(C)C,Alpha-isomethyl ionone,1
+2,O=C1Oc2ccccc2C=C1,Coumarin,0
+3,O=C(OCc1ccccc1)c1ccccc1,Benzyl benzoate,1
+4,c1(C=O)cc(OC)c(O)cc1,Vanillin,0
+5,COc1cc(C=O)ccc1O,Vanillin bis,0
+6,CC(C)=CCCC(C)=CC=O,Citral,1
+7,CC1=CC(=CC=C1)CC(C)(C)CO,Majantol,1
+8,CC1(C)CCC[C@@]2(C)[C@@]1([H])CC[C@@](C)(O)[C@@H]2CC[C@](O)(C)C=C,Sclareol,1

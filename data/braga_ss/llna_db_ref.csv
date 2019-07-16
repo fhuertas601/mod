@@ -1,11 +1,11 @@
-ID,Compound name,CASRN,SMILES,Activity
+ID,Compound name,CAS,SMILES,Activity
 0,(2E)-2-[(2-formyl-4-hydroxyphenyl)-methylidene]-butanedioic acid,773059-57-7,OC(=O)CC(=Cc1ccc(O)cc1C=O)C(O)=O,Sensitizer
 1,(4R;5S)-1;5-Dimethyl-3-(1-oxo-2-propenyl)-4-phenyl-2-imidazo-lidinone,139109-23-2,CC1C(N(C(=O)C=C)C(=O)N1C)c1ccccc1,Sensitizer
 2,(5R)-5-Isopropenyl-2-methyl-1-methylene-2-cyclohexene,,CC(=C)C1CC=C(C)C(=C)C1,Sensitizer
 3,'1-(2'';3'';4'';5''-Tetramethylphenyl)butane-1;3-dione',167998-73-4,CC(=O)CC(=O)c1cc(C)c(C)c(C)c1C,Sensitizer
 4,1-(2;3-epoxypropoxy)-2;2-bis[(2;3-epoxypropoxy)methylbutane,3454-29-3,CCC(COCC1CO1)(COCC1CO1)COCC1CO1,Sensitizer
-5,'1-(2'';5''-diethylphenyl)butane-1;3-dione',167998-76-7,CCc1ccc(CC)c(c1)C(=O)CC(C)=O,Sensitizer
-6,'1-(2'';5''-dimethylphenyl)butane-1;3-dione',56290-55-2,CC(=O)CC(=O)c1cc(C)ccc1C,Sensitizer
+5,1-(2'';5''-diethylphenyl)butane-1;3-dione,167998-76-7,CCc1ccc(CC)c(c1)C(=O)CC(C)=O,Sensitizer
+6,1-(2'';5''-dimethylphenyl)butane-1;3-dione,56290-55-2,CC(=O)CC(=O)c1cc(C)ccc1C,Sensitizer
 7,1-(p-methoxyphenyl)-1-penten-3-one,104-27-8,CCC(=O)C=Cc1ccc(OC)cc1,Sensitizer
 8,1;1;3-Trimethyl-2-formylcyclohexa-2;4-diene (Safranal),116-26-7,CC1=C(C=O)C(C)(C)CC=C1,Sensitizer
 9,1;1-dimethylethyl 3-[[[[(3s)-2;3;4;5-tetrahydro-1-[2-[(1-methylethyl)phenylamino]-2-oxoethyl]-2;4-dioxo-5-phenyl-1h-1;5-benzodiazepin-3-yl]amino]carbonyl]amino]benzoate,305366-94-3,CC(C)N(C(=O)CN1c2ccccc2N(c2ccccc2)C(=O)C(NC(=O)Nc2cccc(c2)C(=O)OC(C)(C)C)C1=O)c1ccccc1,Sensitizer
@@ -51,7 +51,7 @@ ID,Compound name,CASRN,SMILES,Activity
 49,2-(hexadecyloxy)ethanol,2136-71-2,CCCCCCCCCCCCCCCCOCCO,Sensitizer
 50,2;2;6;6-Tetramethyl-heptane-3;5-dione,1118-71-4,CC(C)(C)C(=O)CC(=O)C(C)(C)C,Sensitizer
 51,2;2-bis-[4-(2-hydroxy-3 methacryloxypropoxy)phenyl)]-propane,1565-94-2,CC(=C)C(=O)OCC(O)COc1ccc(cc1)C(C)(C)c1ccc(OCC(O)COC(=O)C(C)=C)cc1,Sensitizer
-52,'2'';3'';4''-Trihydroxychalcone',1482-74-2,Oc1ccc(C(=O)C=Cc2ccccc2)c(O)c1O,Sensitizer
+52,2'';3'';4''-Trihydroxychalcone,1482-74-2,Oc1ccc(C(=O)C=Cc2ccccc2)c(O)c1O,Sensitizer
 53,2;3-Butanedione,431-03-8,CC(=O)C(C)=O,Sensitizer
 54,2;4;5-Trichlorophenoxyacetic Acid,93-76-5,OC(=O)COc1cc(Cl)c(Cl)cc1Cl,Sensitizer
 55,2;4;6-Trichloro-1;3;5-triazine,108-77-0,Clc1nc(Cl)nc(Cl)n1,Sensitizer
@@ -64,11 +64,11 @@ ID,Compound name,CASRN,SMILES,Activity
 62,2;6-Dimethoxy-4-methyl-8-nitro-5-[3-(trifluoromethyl)-phenoxy]quinoline ,189746-15-4,COc1cc(C)c2c(Oc3cccc(c3)C(F)(F)F)c(OC)cc(c2n1)N(=O)=O,Sensitizer
 63,2.4-Dinitrobenzene sulfonic acid,89-02-1,OS(=O)(=O)c1ccc(cc1N(=O)=O)N(=O)=O,Sensitizer
 64,2-[1-(4-Bromophenyl)-1-phenylethoxy]-N;N-dimethylethanamine hydrochloride,13977-28-1,CN(C)CCOC(C)(c1ccccc1)c1ccc(Br)cc1,Sensitizer
-65,'2''-4''-dihydroxychalcone',1776-30-3,C1=CC=C(C=C1)/C=C/C(=O)C2=C(C=C(C=C2)O)O,Sensitizer
+65,2''-4''-dihydroxychalcone,1776-30-3,C1=CC=C(C=C1)/C=C/C(=O)C2=C(C=C(C=C2)O)O,Sensitizer
 66,2-Amino-6-chloro-4-nitrophenol,6358-09-4,Nc1cc(cc(Cl)c1O)N(=O)=O,Sensitizer
 67,2-Amino-di-phenylamine,534-85-0,Nc1ccccc1Nc1ccccc1,Sensitizer
 68,2-Aminophenol,95-55-6,Nc1ccccc1O,Sensitizer
-69,'2-Benzyl-tert-butylamino-3''-hydroxymethyl-4''-hydroxyaceto-phenone hydrochloride',24085-08-3,CC(C)(C)N(CC(=O)c1ccc(O)c(CO)c1)Cc1ccccc1,Sensitizer
+69,2-Benzyl-tert-butylamino-3''-hydroxymethyl-4''-hydroxyaceto-phenone hydrochloride,24085-08-3,CC(C)(C)N(CC(=O)c1ccc(O)c(CO)c1)Cc1ccccc1,Sensitizer
 70,2-Bromo-5-hydroxy-benzaldehyde,2973-80-0,Oc1ccc(Br)c(C=O)c1,Sensitizer
 71,2-Bromotetradecanoic acid,10520-81-7,CCCCCCCCCCCCC(Br)C(O)=O,Sensitizer
 72,2-Chloro-1-[(3-Fluorophenyl)-Methoxy]-4-Nitrobenzene,443882-99-3,Fc1cccc(COc2ccc(cc2Cl)N(=O)=O)c1,Sensitizer
@@ -92,7 +92,7 @@ ID,Compound name,CASRN,SMILES,Activity
 90,3-Bromomethyl-5;5-dimethyl-dihydro-2(3H)-furanone,154750-20-6,CC1(C)CC(CBr)C(=O)O1,Sensitizer
 91,3-Chloro-4-fluorobenzoyl chloride,65055-17-6,Fc1ccc(cc1Cl)C(Cl)=O,Sensitizer
 92,3-Dimethylaminopropylamine,109-55-7,CN(C)CCCN,Sensitizer
-93,'3-Ethoxy-1-(2'';3'';4'';5''-tetramethylphenyl)propane-1;3-dione',170928-69-5,CCOC(=O)CC(=O)c1cc(C)c(C)c(C)c1C,Sensitizer
+93,3-Ethoxy-1-(2'';3'';4'';5''-tetramethylphenyl)propane-1;3-dione,170928-69-5,CCOC(=O)CC(=O)c1cc(C)c(C)c(C)c1C,Sensitizer
 94,3-Fluoro-5-(3-pyridinyl)benzen-amine,181633-36-3,Nc1cc(F)cc(c1)-c1cccnc1,Sensitizer
 95,3-Methyl-1-phenylpyrazolone,89-25-8,CC1=CC(=O)N(N1)c1ccccc1,Sensitizer
 96,3-Methyl-4-phenyl-1;2;5-thiadiazole-1;1-dioxide,3775-21-1,CC1=NS(=O)(=O)N=C1c1ccccc1,Sensitizer
@@ -112,7 +112,7 @@ ID,Compound name,CASRN,SMILES,Activity
 110,4-Amino-3-nitrophenol,610-81-1,Nc1ccc(O)cc1N(=O)=O,Sensitizer
 111,4-Amino-3-nitrophenyl thiocyanate,54029-45-7,Nc1ccc(SC#N)cc1N(=O)=O,Sensitizer
 112,4-Bromo-1-phthalimidopentane,59353-62-7,CC(Br)CCCN1C(=O)c2ccccc2C1=O,Sensitizer
-113,'4''-Hydroxychalcone',2657-25-2,Oc1ccc(cc1)C(=O)C=Cc1ccccc1,Sensitizer
+113,4''-Hydroxychalcone,2657-25-2,Oc1ccc(cc1)C(=O)C=Cc1ccccc1,Sensitizer
 114,4-Iodo-1-phthalimido-pentane,63460-47-9,CC(I)CCCN1C(=O)c2ccccc2C1=O,Sensitizer
 115,4-Nitrobenzene-1;2-diamine,99-56-9,Nc1ccc(cc1N)N(=O)=O,Sensitizer
 116,4-Nitrobenzyl bromide,100-11-8,BrCc1ccc(cc1)N(=O)=O,Sensitizer
@@ -248,13 +248,13 @@ ID,Compound name,CASRN,SMILES,Activity
 246,Methyl pyruvate,600-22-6,COC(=O)C(C)=O,Sensitizer
 247,m-Phenylenebis(methylamine),1477-55-0,NCc1cccc(CN)c1,Sensitizer
 248,N-(2-Hydroxyethyl)-ethylendiamine,111-41-1,NCCNCCO,Sensitizer
-249,'N-(3;4-Dichlorophenyl)-N''-(1-methylethyl)-imidodicarbonimidic diamide monohydrochloride',15537-76-5,CC(C)NC(=N)NC(=N)NC1=CC(=C(C=C1)Cl)Cl,Sensitizer
+249,N-(3;4-Dichlorophenyl)-N''-(1-methylethyl)-imidodicarbonimidic diamide monohydrochloride,15537-76-5,CC(C)NC(=N)NC(=N)NC1=CC(=C(C=C1)Cl)Cl,Sensitizer
 250,N-(4-Methoxyphenyl)-3-oxobutanamide,5437-98-9,COc1ccc(NC(=O)CC(C)=O)cc1,Sensitizer
 251,N;N-dibutylaniline,613-29-6,CCCCN(CCCC)c1ccccc1,Sensitizer
-252,'N-[2-(diethylamino)ethyl]-2-[[(4-fluorophenyl)-methyl]thio]-4;5;6;7-tetrahydro-4-oxo-N-[[4''-(trifluoromethyl)-[1;1''-biphenyl]-4-yl]methyl]-1h-cyclopentapyrim-idine-1-acetamide (Darapladib)',356057-34-6,CCN(CC)CCN(Cc1ccc(cc1)-c1ccc(cc1)C(F)(F)F)C(=O)CN1C2=C(CCC2)C(=O)N=C1SCc1ccc(F)cc1,Sensitizer
+252,N-[2-(diethylamino)ethyl]-2-[[(4-fluorophenyl)-methyl]thio]-4;5;6;7-tetrahydro-4-oxo-N-[[4''-(trifluoromethyl)-[1;1''-biphenyl]-4-yl]methyl]-1h-cyclopentapyrim-idine-1-acetamide (Darapladib),356057-34-6,CCN(CC)CCN(Cc1ccc(cc1)-c1ccc(cc1)C(F)(F)F)C(=O)CN1C2=C(CCC2)C(=O)N=C1SCc1ccc(F)cc1,Sensitizer
 253,N-Ethyl-N-nitrosourea,759-73-9,CCN(N=O)C(N)=O,Sensitizer
 254,N-Isopropyl-N-phenyl-2-(2-phenylamino-phenylamino)-acetamide,161455-90-9,CC(C)N(C(=O)CNc1ccccc1Nc1ccccc1)c1ccccc1,Sensitizer
-255,'N-isopropyl-N''-phenyl-p-phenylenediamine',101-72-4,CC(C)Nc1ccc(Nc2ccccc2)cc1,Sensitizer
+255,N-isopropyl-N''-phenyl-p-phenylenediamine,101-72-4,CC(C)Nc1ccc(Nc2ccccc2)cc1,Sensitizer
 256,n-Methyl-n-nitrosourea,684-93-5,CN(N=O)C(N)=O,Sensitizer
 257,Nonanoyl chloride,764-85-2,CCCCCCCCC(Cl)=O,Sensitizer
 258,Norbornene fluoroalcohol,305815-63-8,OC(COC1CC2CC1C=C2)(C(F)(F)F)C(F)(F)F,Sensitizer
@@ -271,7 +271,7 @@ ID,Compound name,CASRN,SMILES,Activity
 269,Penicillin G ,61-33-6,CC1(C)SC2C(NC(=O)Cc3ccccc3)C(=O)N2C1C(O)=O,Sensitizer
 270,Pentachlorophenol,87-86-5,Oc1c(Cl)c(Cl)c(Cl)c(Cl)c1Cl,Sensitizer
 271,Perillaldehyde,2111-75-3,CC(=C)C1CCC(C=O)=CC1,Sensitizer
-272,'Phenol; 2;2''-azobis-',2050-14-8,Oc1ccccc1N=Nc1ccccc1O,Sensitizer
+272,Phenol; 2;2''-azobis-,2050-14-8,Oc1ccccc1N=Nc1ccccc1O,Sensitizer
 273,Phenyl benzoate,93-99-2,O=C(Oc1ccccc1)c1ccccc1,Sensitizer
 274,Phenylacetaldehyde                  ,127-78-1,O=CCc1ccccc1,Sensitizer
 275,p-Methylhydrocinnamic aldehyde ,5406-12-2,Cc1ccc(CCC=O)cc1,Sensitizer
@@ -328,8 +328,8 @@ ID,Compound name,CASRN,SMILES,Activity
 326,[3aS-(3aalpha;4beta;5alpha;6alpha;8beta;9alpha;9abeta;10S*)]-6-Ethenyldecahydro-5-hydroxy-4;6;9;10-tetramethyl-1-oxo-3a;9-propano-3aH-cyclopentacycloocten-8-yl [(methylsulfonyl)-oxy]acetate,60924-38-1,CC1CCC23CCC(=O)C2C1(C)C(CC(C)(C=C)C(O)C3C)OC(=O)COS(C)(=O)=O,Non-sensitizer
 327,[4-(ethoxymethyl)-2;6-dimethoxyphenyl]-boronic acid,591249-50-2,CCOCc1cc(OC)c(B(O)O)c(OC)c1,Non-sensitizer
 328,[4S-[1(E);4alpha;5alpha]]-1-[3-[2-[4-Methoxy-2-(phenylmethoxy)-benzoyl]-4-propoxyphenyl]-1-oxo-2-propenyl]-3;4-dimethyl-5-phenyl-2-imidazoli-dinone,190965-46-9,CCCOc1ccc(C=CC(=O)N2C(C(C)N(C)C2=O)c2ccccc2)c(c1)C(=O)c1ccc(OC)cc1OCc1ccccc1,Non-sensitizer
-329,'1-(2'';3'';4'';5''-Tetramethylphenyl)-3-(4''-tetrabutylphenyl)-propane-1;3-dione',,Cc1cc(C(=O)CC(=O)c2ccc(cc2)C(C)(C)C)c(C)c(C)c1C,Non-sensitizer
-330,'1-(3'';4'';5''-Tetramethoxyphenyl)-4-dimethylpentane-1;3-dione',135099-98-8,COc1cc(cc(OC)c1OC)C(=O)CC(=O)C(C)(C)C,Non-sensitizer
+329,1-(2'';3'';4'';5''-Tetramethylphenyl)-3-(4''-tetrabutylphenyl)-propane-1;3-dione,,Cc1cc(C(=O)CC(=O)c2ccc(cc2)C(C)(C)C)c(C)c(C)c1C,Non-sensitizer
+330,1-(3'';4'';5''-Tetramethoxyphenyl)-4-dimethylpentane-1;3-dione,135099-98-8,COc1cc(cc(OC)c1OC)C(=O)CC(=O)C(C)(C)C,Non-sensitizer
 331,1-(4-ethoxy-phenyl)-2-[4-(methyl-sulfonyl)phenyl]-ethanone,346413-00-1,CCOc1ccc(cc1)C(=O)Cc1ccc(cc1)S(C)(=O)=O,Non-sensitizer
 332,1;1-Dimethylethyl [(1S)-1-[bis(4-fluorophenyl)-methyl]-2-[(2S;4S)-2-cyano-4-fluoro-1-pyrrolidinyl]-2-oxoethyl]carbamate,483368-24-7,CC(C)(C)OC(=O)NC(C(c1ccc(F)cc1)c1ccc(F)cc1)C(=O)N1CC(F)CC1C#N,Non-sensitizer
 333,1;1-Dimethylethyl [(1S)-2-[4-[(2-methyl-4-thiazolyl)methoxy]phenyl]-1-(2S)-oxiranylethyl]-carbamate,313680-92-1,Cc1nc(COc2ccc(CC(NC(=O)OC(C)(C)C)C3CO3)cc2)cs1,Non-sensitizer
@@ -349,13 +349,13 @@ ID,Compound name,CASRN,SMILES,Activity
 347,2-(4-ethoxyphenyl)-3-[4-(methyl-sulfonyl)phenyl-]pyrazolo[1;5-b]-pyridazine,221148-46-5,CCOc1ccc(cc1)-c1nn2ncccc2c1-c1ccc(cc1)S(C)(=O)=O,Non-sensitizer
 348,2-(4-Oxopentyl)-1h-isoindole-1;3(2h)-dione,3197-25-9,CC(=O)CCCN1C(=O)c2ccccc2C1=O,Non-sensitizer
 349,2-(benzyl)tert-butyl)amino)-1-(alpha;4-dihydroxy-m-tolyl)ethane,24085-03-8,CC(C)(C)N(CC(O)c1ccc(O)c(CO)c1)Cc1ccccc1,Non-sensitizer
-350,'2;2''-Oxybisethanol',111-46-6,OCCOCCO,Non-sensitizer
+350,2;2''-Oxybisethanol,111-46-6,OCCOCCO,Non-sensitizer
 351,2;3;4;5-tetrahydro-n-(1-methylethyl)-2;4-dioxo-n;5-diphenyl-3-[(phenylmethoxy)-imino]-1h-1;5-benzodiazepine-1-acetamide,305366-97-6,CC(C)N(C(=O)CN1c2ccccc2N(c2ccccc2)C(=O)C(=NOCc2ccccc2)C1=O)c1ccccc1,Non-sensitizer
 352,2;3-Dimethyl-2H-indazol-6-amine,444731-72-0,Cc1n(C)nc2cc(N)ccc12,Non-sensitizer
 353,2;6-Dimethoxy-4-methyl-5-[3-(trifluoromethyl)-phenoxy]-8-quinolinamine,106635-86-3,COc1cc(C)c2c(Oc3cccc(c3)C(F)(F)F)c(OC)cc(N)c2n1,Non-sensitizer
 354,2;6-Dimethylbenzoic acid,632-46-2,Cc1cccc(C)c1C(O)=O,Non-sensitizer
 355,2-[(benzyloxy)-imino]malonic acid,305366-96-5,OC(=O)C(=NOCc1ccccc1)C(O)=O,Non-sensitizer
-356,'2''-4-Dihydroxychalcone',13323-66-5,Oc1ccc(C=CC(=O)c2ccccc2O)cc1,Non-sensitizer
+356,2''-4-Dihydroxychalcone,13323-66-5,Oc1ccc(C=CC(=O)c2ccccc2O)cc1,Non-sensitizer
 357,2-Acetylcyclohexanone,874-23-7,CC(=O)C1=C(O)CCCC1,Non-sensitizer
 358,2-Aminoethyl-methylsulfone,49773-20-8,CS(=O)(=O)CCN,Non-sensitizer
 359,2-Bromo-5-propoxybenzoic acid,190965-43-6,CCCOc1ccc(Br)c(c1)C(O)=O,Non-sensitizer
@@ -367,7 +367,7 @@ ID,Compound name,CASRN,SMILES,Activity
 365,2-Hydroxypropyl methacrylate,923-26-2,CC(O)COC(=O)C(C)=C,Non-sensitizer
 366,2-Mercaptobenzoxazole,2382-96-9,Sc1nc2ccccc2o1,Non-sensitizer
 367,3-[(2R)-3-[[2-(2;3-Dihydro-1H-inden-2-yl)-1;1-dimethyl-ethyl]amino]-2-hydroxypropoxy]-4;5-difluoro-benzene propanoic acid,753449-67-1,CC(C)(CC1Cc2ccccc2C1)NCC(O)COc1cc(CCC(O)=O)cc(F)c1F,Non-sensitizer
-368,'3''-[(2z)-[1-(3;4-dimethylphenyl)-1;5-dihydro-3-methyl)-5-oxo-4h-pyrazol-4-ylidene]hydrazino]-2''-hydroxy-[1;1''-biphenyl]-3-carboxylic acid; compound with 2-aminoethanol (2:1)',496775-62-3,CC1=C(N=Nc2cccc(-c3cccc(c3)C(O)=O)c2O)C(=O)N(N1)c1ccc(C)c(C)c1,Non-sensitizer
+368,3''-[(2z)-[1-(3;4-dimethylphenyl)-1;5-dihydro-3-methyl)-5-oxo-4h-pyrazol-4-ylidene]hydrazino]-2''-hydroxy-[1;1''-biphenyl]-3-carboxylic acid; compound with 2-aminoethanol (2:1),496775-62-3,CC1=C(N=Nc2cccc(-c3cccc(c3)C(O)=O)c2O)C(=O)N(N1)c1ccc(C)c(C)c1,Non-sensitizer
 369,3-[4-[(6-bromohexyl)oxy]-butyl]benzene-sulfonamide,452342-04-0,NS(=O)(=O)c1cccc(CCCCOCCCCCCBr)c1,Non-sensitizer
 370,3-Chloro-p-anisaldehyde,4903-09-7,COc1ccc(C=O)cc1Cl,Non-sensitizer
 371,3-Hydroxy-2-nitropyridine,15128-82-2,Oc1cccnc1N(=O)=O,Non-sensitizer
@@ -376,14 +376,14 @@ ID,Compound name,CASRN,SMILES,Activity
 374,3-Methyl-1-butanol,123-51-3,CC(C)CCO,Non-sensitizer
 375,3-Phenoxypropiononitrile,3055-86-5,N#CCCOc1ccccc1,Non-sensitizer
 376,3-Propoxybenzoic acid,190965-42-5,CCCOc1cccc(c1)C(O)=O,Non-sensitizer
-377,'4''-(Trifluoro-methyl)-[1;1''-biphenyl]-4-carboxaldehyde',90035-34-0,FC(F)(F)c1ccc(cc1)-c1ccc(C=O)cc1,Non-sensitizer
+377,4''-(Trifluoro-methyl)-[1;1''-biphenyl]-4-carboxaldehyde,90035-34-0,FC(F)(F)c1ccc(cc1)-c1ccc(C=O)cc1,Non-sensitizer
 378,4-[4-[[(3R)-1-butyl-3-[(R)-cyclohexyl-hydroxymethyl]-2;5-dioxo-1;4;9-triazaspiro[5.5]-undec-9-yl]methyl]phenoxy]benzoic acid,461443-59-4,CCCCN1C(=O)C(NC(=O)C11CCN(Cc2ccc(Oc3ccc(cc3)C(O)=O)cc2)CC1)C(O)C1CCCCC1,Non-sensitizer
 379,4-Carboxyphenylacetate,2345-34-8,CC(=O)Oc1ccc(cc1)C(O)=O,Non-sensitizer
 380,4-Chloroaniline,106-47-8,Nc1ccc(Cl)cc1,Non-sensitizer
 381,4-Fluoro-2-pyrrolidine-carboxamide,748165-40-4,NC(=O)C1CC(F)CN1,Non-sensitizer
 382,4-Hydroxybenzoic acid,99-96-7,OC(=O)c1ccc(O)cc1,Non-sensitizer
 383,4-Isopropyl-1-methylenecyclohexane,,CC(C)C1CCC(=C)CC1,Non-sensitizer
-384,'4''-Methoxyacetophenone',100-06-1,COc1ccc(cc1)C(C)=O,Non-sensitizer
+384,4''-Methoxyacetophenone,100-06-1,COc1ccc(cc1)C(C)=O,Non-sensitizer
 385,4S-1-(tert-Butoxycarbonyl)-4-fluoro-L-prolinamide,426844-22-6,CC(C)(C)OC(=O)N1CC(F)CC1C(N)=O,Non-sensitizer
 386,5-[[4-[(2;3-dimethyl-2h-indazol-6-yl)-methylamino]-2-pyrimidinyl]amino]-2-methylbenzene-sulfonamide,444731-52-6,CN(c1ccc2c(C)n(C)nc2c1)c1ccnc(Nc2ccc(C)c(c2)S(N)(=O)=O)n1,Non-sensitizer
 387,5-Amino-2-methylbenzene-sulfonamide, 6973-09-7,Cc1ccc(N)cc1S(N)(=O)=O,Non-sensitizer

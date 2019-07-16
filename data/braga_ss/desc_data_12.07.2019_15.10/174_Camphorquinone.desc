@@ -1,0 +1,1613 @@
+ABC 9.589089934533343
+ABCGG 9.69225540054437
+nAcid 0
+nBase 0
+SpAbs_A 14.44593369560881
+SpMax_A 2.651621748102358
+SpDiam_A 4.99707637731818
+SpAD_A 14.445933695608812
+SpMAD_A 1.203827807967401
+LogEE_A 3.4710553934395874
+VE1_A 3.1809724507091475
+VE2_A 0.2650810375590956
+VE3_A 1.3395085089479
+VR1_A 44.327963617975854
+VR2_A 3.6939969681646545
+VR3_A 3.973937267612769
+nAromAtom 0
+nAromBond 0
+nAtom 26
+nHeavyAtom 12
+nSpiro 0
+nBridgehead 2
+nHetero 2
+nH 14
+nB 0
+nC 10
+nN 0
+nO 2
+nS 0
+nP 0
+nF 0
+nCl 0
+nBr 0
+nI 0
+nX 0
+ATS0dv 156.0
+ATS1dv 150.0
+ATS2dv 233.0
+ATS3dv 207.0
+ATS4dv 54.0
+ATS5dv 0.0
+ATS6dv 0.0
+ATS7dv 0.0
+ATS8dv 0.0
+ATS0d 86.0
+ATS1d 114.0
+ATS2d 214.0
+ATS3d 200.0
+ATS4d 159.0
+ATS5d 70.0
+ATS6d 0.0
+ATS7d 0.0
+ATS8d 0.0
+ATS0s 138.95833333333334
+ATS1s 72.60416666666667
+ATS2s 125.18055555555556
+ATS3s 249.91666666666669
+ATS4s 274.1666666666667
+ATS5s 184.0
+ATS6s 0.0
+ATS7s 0.0
+ATS8s 0.0
+ATS0Z 502.0
+ATS1Z 576.0
+ATS2Z 1007.0
+ATS3Z 1230.0
+ATS4Z 783.0
+ATS5Z 203.0
+ATS6Z 0.0
+ATS7Z 0.0
+ATS8Z 0.0
+ATS0m 1968.8021079999999
+ATS1m 2140.7325409999985
+ATS2m 3762.992718999998
+ATS3m 4344.2271630000005
+ATS4m 2223.9586110000005
+ATS5m 358.2321120000001
+ATS6m 0.0
+ATS7m 0.0
+ATS8m 0.0
+ATS0v 5103.122993455034
+ATS1v 6870.457552581533
+ATS2v 11894.392657691158
+ATS3v 14234.651267989962
+ATS4v 10374.338663677001
+ATS5v 3143.5299478613115
+ATS6v 0.0
+ATS7v 0.0
+ATS8v 0.0
+ATS0se 196.16708800000004
+ATS1se 202.66029200000008
+ATS2se 399.66108399999996
+ATS3se 573.889668
+ATS4se 727.589124
+ATS5se 522.593856
+ATS6se 0.0
+ATS7se 0.0
+ATS8se 0.0
+ATS0pe 156.4522
+ATS1pe 167.61150000000004
+ATS2pe 324.0754999999998
+ATS3pe 465.4431000000001
+ATS4pe 569.8679999999999
+ATS5pe 390.632
+ATS6pe 0.0
+ATS7pe 0.0
+ATS8pe 0.0
+ATS0are 154.76
+ATS1are 163.25
+ATS2are 316.98999999999995
+ATS3are 456.9899999999999
+ATS4are 564.1700000000001
+ATS5are 393.13999999999993
+ATS6are 0.0
+ATS7are 0.0
+ATS8are 0.0
+ATS0p 35.39998866788601
+ATS1p 48.946200339999976
+ATS2p 85.50808815333899
+ATS3p 106.27756767509399
+ATS4p 90.69227929952699
+ATS5p 32.83584988129901
+ATS6p 0.0
+ATS7p 0.0
+ATS8p 0.0
+ATS0i 4227.693260844486
+ATS1i 3845.140241800601
+ATS2i 8119.011205894737
+ATS3i 11499.097309692545
+ATS4i 15995.336371805928
+ATS5i 12949.30151046355
+ATS6i 0.0
+ATS7i 0.0
+ATS8i 0.0
+AATS0dv 6.0
+AATS1dv 5.555555555555555
+AATS2dv 4.314814814814815
+AATS3dv 2.723684210526316
+AATS4dv 0.5510204081632653
+AATS5dv 0.0
+AATS6dv invalid value encountered in double_scalars (AATS6dv/GSum6_prop)
+AATS7dv invalid value encountered in double_scalars (AATS7dv/GSum7_prop)
+AATS8dv invalid value encountered in double_scalars (AATS8dv/GSum8_prop)
+AATS0d 3.3076923076923075
+AATS1d 4.222222222222222
+AATS2d 3.962962962962963
+AATS3d 2.6315789473684212
+AATS4d 1.6224489795918366
+AATS5d 1.0
+AATS6d invalid value encountered in double_scalars (AATS6d)
+AATS7d invalid value encountered in double_scalars (AATS7d)
+AATS8d invalid value encountered in double_scalars (AATS8d)
+AATS0s 5.344551282051283
+AATS1s 2.6890432098765435
+AATS2s 2.318158436213992
+AATS3s 3.2883771929824563
+AATS4s 2.797619047619048
+AATS5s 2.6285714285714286
+AATS6s invalid value encountered in double_scalars (AATS6s)
+AATS7s invalid value encountered in double_scalars (AATS7s)
+AATS8s invalid value encountered in double_scalars (AATS8s)
+AATS0Z 19.307692307692307
+AATS1Z 21.333333333333332
+AATS2Z 18.64814814814815
+AATS3Z 16.18421052631579
+AATS4Z 7.989795918367347
+AATS5Z 2.9
+AATS6Z invalid value encountered in double_scalars (AATS6Z)
+AATS7Z invalid value encountered in double_scalars (AATS7Z)
+AATS8Z invalid value encountered in double_scalars (AATS8Z)
+AATS0m 75.723158
+AATS1m 79.28639040740735
+AATS2m 69.68505035185181
+AATS3m 57.160883723684215
+AATS4m 22.69345521428572
+AATS5m 5.117601600000001
+AATS6m invalid value encountered in double_scalars (AATS6m)
+AATS7m invalid value encountered in double_scalars (AATS7m)
+AATS8m invalid value encountered in double_scalars (AATS8m)
+AATS0v 196.27396128673206
+AATS1v 254.46139083635305
+AATS2v 220.26653069798442
+AATS3v 187.29804299986793
+AATS4v 105.86059860894899
+AATS5v 44.90757068373302
+AATS6v invalid value encountered in double_scalars (AATS6v)
+AATS7v invalid value encountered in double_scalars (AATS7v)
+AATS8v invalid value encountered in double_scalars (AATS8v)
+AATS0se 7.544888000000001
+AATS1se 7.505936740740744
+AATS2se 7.401131185185185
+AATS3se 7.551179842105263
+AATS4se 7.424378816326531
+AATS5se 7.465626514285714
+AATS6se invalid value encountered in double_scalars (AATS6se)
+AATS7se invalid value encountered in double_scalars (AATS7se)
+AATS8se invalid value encountered in double_scalars (AATS8se)
+AATS0pe 6.017392307692308
+AATS1pe 6.207833333333334
+AATS2pe 6.001398148148144
+AATS3pe 6.124251315789475
+AATS4pe 5.814979591836734
+AATS5pe 5.580457142857143
+AATS6pe invalid value encountered in double_scalars (AATS6pe)
+AATS7pe invalid value encountered in double_scalars (AATS7pe)
+AATS8pe invalid value encountered in double_scalars (AATS8pe)
+AATS0are 5.952307692307692
+AATS1are 6.046296296296297
+AATS2are 5.870185185185185
+AATS3are 6.013026315789472
+AATS4are 5.756836734693878
+AATS5are 5.616285714285714
+AATS6are invalid value encountered in double_scalars (AATS6are)
+AATS7are invalid value encountered in double_scalars (AATS7are)
+AATS8are invalid value encountered in double_scalars (AATS8are)
+AATS0p 1.3615380256879233
+AATS1p 1.812822234814814
+AATS2p 1.583483113950722
+AATS3p 1.3983890483564998
+AATS4p 0.9254314214237448
+AATS5p 0.46908356973284304
+AATS6p invalid value encountered in double_scalars (AATS6p)
+AATS7p invalid value encountered in double_scalars (AATS7p)
+AATS8p invalid value encountered in double_scalars (AATS8p)
+AATS0i 162.60358695555715
+AATS1i 142.41260154817041
+AATS2i 150.35205936842107
+AATS3i 151.30391196963873
+AATS4i 163.21771807965231
+AATS5i 184.99002157805072
+AATS6i invalid value encountered in double_scalars (AATS6i)
+AATS7i invalid value encountered in double_scalars (AATS7i)
+AATS8i invalid value encountered in double_scalars (AATS8i)
+ATSC0c 0.27648925837432975
+ATSC1c -0.08016868149283073
+ATSC2c -0.14616664955424735
+ATSC3c 0.08325250061729247
+ATSC4c 0.10755877387341588
+ATSC5c -0.10272057263079513
+ATSC6c 0.0
+ATSC7c 0.0
+ATSC8c 0.0
+ATSC0dv 100.46153846153845
+ATSC1dv 49.82840236686389
+ATSC2dv 37.041420118343176
+ATSC3dv -36.96449704142011
+ATSC4dv -83.04733727810647
+ATSC5dv -17.088757396449708
+ATSC6dv 0.0
+ATSC7dv 0.0
+ATSC8dv 0.0
+ATSC0d 24.461538461538467
+ATSC1d 14.82840236686391
+ATSC2d -4.3431952662721915
+ATSC3d -38.57988165680474
+ATSC4d -4.431952662721889
+ATSC5d 20.295857988165686
+ATSC6d 0.0
+ATSC7d 0.0
+ATSC8d 0.0
+ATSC0s 63.93162393162393
+ATSC1s -1.2356180144641662
+ATSC2s 5.671392176199873
+ATSC3s 23.170488165680467
+ATSC4s -14.092702169625245
+ATSC5s -45.479372123602914
+ATSC6s 0.0
+ATSC7s 0.0
+ATSC8s 0.0
+ATSC0Z 190.46153846153845
+ATSC1Z 6.443786982248518
+ATSC2Z 110.19526627218933
+ATSC3Z -64.34911242603552
+ATSC4Z -244.27810650887574
+ATSC5Z 96.75739644970419
+ATSC6Z 0.0
+ATSC7Z 0.0
+ATSC8Z 0.0
+ATSC0m 906.1448618461536
+ATSC1m 31.561059698224796
+ATSC2m 529.4521117810652
+ATSC3m -325.9229059349112
+ATSC4m -1184.270364266272
+ATSC5m 496.1076677988167
+ATSC6m 0.0
+ATSC7m 0.0
+ATSC8m 0.0
+ATSC0v 1328.5897944913063
+ATSC1v 72.77274395314987
+ATSC2v 829.9940886575786
+ATSC3v -1048.4875744955573
+ATSC4v -2328.4800946201685
+ATSC5v 1809.9059392593447
+ATSC6v 0.0
+ATSC7v 0.0
+ATSC8v 0.0
+ATSC0se 1.9765058461538454
+ATSC1se 0.00017100591715982173
+ATSC2se 0.23302416568047293
+ATSC3se 0.8398459881656806
+ATSC4se -0.6079001893491123
+ATSC5se -1.453393893491124
+ATSC6se 0.0
+ATSC7se 0.0
+ATSC8se 0.0
+ATSC0pe 2.9247999999999985
+ATSC1pe 0.014399999999999481
+ATSC2pe 0.7882999999999987
+ATSC3pe 0.8999999999999999
+ATSC4pe -1.4492999999999976
+ATSC5pe -1.7157999999999995
+ATSC6pe 0.0
+ATSC7pe 0.0
+ATSC8pe 0.0
+ATSC0are 3.0738461538461532
+ATSC1are 0.007159763313608939
+ATSC2are 0.6489349112426029
+ATSC3are 1.1326035502958565
+ATSC4are -1.2529585798816554
+ATSC5are -2.072662721893489
+ATSC6are 0.0
+ATSC7are 0.0
+ATSC8are 0.0
+ATSC0p 6.018451769178152
+ATSC1p 0.36839754687338033
+ATSC2p 3.2828044286856057
+ATSC3p -5.532768733039756
+ATSC4p -11.10067124330512
+ATSC5p 9.97301211619681
+ATSC6p 0.0
+ATSC7p 0.0
+ATSC8p 0.0
+ATSC0i 33.713778530670425
+ATSC1i 2.0746526627928272
+ATSC2i 17.13641899979377
+ATSC3i -31.112441304655803
+ATSC4i -61.71028698262602
+ATSC5i 56.75476735936003
+ATSC6i 0.0
+ATSC7i 0.0
+ATSC8i 0.0
+AATSC0c 0.010634202245166528
+AATSC1c -0.0029692104256603975
+AATSC2c -0.002706789806560136
+AATSC3c 0.0010954276397012169
+AATSC4c 0.001097538508912407
+AATSC5c -0.0014674367518685018
+AATSC6c invalid value encountered in double_scalars (AATSC6c)
+AATSC7c invalid value encountered in double_scalars (AATSC7c)
+AATSC8c invalid value encountered in double_scalars (AATSC8c)
+AATSC0dv 3.8639053254437865
+AATSC1dv 1.845496383957922
+AATSC2dv 0.6859522244137625
+AATSC3dv -0.4863749610713172
+AATSC4dv -0.8474218089602701
+AATSC5dv -0.24412510566356727
+AATSC6dv invalid value encountered in double_scalars (AATSC6dv)
+AATSC7dv invalid value encountered in double_scalars (AATSC7dv)
+AATSC8dv invalid value encountered in double_scalars (AATSC8dv)
+AATSC0d 0.9408284023668642
+AATSC1d 0.5492000876616263
+AATSC2d -0.08042954196800355
+AATSC3d -0.5076300218000623
+AATSC4d -0.04522400676246825
+AATSC5d 0.28994082840236696
+AATSC6d invalid value encountered in double_scalars (AATSC6d)
+AATSC7d invalid value encountered in double_scalars (AATSC7d)
+AATSC8d invalid value encountered in double_scalars (AATSC8d)
+AATSC0s 2.4589086127547666
+AATSC1s -0.04576363016533949
+AATSC2s 0.1050257810407384
+AATSC3s 0.3048748442852693
+AATSC4s -0.1438030833635229
+AATSC5s -0.6497053160514702
+AATSC6s invalid value encountered in double_scalars (AATSC6s)
+AATSC7s invalid value encountered in double_scalars (AATSC7s)
+AATSC8s invalid value encountered in double_scalars (AATSC8s)
+AATSC0Z 7.325443786982248
+AATSC1Z 0.2386587771203155
+AATSC2Z 2.0406530791146174
+AATSC3Z -0.8466988477109937
+AATSC4Z -2.4926337398864873
+AATSC5Z 1.3822485207100599
+AATSC6Z invalid value encountered in double_scalars (AATSC6Z)
+AATSC7Z invalid value encountered in double_scalars (AATSC7Z)
+AATSC8Z invalid value encountered in double_scalars (AATSC8Z)
+AATSC0m 34.85172545562129
+AATSC1m 1.1689281369712887
+AATSC2m 9.804668736686393
+AATSC3m -4.288459288617253
+AATSC4m -12.084391472104818
+AATSC5m 7.087252397125953
+AATSC6m invalid value encountered in double_scalars (AATSC6m)
+AATSC7m invalid value encountered in double_scalars (AATSC7m)
+AATSC8m invalid value encountered in double_scalars (AATSC8m)
+AATSC0v 51.099607480434855
+AATSC1v 2.695286813079625
+AATSC2v 15.37026090106627
+AATSC3v -13.795889138099438
+AATSC4v -23.760000965511924
+AATSC5v 25.855799132276353
+AATSC6v invalid value encountered in double_scalars (AATSC6v)
+AATSC7v invalid value encountered in double_scalars (AATSC7v)
+AATSC8v invalid value encountered in double_scalars (AATSC8v)
+AATSC0se 0.07601945562130175
+AATSC1se 6.333552487400805e-06
+AATSC2se 0.004315262327416166
+AATSC3se 0.011050605107443165
+AATSC4se -0.006203063156623594
+AATSC5se -0.020762769907016056
+AATSC6se invalid value encountered in double_scalars (AATSC6se)
+AATSC7se invalid value encountered in double_scalars (AATSC7se)
+AATSC8se invalid value encountered in double_scalars (AATSC8se)
+AATSC0pe 0.11249230769230764
+AATSC1pe 0.0005333333333333141
+AATSC2pe 0.014598148148148124
+AATSC3pe 0.011842105263157893
+AATSC4pe -0.014788775510204057
+AATSC5pe -0.024511428571428566
+AATSC6pe invalid value encountered in double_scalars (AATSC6pe)
+AATSC7pe invalid value encountered in double_scalars (AATSC7pe)
+AATSC8pe invalid value encountered in double_scalars (AATSC8pe)
+AATSC0are 0.11822485207100589
+AATSC1are 0.0002651764190225533
+AATSC2are 0.012017313171159314
+AATSC3are 0.014902678293366533
+AATSC4are -0.012785291631445463
+AATSC5are -0.029609467455621274
+AATSC6are invalid value encountered in double_scalars (AATSC6are)
+AATSC7are invalid value encountered in double_scalars (AATSC7are)
+AATSC8are invalid value encountered in double_scalars (AATSC8are)
+AATSC0p 0.2314789141991597
+AATSC1p 0.013644353587902976
+AATSC2p 0.060792674605289
+AATSC3p -0.07279958859262836
+AATSC4p -0.1132721555439298
+AATSC5p 0.14247160165995443
+AATSC6p invalid value encountered in double_scalars (AATSC6p)
+AATSC7p invalid value encountered in double_scalars (AATSC7p)
+AATSC8p invalid value encountered in double_scalars (AATSC8p)
+AATSC0i 1.2966837896411703
+AATSC1i 0.07683898751084545
+AATSC2i 0.31734109258877347
+AATSC3i -0.40937422769283954
+AATSC4i -0.6296968059451635
+AATSC5i 0.8107823908480004
+AATSC6i invalid value encountered in double_scalars (AATSC6i)
+AATSC7i invalid value encountered in double_scalars (AATSC7i)
+AATSC8i invalid value encountered in double_scalars (AATSC8i)
+MATS1c -0.27921327403848906
+MATS2c -0.25453623545578413
+MATS3c 0.1030098557885818
+MATS4c 0.10320835391401942
+MATS5c -0.13799218014077955
+MATS6c invalid value encountered in double_scalars (MATS6c/AATSC6c)
+MATS7c invalid value encountered in double_scalars (MATS7c/AATSC7c)
+MATS8c invalid value encountered in double_scalars (MATS8c/AATSC8c)
+MATS1dv 0.477624638420963
+MATS2dv 0.17752821734445
+MATS3dv -0.12587652131861043
+MATS4dv -0.2193174360096258
+MATS5dv -0.0631809232115511
+MATS6dv invalid value encountered in double_scalars (MATS6dv/AATSC6dv)
+MATS7dv invalid value encountered in double_scalars (MATS7dv/AATSC7dv)
+MATS8dv invalid value encountered in double_scalars (MATS8dv/AATSC8dv)
+MATS1d 0.5837409736780806
+MATS2d -0.08548800372699747
+MATS3d -0.539556438265475
+MATS4d -0.04806828391734046
+MATS5d 0.30817610062893086
+MATS6d invalid value encountered in double_scalars (MATS6d/AATSC6d)
+MATS7d invalid value encountered in double_scalars (MATS7d/AATSC7d)
+MATS8d invalid value encountered in double_scalars (MATS8d/AATSC8d)
+MATS1s -0.018611358684888064
+MATS2s 0.042712356407209384
+MATS3s 0.12398787116521245
+MATS4s -0.05848248390265196
+MATS5s -0.2642250763941941
+MATS6s invalid value encountered in double_scalars (MATS6s/AATSC6s)
+MATS7s invalid value encountered in double_scalars (MATS7s/AATSC7s)
+MATS8s invalid value encountered in double_scalars (MATS8s/AATSC8s)
+MATS1Z 0.03257942918686051
+MATS2Z 0.2785705738048226
+MATS3Z -0.11558328373437637
+MATS4Z -0.3402706801622103
+MATS5Z 0.18869143780290804
+MATS6Z invalid value encountered in double_scalars (MATS6Z/AATSC6Z)
+MATS7Z invalid value encountered in double_scalars (MATS7Z/AATSC7Z)
+MATS8Z invalid value encountered in double_scalars (MATS8Z/AATSC8Z)
+MATS1m 0.03354003630206924
+MATS2m 0.2813252029421396
+MATS3m -0.1230486936458281
+MATS4m -0.3467372508569932
+MATS5m 0.2033544194576696
+MATS6m invalid value encountered in double_scalars (MATS6m/AATSC6m)
+MATS7m invalid value encountered in double_scalars (MATS7m/AATSC7m)
+MATS8m invalid value encountered in double_scalars (MATS8m/AATSC8m)
+MATS1v 0.052745743969004125
+MATS2v 0.300790195050936
+MATS3v -0.2699803348466354
+MATS4v -0.4649742363404496
+MATS5v 0.5059882141399243
+MATS6v invalid value encountered in double_scalars (MATS6v/AATSC6v)
+MATS7v invalid value encountered in double_scalars (MATS7v/AATSC7v)
+MATS8v invalid value encountered in double_scalars (MATS8v/AATSC8v)
+MATS1se 8.331488874311345e-05
+MATS2se 0.05676523584847886
+MATS3se 0.14536548594208332
+MATS4se -0.08159836328642962
+MATS5se -0.2731244223906022
+MATS6se invalid value encountered in double_scalars (MATS6se/AATSC6se)
+MATS7se invalid value encountered in double_scalars (MATS7se/AATSC7se)
+MATS8se invalid value encountered in double_scalars (MATS8se/AATSC8se)
+MATS1pe 0.004741064916119452
+MATS2pe 0.12977019004781573
+MATS3pe 0.10527035586778767
+MATS4pe -0.13146477135712037
+MATS5pe -0.2178942638324477
+MATS6pe invalid value encountered in double_scalars (MATS6pe/AATSC6pe)
+MATS7pe invalid value encountered in double_scalars (MATS7pe/AATSC7pe)
+MATS8pe invalid value encountered in double_scalars (MATS8pe/AATSC8pe)
+MATS1are 0.002242983724465041
+MATS2are 0.10164794424053678
+MATS3are 0.12605368526421143
+MATS4are -0.10814385814385803
+MATS5are -0.2504504504504502
+MATS6are invalid value encountered in double_scalars (MATS6are/AATSC6are)
+MATS7are invalid value encountered in double_scalars (MATS7are/AATSC7are)
+MATS8are invalid value encountered in double_scalars (MATS8are/AATSC8are)
+MATS1p 0.058944261230479314
+MATS2p 0.2626272670044764
+MATS3p -0.31449771070721844
+MATS4p -0.4893411390657932
+MATS5p 0.6154841452961664
+MATS6p invalid value encountered in double_scalars (MATS6p/AATSC6p)
+MATS7p invalid value encountered in double_scalars (MATS7p/AATSC7p)
+MATS8p invalid value encountered in double_scalars (MATS8p/AATSC8p)
+MATS1i 0.05925807673751286
+MATS2i 0.2447328293327326
+MATS3i -0.3157086029479286
+MATS4i -0.4856209439615335
+MATS5i 0.6252737925198921
+MATS6i invalid value encountered in double_scalars (MATS6i/AATSC6i)
+MATS7i invalid value encountered in double_scalars (MATS7i/AATSC7i)
+MATS8i invalid value encountered in double_scalars (MATS8i/AATSC8i)
+GATS1c 1.0859728736662582
+GATS2c 0.9605985749371475
+GATS3c 0.877413791599454
+GATS4c 0.9373455477690399
+GATS5c 1.2180442503068667
+GATS6c invalid value encountered in double_scalars (GATS6c)
+GATS7c invalid value encountered in double_scalars (GATS7c)
+GATS8c invalid value encountered in double_scalars (GATS8c)
+GATS1dv 0.3502353808632523
+GATS2dv 0.7719003459815099
+GATS3dv 1.077264850487628
+GATS4dv 1.0906295902740883
+GATS5dv 1.2158171078538615
+GATS6dv invalid value encountered in double_scalars (GATS6dv)
+GATS7dv invalid value encountered in double_scalars (GATS7dv)
+GATS8dv invalid value encountered in double_scalars (GATS8dv)
+GATS1d 0.9463079431632888
+GATS2d 1.9399312834847422
+GATS3d 1.8557596822244287
+GATS4d 0.5475067385444742
+GATS5d 0.0
+GATS6d invalid value encountered in double_scalars (GATS6d)
+GATS7d invalid value encountered in double_scalars (GATS7d)
+GATS8d invalid value encountered in double_scalars (GATS8d)
+GATS1s 0.5001686596355714
+GATS2s 0.46554508009011697
+GATS3s 0.6985994999824093
+GATS4s 1.0155695801047693
+GATS5s 1.9105233002291828
+GATS6s invalid value encountered in double_scalars (GATS6s)
+GATS7s invalid value encountered in double_scalars (GATS7s)
+GATS8s invalid value encountered in double_scalars (GATS8s)
+GATS1Z 0.8702058277987196
+GATS2Z 0.6271315742236582
+GATS3Z 1.059579861406343
+GATS4Z 1.285813194421549
+GATS5Z 0.8728796445880452
+GATS6Z invalid value encountered in double_scalars (GATS6Z)
+GATS7Z invalid value encountered in double_scalars (GATS7Z)
+GATS8Z invalid value encountered in double_scalars (GATS8Z)
+GATS1m 0.8822134167388292
+GATS2m 0.6347956776963192
+GATS3m 1.0718295207398287
+GATS4m 1.2912307580191145
+GATS5m 0.841451618433575
+GATS6m invalid value encountered in double_scalars (GATS6m)
+GATS7m invalid value encountered in double_scalars (GATS7m)
+GATS8m invalid value encountered in double_scalars (GATS8m)
+GATS1v 1.1222847625755152
+GATS2v 0.8084914313241137
+GATS3v 1.3221935042574622
+GATS4v 1.3840403536018089
+GATS5v 0.21310161632020672
+GATS6v invalid value encountered in double_scalars (GATS6v)
+GATS7v invalid value encountered in double_scalars (GATS7v)
+GATS8v invalid value encountered in double_scalars (GATS8v)
+GATS1se 0.4640043990722515
+GATS2se 0.4417841164437022
+GATS3se 0.6648851277938356
+GATS4se 1.046538668197474
+GATS5se 1.9360497105915049
+GATS6se invalid value encountered in double_scalars (GATS6se)
+GATS7se invalid value encountered in double_scalars (GATS7se)
+GATS8se invalid value encountered in double_scalars (GATS8se)
+GATS1pe 0.522226274414458
+GATS2pe 0.4446647823972768
+GATS3pe 0.7151467396781064
+GATS4pe 1.098779996818202
+GATS5pe 1.783662863394811
+GATS6pe invalid value encountered in double_scalars (GATS6pe)
+GATS7pe invalid value encountered in double_scalars (GATS7pe)
+GATS8pe invalid value encountered in double_scalars (GATS8pe)
+GATS1are 0.4910002595187778
+GATS2are 0.436779371964557
+GATS3are 0.6865006453822241
+GATS4are 1.0755653612796467
+GATS5are 1.8653921778921778
+GATS6are invalid value encountered in double_scalars (GATS6are)
+GATS7are invalid value encountered in double_scalars (GATS7are)
+GATS8are invalid value encountered in double_scalars (GATS8are)
+GATS1p 1.199766228343951
+GATS2p 0.8900937831494953
+GATS3p 1.4098027641541218
+GATS4p 1.3946411809527821
+GATS5p 0.010305739079353168
+GATS6p invalid value encountered in double_scalars (GATS6p)
+GATS7p invalid value encountered in double_scalars (GATS7p)
+GATS8p invalid value encountered in double_scalars (GATS8p)
+GATS1i 1.203688922181901
+GATS2i 0.9033988678705271
+GATS3i 1.4166825274011503
+GATS4i 1.38822734660851
+GATS5i 3.8688370841123325e-05
+GATS6i invalid value encountered in double_scalars (GATS6i)
+GATS7i invalid value encountered in double_scalars (GATS7i)
+GATS8i invalid value encountered in double_scalars (GATS8i)
+BCUTc-1h 0.41079298002834563
+BCUTc-1l -0.385567613286509
+BCUTdv-1h 6.024214639195099
+BCUTdv-1l 0.9923151818640962
+BCUTd-1h 4.1178396402235515
+BCUTd-1l 0.9762419921380343
+BCUTs-1h 7.00950094808757
+BCUTs-1l 1.088373189171302
+BCUTZ-1h 8.024234233087217
+BCUTZ-1l 5.76128169756294
+BCUTm-1h 16.011432306964668
+BCUTm-1l 11.772850595374633
+BCUTv-1h 20.84991440251322
+BCUTv-1l 14.70166470427632
+BCUTse-1h 3.7075314923292875
+BCUTse-1l 2.5057588673123385
+BCUTpe-1h 3.49461592325193
+BCUTpe-1l 2.309696915181499
+BCUTare-1h 3.548585822306924
+BCUTare-1l 2.2600348685593574
+BCUTp-1h 1.946352265223194
+BCUTp-1l 0.7472022637232986
+BCUTi-1h 13.638654313384338
+BCUTi-1l 11.021757743577716
+BalabanJ 2.435034222105958
+SpAbs_DzZ 48.093378676116714
+SpMax_DzZ 24.296689338058364
+SpDiam_DzZ 31.48733838724078
+SpAD_DzZ 48.5100453427834
+SpMAD_DzZ 4.042503778565283
+LogEE_DzZ 24.296689338213536
+SM1_DzZ 0.5
+VE1_DzZ 3.427167327217197
+VE2_DzZ 0.28559727726809975
+VE3_DzZ 1.4140556246448035
+VR1_DzZ 49.90591400758627
+VR2_DzZ 4.158826167298856
+VR3_DzZ 4.092461069714918
+SpAbs_Dzm 48.09737885333588
+SpMax_Dzm 24.29795500576664
+SpDiam_Dzm 31.488998864176647
+SpAD_Dzm 48.51282148516704
+SpMAD_Dzm 4.0427351237639195
+LogEE_Dzm 24.29795500592158
+SM1_Dzm 0.49853115819738747
+VE1_Dzm 3.4271658236786013
+VE2_Dzm 0.2855971519732168
+VE3_Dzm 1.4140551859329515
+VR1_Dzm 49.90633073869495
+VR2_Dzm 4.158860894891245
+VR3_Dzm 4.092469420015219
+SpAbs_Dzv 51.68323091221682
+SpMax_Dzv 25.442620978050382
+SpDiam_Dzv 33.044825024161774
+SpAD_Dzv 51.15123827480612
+SpMAD_Dzv 4.2626031895671765
+LogEE_Dzv 25.4426209780934
+SM1_Dzv -0.7979889561160514
+VE1_Dzv 3.424532672756503
+VE2_Dzv 0.28537772272970857
+VE3_Dzv 1.413286573288043
+VR1_Dzv 50.26718815833873
+VR2_Dzv 4.188932346528228
+VR3_Dzv 4.099674098148646
+SpAbs_Dzse 48.1015772258925
+SpMax_Dzse 24.299283413165192
+SpDiam_Dzse 31.490741786639436
+SpAD_Dzse 48.515735226257405
+SpMAD_Dzse 4.04297793552145
+LogEE_Dzse 24.29928341331989
+SM1_Dzse 0.4969896004378762
+VE1_Dzse 3.4271642414255736
+VE2_Dzse 0.2855970201187978
+VE3_Dzse 1.4140547242531045
+VR1_Dzse 49.90676808938477
+VR2_Dzse 4.158897340782064
+VR3_Dzse 4.092478183407899
+SpAbs_Dzpe 48.04588997439383
+SpMax_Dzpe 24.281665917429482
+SpDiam_Dzpe 31.467638174877973
+SpAD_Dzpe 48.47709152478144
+SpMAD_Dzpe 4.0397576270651205
+LogEE_Dzpe 24.281665917587432
+SM1_Dzpe 0.5174418604651163
+VE1_Dzpe 3.4271848759775025
+VE2_Dzpe 0.2855987396647919
+VE3_Dzpe 1.4140607451171066
+VR1_Dzpe 49.900964738440095
+VR2_Dzpe 4.1584137282033415
+VR3_Dzpe 4.092361892800213
+SpAbs_Dzare 47.89903820707279
+SpMax_Dzare 24.235233389250688
+SpDiam_Dzare 31.406862508253713
+SpAD_Dzare 48.37522868326327
+SpMAD_Dzare 4.031269056938606
+LogEE_Dzare 24.23523338941757
+SM1_Dzare 0.5714285714285714
+VE1_Dzare 3.4272355907008203
+VE2_Dzare 0.285602965891735
+VE3_Dzare 1.4140755427863083
+VR1_Dzare 49.88563707480615
+VR2_Dzare 4.157136422900512
+VR3_Dzare 4.0920546839470004
+SpAbs_Dzp 55.56436193808067
+SpMax_Dzp 26.69988670470118
+SpDiam_Dzp 34.88738174989167
+SpAD_Dzp 54.21302669762473
+SpMAD_Dzp 4.51775222480206
+LogEE_Dzp 26.699886704712686
+SM1_Dzp -2.164588528678304
+VE1_Dzp 3.419806648955371
+VE2_Dzp 0.2849838874129476
+VE3_Dzp 1.4119055708771167
+VR1_Dzp 50.62358427892853
+VR2_Dzp 4.218632023244044
+VR3_Dzp 4.106739116968963
+SpAbs_Dzi 48.512863870537764
+SpMax_Dzi 24.429566121147168
+SpDiam_Dzi 31.662353910546216
+SpAD_Dzi 48.80142084700157
+SpMAD_Dzi 4.066785070583465
+LogEE_Dzi 24.42956612127999
+SM1_Dzi 0.3462683717566024
+VE1_Dzi 3.4269888114782154
+VE2_Dzi 0.28558240095651793
+VE3_Dzi 1.4140035348658697
+VR1_Dzi 49.94946878149058
+VR2_Dzi 4.162455731790882
+VR3_Dzi 4.093333426826772
+BertzCT 277.5631667771794
+nBonds 27
+nBondsO 13
+nBondsS 25
+nBondsD 2
+nBondsT 0
+nBondsA 0
+nBondsM 2
+nBondsKS 25
+nBondsKD 2
+RNCG 0.34507607220918823
+RPCG 0.24300726296516093
+C1SP1 0
+C2SP1 0
+C1SP2 0
+C2SP2 2
+C3SP2 0
+C1SP3 3
+C2SP3 2
+C3SP3 1
+C4SP3 2
+HybRatio 0.8
+FCSP3 0.8
+Xch-3d 0.0
+Xch-4d 0.0
+Xch-5d 0.12028130608117203
+Xch-6d 0.656556200618233
+Xch-7d 1.7079594743512996
+Xch-3dv 0.0
+Xch-4dv 0.0
+Xch-5dv 0.10825317547305482
+Xch-6dv 0.5135065207496416
+Xch-7dv 1.0697755901289039
+Xc-3d 1.9316186362258665
+Xc-4d 0.2463996399133722
+Xc-5d 1.5718969929407656
+Xc-6d 0.5820853040596596
+Xc-3dv 1.6063106814540458
+Xc-4dv 0.23272591494572487
+Xc-5dv 1.1573165431541599
+Xc-6dv 0.4847855450570948
+Xpc-4d 5.830555094520764
+Xpc-5d 9.180387645915712
+Xpc-6d 13.769580619557724
+Xpc-4dv 4.265892902509685
+Xpc-5dv 5.63835929534512
+Xpc-6dv 7.153005731683864
+Xp-0d 9.146264369941973
+Xp-1d 5.41051915529268
+Xp-2d 5.932114867381375
+Xp-3d 5.801957744071971
+Xp-4d 4.225153685169044
+Xp-5d 2.563463470836224
+Xp-6d 1.3905911708180987
+Xp-7d 0.551566846126417
+AXp-0d 0.7621886974951644
+AXp-1d 0.41619378117635997
+AXp-2d 0.2579180377122337
+AXp-3d 0.16577022125919916
+AXp-4d 0.09825938802718706
+AXp-5d 0.05961542955433079
+AXp-6d 0.042139126388427234
+AXp-7d 0.030642602562578725
+Xp-0dv 7.808060412490447
+Xp-1dv 4.4974002407106255
+Xp-2dv 4.838430525372725
+Xp-3dv 4.267720844010997
+Xp-4dv 2.79570204746821
+Xp-5dv 1.5895403451786547
+Xp-6dv 0.8322206526405493
+Xp-7dv 0.2534713715245032
+AXp-0dv 0.6506717010408706
+AXp-1dv 0.34595386467004813
+AXp-2dv 0.21036654458142282
+AXp-3dv 0.12193488125745705
+AXp-4dv 0.06501632668530721
+AXp-5dv 0.03696605453903848
+AXp-6dv 0.025218807655774222
+AXp-7dv 0.0140817428624724
+SZ 14.999999999999998
+Sm 13.838980934143704
+Sv 15.222392835334828
+Sse 25.876183539694104
+Spe 24.776470588235295
+Sare 25.119999999999997
+Sp 16.55036047904192
+Si 29.32579966785965
+MZ 0.5769230769230769
+Mm 0.5322684974670655
+Mv 0.585476647512878
+Mse 0.9952378284497733
+Mpe 0.9529411764705883
+Mare 0.966153846153846
+Mp 0.636552326116997
+Mi 1.1279153718407557
+SpAbs_Dt 119.60135368764256
+SpMax_Dt 59.800676843821286
+SpDiam_Dt 77.69943943875005
+SpAD_Dt 119.60135368764256
+SpMAD_Dt 9.966779473970213
+LogEE_Dt 59.800676843821286
+SM1_Dt 0.0
+VE1_Dt 3.447030622847822
+VE2_Dt 0.2872525519039852
+VE3_Dt 1.4198347282021375
+VR1_Dt 47.73142767990775
+VR2_Dt 3.977618973325646
+VR3_Dt 4.047911598948489
+DetourIndex 355
+SpAbs_D 53.567245797712744
+SpMax_D 26.783622898856372
+SpDiam_D 34.47860069208049
+SpAD_D 53.567245797712744
+SpMAD_D 4.463937149809396
+LogEE_D 26.783622898867435
+VE1_D 3.4163297550736034
+VE2_D 0.2846941462561336
+VE3_D 1.4108883605770066
+VR1_D 50.869849903797515
+VR2_D 4.239154158649793
+VR3_D 4.111591965040385
+NsLi 0
+NssBe 0
+NssssBe 0
+NssBH 0
+NsssB 0
+NssssB 0
+NsCH3 3
+NdCH2 0
+NssCH2 2
+NtCH 0
+NdsCH 0
+NaaCH 0
+NsssCH 1
+NddC 0
+NtsC 0
+NdssC 2
+NaasC 0
+NaaaC 0
+NssssC 2
+NsNH3 0
+NsNH2 0
+NssNH2 0
+NdNH 0
+NssNH 0
+NaaNH 0
+NtN 0
+NsssNH 0
+NdsN 0
+NaaN 0
+NsssN 0
+NddsN 0
+NaasN 0
+NssssN 0
+NsOH 0
+NdO 2
+NssO 0
+NaaO 0
+NsF 0
+NsSiH3 0
+NssSiH2 0
+NsssSiH 0
+NssssSi 0
+NsPH2 0
+NssPH 0
+NsssP 0
+NdsssP 0
+NsssssP 0
+NsSH 0
+NdS 0
+NssS 0
+NaaS 0
+NdssS 0
+NddssS 0
+NsCl 0
+NsGeH3 0
+NssGeH2 0
+NsssGeH 0
+NssssGe 0
+NsAsH2 0
+NssAsH 0
+NsssAs 0
+NsssdAs 0
+NsssssAs 0
+NsSeH 0
+NdSe 0
+NssSe 0
+NaaSe 0
+NdssSe 0
+NddssSe 0
+NsBr 0
+NsSnH3 0
+NssSnH2 0
+NsssSnH 0
+NssssSn 0
+NsI 0
+NsPbH3 0
+NssPbH2 0
+NsssPbH 0
+NssssPb 0
+SsLi 0
+SssBe 0
+SssssBe 0
+SssBH 0
+SsssB 0
+SssssB 0
+SsCH3 6.042824074074074
+SdCH2 0
+SssCH2 1.8088425925925926
+StCH 0
+SdsCH 0
+SaaCH 0
+SsssCH 0.009259259259259078
+SddC 0
+StsC 0
+SdssC -0.23842592592592537
+SaasC 0
+SaaaC 0
+SssssC -0.44849537037037024
+SsNH3 0
+SsNH2 0
+SssNH2 0
+SdNH 0
+SssNH 0
+SaaNH 0
+StN 0
+SsssNH 0
+SdsN 0
+SaaN 0
+SsssN 0
+SddsN 0
+SaasN 0
+SssssN 0
+SsOH 0
+SdO 22.992662037037036
+SssO 0
+SaaO 0
+SsF 0
+SsSiH3 0
+SssSiH2 0
+SsssSiH 0
+SssssSi 0
+SsPH2 0
+SssPH 0
+SsssP 0
+SdsssP 0
+SsssssP 0
+SsSH 0
+SdS 0
+SssS 0
+SaaS 0
+SdssS 0
+SddssS 0
+SsCl 0
+SsGeH3 0
+SssGeH2 0
+SsssGeH 0
+SssssGe 0
+SsAsH2 0
+SssAsH 0
+SsssAs 0
+SsssdAs 0
+SsssssAs 0
+SsSeH 0
+SdSe 0
+SssSe 0
+SaaSe 0
+SdssSe 0
+SddssSe 0
+SsBr 0
+SsSnH3 0
+SssSnH2 0
+SsssSnH 0
+SssssSn 0
+SsI 0
+SsPbH3 0
+SssPbH2 0
+SsssPbH 0
+SssssPb 0
+MAXsLi max() arg is an empty sequence (MAXsLi)
+MAXssBe max() arg is an empty sequence (MAXssBe)
+MAXssssBe max() arg is an empty sequence (MAXssssBe)
+MAXssBH max() arg is an empty sequence (MAXssBH)
+MAXsssB max() arg is an empty sequence (MAXsssB)
+MAXssssB max() arg is an empty sequence (MAXssssB)
+MAXsCH3 2.049074074074074
+MAXdCH2 max() arg is an empty sequence (MAXdCH2)
+MAXssCH2 0.910787037037037
+MAXtCH max() arg is an empty sequence (MAXtCH)
+MAXdsCH max() arg is an empty sequence (MAXdsCH)
+MAXaaCH max() arg is an empty sequence (MAXaaCH)
+MAXsssCH 0.009259259259259078
+MAXddC max() arg is an empty sequence (MAXddC)
+MAXtsC max() arg is an empty sequence (MAXtsC)
+MAXdssC -0.11689814814814792
+MAXaasC max() arg is an empty sequence (MAXaasC)
+MAXaaaC max() arg is an empty sequence (MAXaaaC)
+MAXssssC -0.09606481481481488
+MAXsNH3 max() arg is an empty sequence (MAXsNH3)
+MAXsNH2 max() arg is an empty sequence (MAXsNH2)
+MAXssNH2 max() arg is an empty sequence (MAXssNH2)
+MAXdNH max() arg is an empty sequence (MAXdNH)
+MAXssNH max() arg is an empty sequence (MAXssNH)
+MAXaaNH max() arg is an empty sequence (MAXaaNH)
+MAXtN max() arg is an empty sequence (MAXtN)
+MAXsssNH max() arg is an empty sequence (MAXsssNH)
+MAXdsN max() arg is an empty sequence (MAXdsN)
+MAXaaN max() arg is an empty sequence (MAXaaN)
+MAXsssN max() arg is an empty sequence (MAXsssN)
+MAXddsN max() arg is an empty sequence (MAXddsN)
+MAXaasN max() arg is an empty sequence (MAXaasN)
+MAXssssN max() arg is an empty sequence (MAXssssN)
+MAXsOH max() arg is an empty sequence (MAXsOH)
+MAXdO 11.554606481481482
+MAXssO max() arg is an empty sequence (MAXssO)
+MAXaaO max() arg is an empty sequence (MAXaaO)
+MAXsF max() arg is an empty sequence (MAXsF)
+MAXsSiH3 max() arg is an empty sequence (MAXsSiH3)
+MAXssSiH2 max() arg is an empty sequence (MAXssSiH2)
+MAXsssSiH max() arg is an empty sequence (MAXsssSiH)
+MAXssssSi max() arg is an empty sequence (MAXssssSi)
+MAXsPH2 max() arg is an empty sequence (MAXsPH2)
+MAXssPH max() arg is an empty sequence (MAXssPH)
+MAXsssP max() arg is an empty sequence (MAXsssP)
+MAXdsssP max() arg is an empty sequence (MAXdsssP)
+MAXsssssP max() arg is an empty sequence (MAXsssssP)
+MAXsSH max() arg is an empty sequence (MAXsSH)
+MAXdS max() arg is an empty sequence (MAXdS)
+MAXssS max() arg is an empty sequence (MAXssS)
+MAXaaS max() arg is an empty sequence (MAXaaS)
+MAXdssS max() arg is an empty sequence (MAXdssS)
+MAXddssS max() arg is an empty sequence (MAXddssS)
+MAXsCl max() arg is an empty sequence (MAXsCl)
+MAXsGeH3 max() arg is an empty sequence (MAXsGeH3)
+MAXssGeH2 max() arg is an empty sequence (MAXssGeH2)
+MAXsssGeH max() arg is an empty sequence (MAXsssGeH)
+MAXssssGe max() arg is an empty sequence (MAXssssGe)
+MAXsAsH2 max() arg is an empty sequence (MAXsAsH2)
+MAXssAsH max() arg is an empty sequence (MAXssAsH)
+MAXsssAs max() arg is an empty sequence (MAXsssAs)
+MAXsssdAs max() arg is an empty sequence (MAXsssdAs)
+MAXsssssAs max() arg is an empty sequence (MAXsssssAs)
+MAXsSeH max() arg is an empty sequence (MAXsSeH)
+MAXdSe max() arg is an empty sequence (MAXdSe)
+MAXssSe max() arg is an empty sequence (MAXssSe)
+MAXaaSe max() arg is an empty sequence (MAXaaSe)
+MAXdssSe max() arg is an empty sequence (MAXdssSe)
+MAXddssSe max() arg is an empty sequence (MAXddssSe)
+MAXsBr max() arg is an empty sequence (MAXsBr)
+MAXsSnH3 max() arg is an empty sequence (MAXsSnH3)
+MAXssSnH2 max() arg is an empty sequence (MAXssSnH2)
+MAXsssSnH max() arg is an empty sequence (MAXsssSnH)
+MAXssssSn max() arg is an empty sequence (MAXssssSn)
+MAXsI max() arg is an empty sequence (MAXsI)
+MAXsPbH3 max() arg is an empty sequence (MAXsPbH3)
+MAXssPbH2 max() arg is an empty sequence (MAXssPbH2)
+MAXsssPbH max() arg is an empty sequence (MAXsssPbH)
+MAXssssPb max() arg is an empty sequence (MAXssssPb)
+MINsLi min() arg is an empty sequence (MINsLi)
+MINssBe min() arg is an empty sequence (MINssBe)
+MINssssBe min() arg is an empty sequence (MINssssBe)
+MINssBH min() arg is an empty sequence (MINssBH)
+MINsssB min() arg is an empty sequence (MINsssB)
+MINssssB min() arg is an empty sequence (MINssssB)
+MINsCH3 1.9446759259259259
+MINdCH2 min() arg is an empty sequence (MINdCH2)
+MINssCH2 0.8980555555555555
+MINtCH min() arg is an empty sequence (MINtCH)
+MINdsCH min() arg is an empty sequence (MINdsCH)
+MINaaCH min() arg is an empty sequence (MINaaCH)
+MINsssCH 0.009259259259259078
+MINddC min() arg is an empty sequence (MINddC)
+MINtsC min() arg is an empty sequence (MINtsC)
+MINdssC -0.12152777777777746
+MINaasC min() arg is an empty sequence (MINaasC)
+MINaaaC min() arg is an empty sequence (MINaaaC)
+MINssssC -0.35243055555555536
+MINsNH3 min() arg is an empty sequence (MINsNH3)
+MINsNH2 min() arg is an empty sequence (MINsNH2)
+MINssNH2 min() arg is an empty sequence (MINssNH2)
+MINdNH min() arg is an empty sequence (MINdNH)
+MINssNH min() arg is an empty sequence (MINssNH)
+MINaaNH min() arg is an empty sequence (MINaaNH)
+MINtN min() arg is an empty sequence (MINtN)
+MINsssNH min() arg is an empty sequence (MINsssNH)
+MINdsN min() arg is an empty sequence (MINdsN)
+MINaaN min() arg is an empty sequence (MINaaN)
+MINsssN min() arg is an empty sequence (MINsssN)
+MINddsN min() arg is an empty sequence (MINddsN)
+MINaasN min() arg is an empty sequence (MINaasN)
+MINssssN min() arg is an empty sequence (MINssssN)
+MINsOH min() arg is an empty sequence (MINsOH)
+MINdO 11.438055555555556
+MINssO min() arg is an empty sequence (MINssO)
+MINaaO min() arg is an empty sequence (MINaaO)
+MINsF min() arg is an empty sequence (MINsF)
+MINsSiH3 min() arg is an empty sequence (MINsSiH3)
+MINssSiH2 min() arg is an empty sequence (MINssSiH2)
+MINsssSiH min() arg is an empty sequence (MINsssSiH)
+MINssssSi min() arg is an empty sequence (MINssssSi)
+MINsPH2 min() arg is an empty sequence (MINsPH2)
+MINssPH min() arg is an empty sequence (MINssPH)
+MINsssP min() arg is an empty sequence (MINsssP)
+MINdsssP min() arg is an empty sequence (MINdsssP)
+MINsssssP min() arg is an empty sequence (MINsssssP)
+MINsSH min() arg is an empty sequence (MINsSH)
+MINdS min() arg is an empty sequence (MINdS)
+MINssS min() arg is an empty sequence (MINssS)
+MINaaS min() arg is an empty sequence (MINaaS)
+MINdssS min() arg is an empty sequence (MINdssS)
+MINddssS min() arg is an empty sequence (MINddssS)
+MINsCl min() arg is an empty sequence (MINsCl)
+MINsGeH3 min() arg is an empty sequence (MINsGeH3)
+MINssGeH2 min() arg is an empty sequence (MINssGeH2)
+MINsssGeH min() arg is an empty sequence (MINsssGeH)
+MINssssGe min() arg is an empty sequence (MINssssGe)
+MINsAsH2 min() arg is an empty sequence (MINsAsH2)
+MINssAsH min() arg is an empty sequence (MINssAsH)
+MINsssAs min() arg is an empty sequence (MINsssAs)
+MINsssdAs min() arg is an empty sequence (MINsssdAs)
+MINsssssAs min() arg is an empty sequence (MINsssssAs)
+MINsSeH min() arg is an empty sequence (MINsSeH)
+MINdSe min() arg is an empty sequence (MINdSe)
+MINssSe min() arg is an empty sequence (MINssSe)
+MINaaSe min() arg is an empty sequence (MINaaSe)
+MINdssSe min() arg is an empty sequence (MINdssSe)
+MINddssSe min() arg is an empty sequence (MINddssSe)
+MINsBr min() arg is an empty sequence (MINsBr)
+MINsSnH3 min() arg is an empty sequence (MINsSnH3)
+MINssSnH2 min() arg is an empty sequence (MINssSnH2)
+MINsssSnH min() arg is an empty sequence (MINsssSnH)
+MINssssSn min() arg is an empty sequence (MINssssSn)
+MINsI min() arg is an empty sequence (MINsI)
+MINsPbH3 min() arg is an empty sequence (MINsPbH3)
+MINssPbH2 min() arg is an empty sequence (MINssPbH2)
+MINsssPbH min() arg is an empty sequence (MINsssPbH)
+MINssssPb min() arg is an empty sequence (MINssssPb)
+ECIndex 87
+ETA_alpha 5.666666666666666
+AETA_alpha 0.47222222222222215
+ETA_shape_p 0.3823529411764706
+ETA_shape_y 0.2647058823529412
+ETA_shape_x 0.17647058823529413
+ETA_beta 10.0
+AETA_beta 0.8333333333333334
+ETA_beta_s 7.0
+AETA_beta_s 0.5833333333333334
+ETA_beta_ns 3.0
+AETA_beta_ns 0.25
+ETA_beta_ns_d 0.0
+AETA_beta_ns_d 0.0
+ETA_eta 12.596812265053416
+AETA_eta 1.049734355421118
+ETA_eta_L 4.178835053903765
+AETA_eta_L 0.3482362544919804
+ETA_eta_R 17.588961512677084
+AETA_eta_R 1.4657467927230903
+ETA_eta_RL 5.410519155292681
+AETA_eta_RL 0.4508765962743901
+ETA_eta_F 4.992149247623669
+AETA_eta_F 0.4160124373019724
+ETA_eta_FL 1.2316841013889155
+AETA_eta_FL 0.10264034178240962
+ETA_eta_B 0.5036944070804141
+AETA_eta_B 0.04197453392336784
+ETA_eta_BR 0.6756944070804141
+AETA_eta_BR 0.05630786725670117
+ETA_dAlpha_A 0.0
+ETA_dAlpha_B 0.02777777777777783
+ETA_epsilon_1 0.543589743589744
+ETA_epsilon_2 0.8277777777777778
+ETA_epsilon_3 0.4411764705882358
+ETA_epsilon_4 0.543589743589744
+ETA_epsilon_5 0.8277777777777778
+ETA_dEpsilon_A 0.10241327300150821
+ETA_dEpsilon_B 0.0
+ETA_dEpsilon_C -0.10241327300150821
+ETA_dEpsilon_D 0.0
+ETA_dBeta -4.0
+AETA_dBeta -0.3333333333333333
+ETA_psi_1 0.5704697986577181
+ETA_dPsi_A 0.1435302013422819
+ETA_dPsi_B 0.0
+fragCpx 37.02
+fMF 0.2692307692307692
+nHBAcc 2
+nHBDon 0
+IC0 1.2957378005380122
+IC1 2.2366760100268643
+IC2 3.1416195253341375
+IC3 3.690260390968384
+IC4 3.690260390968384
+IC5 3.690260390968384
+TIC0 33.68918281398832
+TIC1 58.15357626069847
+TIC2 81.68210765868757
+TIC3 95.946770165178
+TIC4 95.946770165178
+TIC5 95.946770165178
+SIC0 0.27566310350437695
+SIC1 0.47584399421069795
+SIC2 0.6683671557810278
+SIC3 0.7850883347628148
+SIC4 0.7850883347628148
+SIC5 0.7850883347628148
+BIC0 0.26672352194000004
+BIC1 0.460412671904273
+BIC2 0.6466924280858859
+BIC3 0.7596284124350464
+BIC4 0.7596284124350464
+BIC5 0.7596284124350464
+CIC0 3.4047019176030795
+CIC1 2.4637637081142274
+CIC2 1.5588201928069543
+CIC3 1.0101793271727075
+CIC4 1.0101793271727075
+CIC5 1.0101793271727075
+MIC0 11.407035146631321
+MIC1 22.708643980801924
+MIC2 26.479443474474138
+MIC3 28.185627313187304
+MIC4 28.185627313187304
+MIC5 28.185627313187304
+ZMIC0 43.098679421735255
+ZMIC1 27.843210851956435
+ZMIC2 23.25864992106436
+ZMIC3 20.313043363214735
+ZMIC4 20.313043363214735
+ZMIC5 20.313043363214735
+Kier1 8.591715976331361
+Kier2 2.0793950850661624
+Kier3 0.7346938775510204
+Lipinski True
+GhoseFilter True
+FilterItLogS -2.497127173384254
+VMcGowan 133.17999999999992
+LabuteASA 72.3351119504281
+PEOE_VSA1 0.0
+PEOE_VSA2 9.589074368143644
+PEOE_VSA3 0.0
+PEOE_VSA4 0.0
+PEOE_VSA5 0.0
+PEOE_VSA6 20.771211599071872
+PEOE_VSA7 18.2566337152488
+PEOE_VSA8 11.332896515558172
+PEOE_VSA9 0.0
+PEOE_VSA10 0.0
+PEOE_VSA11 0.0
+PEOE_VSA12 11.566489892729878
+PEOE_VSA13 0.0
+SMR_VSA1 9.589074368143644
+SMR_VSA2 0.0
+SMR_VSA3 0.0
+SMR_VSA4 16.747886984954953
+SMR_VSA5 33.61285484492389
+SMR_VSA6 0.0
+SMR_VSA7 0.0
+SMR_VSA8 0.0
+SMR_VSA9 0.0
+SlogP_VSA1 0.0
+SlogP_VSA2 11.566489892729878
+SlogP_VSA3 9.589074368143644
+SlogP_VSA4 16.747886984954953
+SlogP_VSA5 33.61285484492389
+SlogP_VSA6 0.0
+SlogP_VSA7 0.0
+SlogP_VSA8 0.0
+SlogP_VSA9 0.0
+SlogP_VSA10 0.0
+SlogP_VSA11 0.0
+EState_VSA1 0.0
+EState_VSA2 28.31437687768483
+EState_VSA3 0.0
+EState_VSA4 12.841643245852019
+EState_VSA5 0.0
+EState_VSA6 0.0
+EState_VSA7 20.771211599071872
+EState_VSA8 0.0
+EState_VSA9 0.0
+EState_VSA10 9.589074368143644
+VSA_EState1 0.0
+VSA_EState2 0.0
+VSA_EState3 0.0
+VSA_EState4 0.0
+VSA_EState5 0.0
+VSA_EState6 0.0
+VSA_EState7 0.0
+VSA_EState8 0.0
+VSA_EState9 30.166666666666664
+MDEC-11 1.1447142425533319
+MDEC-12 2.139826387867326
+MDEC-13 3.434142727659996
+MDEC-14 4.242640687119286
+MDEC-22 1.0
+MDEC-23 2.94168275343288
+MDEC-24 2.378414230005442
+MDEC-33 2.381101577952299
+MDEC-34 3.7797631496846193
+MDEC-44 1.0
+MDEO-11 0.33333333333333337
+MDEO-12 float division by zero (MDEO-12)
+MDEO-22 float division by zero (MDEO-22)
+MDEN-11 float division by zero (MDEN-11)
+MDEN-12 float division by zero (MDEN-12)
+MDEN-13 float division by zero (MDEN-13)
+MDEN-22 float division by zero (MDEN-22)
+MDEN-23 float division by zero (MDEN-23)
+MDEN-33 float division by zero (MDEN-33)
+MID 23.630262351493037
+AMID 1.9691885292910865
+MID_h 3.5185446667769242
+AMID_h 0.29321205556474367
+MID_C 20.111717684716112
+AMID_C 1.6759764737263427
+MID_N 0.0
+AMID_N 0.0
+MID_O 3.5185446667769242
+AMID_O 0.29321205556474367
+MID_X 0.0
+AMID_X 0.0
+MPC2 23
+MPC3 35
+MPC4 43
+MPC5 43
+MPC6 33
+MPC7 18
+MPC8 4
+MPC9 0
+MPC10 0
+TMPC10 224
+piPC1 2.772588722239781
+piPC2 3.332204510175204
+piPC3 3.828641396489095
+piPC4 4.04305126783455
+piPC5 4.07753744390572
+piPC6 3.8918202981106265
+piPC7 3.4339872044851463
+piPC8 2.1972245773362196
+piPC9 0.0
+piPC10 0.0
+TpiPC10 5.703782474656201
+apol 27.639101999999976
+bpol 15.780897999999997
+nRing 2
+n3Ring 0
+n4Ring 0
+n5Ring 2
+n6Ring 0
+n7Ring 0
+n8Ring 0
+n9Ring 0
+n10Ring 0
+n11Ring 0
+n12Ring 0
+nG12Ring 0
+nHRing 0
+n3HRing 0
+n4HRing 0
+n5HRing 0
+n6HRing 0
+n7HRing 0
+n8HRing 0
+n9HRing 0
+n10HRing 0
+n11HRing 0
+n12HRing 0
+nG12HRing 0
+naRing 0
+n3aRing 0
+n4aRing 0
+n5aRing 0
+n6aRing 0
+n7aRing 0
+n8aRing 0
+n9aRing 0
+n10aRing 0
+n11aRing 0
+n12aRing 0
+nG12aRing 0
+naHRing 0
+n3aHRing 0
+n4aHRing 0
+n5aHRing 0
+n6aHRing 0
+n7aHRing 0
+n8aHRing 0
+n9aHRing 0
+n10aHRing 0
+n11aHRing 0
+n12aHRing 0
+nG12aHRing 0
+nARing 2
+n3ARing 0
+n4ARing 0
+n5ARing 2
+n6ARing 0
+n7ARing 0
+n8ARing 0
+n9ARing 0
+n10ARing 0
+n11ARing 0
+n12ARing 0
+nG12ARing 0
+nAHRing 0
+n3AHRing 0
+n4AHRing 0
+n5AHRing 0
+n6AHRing 0
+n7AHRing 0
+n8AHRing 0
+n9AHRing 0
+n10AHRing 0
+n11AHRing 0
+n12AHRing 0
+nG12AHRing 0
+nFRing 1
+n4FRing 0
+n5FRing 0
+n6FRing 0
+n7FRing 1
+n8FRing 0
+n9FRing 0
+n10FRing 0
+n11FRing 0
+n12FRing 0
+nG12FRing 0
+nFHRing 0
+n4FHRing 0
+n5FHRing 0
+n6FHRing 0
+n7FHRing 0
+n8FHRing 0
+n9FHRing 0
+n10FHRing 0
+n11FHRing 0
+n12FHRing 0
+nG12FHRing 0
+nFaRing 0
+n4FaRing 0
+n5FaRing 0
+n6FaRing 0
+n7FaRing 0
+n8FaRing 0
+n9FaRing 0
+n10FaRing 0
+n11FaRing 0
+n12FaRing 0
+nG12FaRing 0
+nFaHRing 0
+n4FaHRing 0
+n5FaHRing 0
+n6FaHRing 0
+n7FaHRing 0
+n8FaHRing 0
+n9FaHRing 0
+n10FaHRing 0
+n11FaHRing 0
+n12FaHRing 0
+nG12FaHRing 0
+nFARing 1
+n4FARing 0
+n5FARing 0
+n6FARing 0
+n7FARing 1
+n8FARing 0
+n9FARing 0
+n10FARing 0
+n11FARing 0
+n12FARing 0
+nG12FARing 0
+nFAHRing 0
+n4FAHRing 0
+n5FAHRing 0
+n6FAHRing 0
+n7FAHRing 0
+n8FAHRing 0
+n9FAHRing 0
+n10FAHRing 0
+n11FAHRing 0
+n12FAHRing 0
+nG12FAHRing 0
+nRot 0
+RotRatio 0.0
+SLogP 1.5807
+SMR 44.62600000000002
+TopoPSA(NO) 34.14
+TopoPSA 34.14
+GGI1 4.5
+GGI2 4.222222222222224
+GGI3 2.7777777777777777
+GGI4 0.2222222222222222
+GGI5 0.0
+GGI6 0.0
+GGI7 0.0
+GGI8 0.0
+GGI9 0.0
+GGI10 0.0
+JGI1 0.34615384615384615
+JGI2 0.18357487922705323
+JGI3 0.1207729468599034
+JGI4 0.031746031746031744
+JGI5 0.0
+JGI6 0.0
+JGI7 0.0
+JGI8 0.0
+JGI9 0.0
+JGI10 0.0
+JGT10 0.6822477039868345
+Diameter 4
+Radius 3
+TopoShapeIndex 0.3333333333333333
+PetitjeanIndex 0.25
+Vabc 169.1109292983287
+VAdjMat 4.700439718141093
+MWC01 13.0
+MWC02 4.290459441148391
+MWC03 5.241747015059643
+MWC04 6.220590170099739
+MWC05 7.1891677384203225
+MWC06 8.16763571524637
+MWC07 9.13938128303569
+MWC08 10.117025113705102
+MWC09 11.09000387521257
+MWC10 12.06691976763758
+TMWC10 98.52293011956542
+SRW02 3.295836866004329
+SRW03 0.0
+SRW04 4.77912349311153
+SRW05 3.044522437723423
+SRW06 6.48768401848461
+SRW07 5.733341276897746
+SRW08 8.28576542051433
+SRW09 8.066835314417336
+SRW10 10.126511096649761
+TSRW10 61.819619923803074
+MW 166.099379688
+AMW 6.3884376803076925
+WPath 156
+WPol 23
+Zagreb1 72.0
+Zagreb2 94.0
+mZagreb1 5.958333333333333
+mZagreb2 2.4097222222222223
