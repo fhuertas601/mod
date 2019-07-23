@@ -4,12 +4,18 @@ import numpy as np
 import pandas as pd
 import math, os, sys
 
-def calculate_desc_pred(calc,dat,path,inp,date_string,verb):
+def calculate_desc(calc,dat,path,inp,date_string,verb):
     desc = {}
-    desc_data=str(path+'/desc_data_'+date_string)
+    desc_data=str(path+'/model_data_'+date_string)
     os.mkdir(desc_data)
 # Arrays are defined as floats from the beginning
     desc_array = np.zeros([dat.shape[0],len(calc)])
+    activity = np.zeros([dat.shape[0]])
+    col=['Activity','ID','Compound name','SMILES','CAS']
+    for i in col:
+    	if i not in dat.columns:
+     		print(i,'column missing')
+     		sys.exit()
     for i, row in dat.iterrows():
         if verb:
             print()
@@ -17,6 +23,8 @@ def calculate_desc_pred(calc,dat,path,inp,date_string,verb):
             print('-------------------------------')
             print(dat.loc[i,'ID'],'   ',dat.loc[i,'Compound name'].replace(";",","))
             print(dat.loc[i,'SMILES']) 
+            print('Activity =',dat.loc[i,'Activity']) 
+        activity[i]=dat.loc[i,'Activity']
         comp_name=str(dat.loc[i,'Compound name'])
         if dat.loc[i,'ID'] < 10:
         	filename=str(desc_data+'/'+str(dat.loc[i,'ID']).zfill(2)+'_'+comp_name.replace("/","")+'.desc')
@@ -33,7 +41,7 @@ def calculate_desc_pred(calc,dat,path,inp,date_string,verb):
         		f.write(str(key)+'\n')
         desc_array[i]=list(desc_value.values())
 
-    return desc_array
+    return desc_array, activity
 
 def calculate_pred(calc,dat,path,inp,date_string,verb):
     desc = {}
@@ -63,7 +71,8 @@ def calculate_pred(calc,dat,path,inp,date_string,verb):
 
 # Indices are integers
     ind=[i for i in range(0,desc_array.shape[0])]
-# Take dropped descriptors to again drop them in the 
+# Take dropped descriptors to drop again them in the calculation of the
+# prediction set
     dropp_names= [s for s in os.listdir(path) if "_nan_dropped.dat" in s]
     with open(path+'/'+dropp_names[0],'r') as f:
     	dropp_names = [line.split(' ')[0] for line in f]
@@ -80,70 +89,10 @@ def calculate_pred(calc,dat,path,inp,date_string,verb):
     AtomTypeEState=dict(zip(AtomTypeEState_names, zero))
 # Assign AtomTypeEState descriptors that are NaN with value 0.0
     data=data.fillna(value=AtomTypeEState)
-# Drop columns that have been removed to build the model
-    drop=data.drop(columns=dropp_names)
+# Drop columns that have been removed for model building
+    clean=data.drop(columns=dropp_names)
 
-    return drop 
-
-def calculate_desc(calc,dat,dscpts_name,ndescs,path,date_string,verb):
-    desc = {}
-# Create folder 'desc_data' with today's date and time to save the files
-# with the info of the descriptors
-    desc_data=str(path+'/desc_data_'+date_string)
-    os.mkdir(desc_data)
-# Arrays are defined as floats from the beginning
-    desc_array = np.zeros([dat.shape[0],ndescs])
-    activity=np.zeros(dat.shape[0],dtype=int)
-    for i, row in dat.iterrows():
-        store= []
-# print(dat.loc[i,'ID'])
-        if row['Activity'] == 'Sensitizer':
-        	activity[i]=1
-        elif row['Activity'] == 'Non-Sensitizer':
-        	activity[i]=0
-
-        if verb:
-# For verbose output, a bunch of information is printed via standard output
-# (terminal)
-            print()
-            print('ID','    Compound name')
-            print('-------------------------------')
-            print(dat.loc[i,'ID'],'   ',dat.loc[i,'Compound name'].replace(";",","))
-            print(dat.loc[i,'SMILES']) 
-            if row['Activity'] == 'Sensitizer':
-            	print(row['Activity'],'1')
-            elif row['Activity'] == 'Non-Sensitizer':
-            	print(row['Activity'],'0')
-            elif row['Activity'] == 0:
-            	print('Inactive compound')
-            elif row['Activity'] == 1:
-            	print('Active compound')
-            else:
-            	print('ERROR: No correct activity specified')
-        comp_name=str(dat.loc[i,'Compound name'])
-        if dat.loc[i,'ID'] < 10:
-        	filename=str(desc_data+'/'+str(dat.loc[i,'ID']).zfill(2)+'_'+comp_name.replace("/","")+'.desc')
-        else:
-        	filename=str(desc_data+'/'+str(dat.loc[i,'ID'])+'_'+comp_name.replace("/","")+'.desc')
-        with open(filename.replace(" ",""),'w+') as f:
-        	for j in range(ndescs):
-        		if dat.loc[i,'SMILES'] is not None:
-# Print the name (stored in dscpts_name) and calculated descriptor
-        			desc_value = calc(Chem.MolFromSmiles(row['SMILES']))[j];
-        			store=np.append(store,desc_value)
-# Print the descriptors for each SMILES and whether it is taken as test or
-# training molecule
-        			if verb: 
-        				print(j+1,' ',dscpts_name[j],'=',desc_value)
-        			f.write(str(j+1)+' '+str(dscpts_name[j])+' '+str(desc_value)+'\n')
-# desc_array stores all the descriptors. 
-# Row: compound by ID (i.e.: row 0 contains all descriptors of compound
-# with ID = 0)
-# Column: descriptor by ID (i.e.: column 0 has #compounds entries of ABC
-# descriptor)
-        desc_array[i]=store
-
-    return desc_array, activity
+    return clean 
 
 # Function that evaluates the models for anticoccidials (Afinidad LXVIII,
 # 554, Julio - Agosto 2011, Clasificación y cribado virtual de candidatos a

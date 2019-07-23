@@ -51,7 +51,7 @@ ndescs=len(calc)-1
 maxnum=len(d_name)
 #
 try:
-	opts, args = getopt.getopt(sys.argv[1:],"vp:hm:c:nr:aew:",["create-model"])
+	opts, args = getopt.getopt(sys.argv[1:],"vp:hm:c:nr:ew:",["create-model"])
 except getopt.GetoptError as err:
 	print('Error!',err)
 	sys.exit(2)
@@ -132,32 +132,26 @@ for opt, arg in opts:
 		print('Check and remove number of NaN values in the descriptors file\n')
 		io.detect_nan(path,inp,verb)
 		sys.exit()
-	elif opt in ("-a"):
-# Load the indices of the descriptors that have been kept. That guarantees
-# that only those descriptors that have been calculated to build the model
-# are going to be calculated for the prediction set, and therefore only
-# those are going to be calculated for the prediction set
-		csv_file=pd.read_csv(path+'/'+inp)
-		desc_array=fct.calculate_desc_pred(calc,csv_file,path,inp,date_string,verb)
-		desc_file=path+'/'+inp+'_descriptor_list.txt'
-# Save descriptores to 'f' as numpy array. Each file is a molecule with
-# descriptors in rows
-		with open(desc_file,'w+') as f:
-			np.savetxt(f,desc_array,fmt='%.6f')
-		sys.exit()
 	elif opt in ("-w"):
+# .csv file with the target chemicals (ID, Compound name, SMILES, CAS)
 		csv_file=pd.read_csv(path+'/'+inp)
-		drop=fct.calculate_pred(calc,csv_file,path,inp,date_string,verb)
+# Calculate descriptors and remove/replace to make them agree with those
+# used to build the model, store them in <clean> and save them in
+# <desc_file>
+		clean=fct.calculate_pred(calc,csv_file,path,inp,date_string,verb)
 		desc_file=path+'/'+inp+'_prediction_descriptor_list.txt'
 		with open(desc_file,'w+') as f:
-			np.savetxt(f,drop,fmt='%.6f')
+			np.savetxt(f,clean,fmt='%.6f')
 # Call model and calculate
 		predict=bm.predict(arg,path,inp,drop,csv_file)
-#		print(json.dumps(int(predict)))
 		with open(path+'/prediction.json', "w") as f:
-			json.dump(int(predict), f)
+			for i in predict:
+				json.dump(int(i), f)
 		sys.exit()
 	elif opt in ("-c"):
+# Load descriptors and evaluate the model
+# Descriptors are assumed to be sanitized in comparison with the
+# descriptors used to build the model, as contained in the file *_clean.txt
 		print('\n    TASK')
 		print('  Load descriptors of the prediction data and model and predict')
 		bm.predict(arg,path,inp,arg,dscs)
@@ -182,15 +176,22 @@ else:
 	sys.exit()
 # Calculate descriptors
 print('\n-> Calculating descriptors (3D disregarded)\n')
-desc_array=fct.calculate_desc_pred(calc,csv_file,path,inp,date_string,verb)
+x,y=fct.calculate_desc(calc,csv_file,path,inp,date_string,verb)
 desc_file=path+'/'+inp+'_descriptor_list.txt'
+print('saved to:\n',desc_file)
 # Save descriptores to 'f' as numpy array. Each file is a molecule with
 # descriptors in rows
 with open(desc_file,'w+') as f:
-	np.savetxt(f,desc_array,fmt='%.6f')
-
+	np.savetxt(f,x,fmt='%.6f')
 with open(path+'/activity.txt','w+') as f:
 	np.savetxt(f,y,fmt='%1i')
+
+# Deal with NaN values
+print('-> Dealing with NaN values')
+x=io.detect_nan(path,inp+'_descriptor_list.txt',verb)
+# Build model
+print('-> Building model')
+bm.build_model(x,y,verb,path,nproc)
 
 """
 # Generate a .png from a molecule

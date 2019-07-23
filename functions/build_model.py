@@ -164,6 +164,13 @@ def predict(arg,path,inp,drop,csv_file):
 # <csv_file>: the .csv file loaded (<inp> file)
 # Model is loaded
 	m = joblib.load(path+'/'+arg)
+# Evaluate applicability domain
+	pred_prob = m.predict_proba(drop)
+# Define a threshold for until which point the molecule is included in the
+# applicability domain
+	th=0.8
+	print('\n-> Applying applicability domain to the target molecules (threshold =',th,')')
+	da = np.amax(pred_prob, axis=1) > th
 # Predict test set
 	print('\n-> Applying model',arg,'to predict',inp)
 	predict = m.predict(drop)
@@ -171,6 +178,6 @@ def predict(arg,path,inp,drop,csv_file):
 #
 # FUNCTION: prints prediction
 # Explanation and function in inout.py file
-	io.print_csv(csv_file,predict,path,inp)
+	io.print_csv(csv_file,predict,da,path,inp)
 	 
 	return predict

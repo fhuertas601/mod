@@ -25,9 +25,11 @@ def print_help():
         print('  -m <activity>       create model from given descriptors')
         print('                        <input> is a plain text file containing a matrix with the descriptors')
         print('                        <activity> is the file with the activity in plain text format\n')
-        print('  -a                  calculate descriptors for the prediction database')
-        print('                        <input> is the path to the .csv file with 4 fields')
-        print('                              ID, Compound name, SMILES, CAS')
+        print('  -w <model>          calculate the prediction dataset descriptors, estimate the applicability')
+        print('                              domain and evaluate the model')
+        print('                        <input> is the path to the .csv file with the target molecules')
+        print('                        <model> is the filename of the model, that is looked for in the same path')
+        print('								 as <input>')
         print('  -d <csv_file>       read <csv_file> with info on prediction dataset to produce')
         print('                              an easy-to-read file with the results of the prediction ')
         print('                        <input> is a plain text file containing a matrix with the descriptors')
@@ -35,10 +37,10 @@ def print_help():
         print('  -c <model>          apply <model> to predict <input>')
         print('                        <input> is a plain text file containing a matrix with the descriptors')
         print('                              of the molecules whose activity is going to be predicted')
-        print('                        <model> .pkl file with the model\n')
+        print('                        <model> is a .pkl file with the model\n')
         print('  -n <desc_file>      read <desc_file> with descriptors, search for NaN values,')
-        print('                              process them and create a new clean descriptors file')
-        print('  -r <# descriptors>  number of descriptors to be calculated')
+        print('                              process them and create a new clean descriptors file\n')
+        print('  -r <# descriptors>  number of descriptors to be calculated\n')
         sys.exit()
 #
 # FUNCTION: prints prediction in .csv format
@@ -47,12 +49,15 @@ def print_help():
 # pred: database with descriptor matrix for prediction 
 # predict: vector with predictions
 # path: file 'f' is saved in path (where model for prediction is located)
-def print_csv(pred,predict,path,inp):
+def print_csv(pred,predict,da,path,inp):
 	with open(path+'/'+inp+"_prediction.txt","w+") as f: 
 		write = csv.writer(f) 
+		write.writerow('ID '+'SMILES '+'Compound name '+'Prediction '+'App.  Domain')
+		print('\n-> Result of the prediction:')
+		print('ID','  SMILES ','  Compound name','  Prediction','  App.  Domain')
 		for i, row in pred.iterrows():
-			r=pred.loc[i,'ID'],pred.loc[i,'SMILES'],pred.loc[i,'Compound name'],int(predict[i])
-			print(pred.loc[i,'ID'],pred.loc[i,'SMILES'],pred.loc[i,'Compound name'],int(predict[i]))
+			r=pred.loc[i,'ID'],pred.loc[i,'SMILES'],pred.loc[i,'Compound name'],int(predict[i]),str(da[i])
+			print(pred.loc[i,'ID'],pred.loc[i,'SMILES'],pred.loc[i,'Compound name'],int(predict[i]),str(da[i]))
 			write.writerow(r)
 
 # Prints descriptors (number) with NaN values
@@ -115,7 +120,7 @@ def detect_nan(path,inp,verb):
 	with open(path+'/'+inp+'_clean.txt','w+') as f:
 		m=m.to_numpy()
 		np.savetxt(f,m,fmt='%.6f')
-	
+	return m	
 """
 # Makes no sense, all molecules have some descriptor (normally many) with
 # NaN results

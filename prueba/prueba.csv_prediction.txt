@@ -1,0 +1,11 @@
+I,D, ,S,M,I,L,E,S, ,C,o,m,p,o,u,n,d, ,n,a,m,e, ,P,r,e,d,i,c,t,i,o,n, ,A,p,p,., , ,D,o,m,a,i,n
+1,c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],CAM (cloranfenicol),0,False
+2,C1=CC(=C(C=C1Cl)Cl)OCCOP(OCCOC2=C(C=C(C=C2)Cl)Cl)OCCOC3=C(C=C(C=C3)Cl)Cl,2;4 DEP,0,True
+3,CC(=O)C[C@]2(C)C[C@H](C)C(=O)[C@H]([C@H](O)CC1CC(=O)NC(=O)C1)C2,Acetoxycycloheximidine,0,True
+4,CC(C1=CN=C2C(=N1)C(=NC(=N2)N)N)N(C)C3=CC=C(C=C3)C(=O)N[C@@H](CCC(=O)O)C(=O)O,A-Denopterin,0,True
+5,C1CN(CCC12OCCO2)CCN3CCN(C3=O)C4=CC(=CC(=C4)Cl)Cl,AL-1965,0,True
+6,CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CN(CCO)CCO,Ambunol,0,True
+7,CN(C)CCOC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O,Amedin,0,True
+8,CCC1(CCCCC1CN(C)C)OC(=O)C2=CC=CC=C2,Aminohexan/ Aminohexane,0,True
+9,Nc3nc(N)c2nc(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)cnc2n3,Aminopterin,0,True
+10,C(=O)(OCC)[C@H](NC([C@@H](Cc1ccc(N(CCCl)CCCl)cc1)NC(=O)C)=O)C(C)C,Asaline,0,True
