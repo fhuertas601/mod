@@ -29,7 +29,7 @@ def print_help():
         print('                              domain and evaluate the model')
         print('                        <input> is the path to the .csv file with the target molecules')
         print('                        <model> is the filename of the model, that is looked for in the same path')
-        print('								 as <input>')
+        print('                              as <input>')
         print('  -d <csv_file>       read <csv_file> with info on prediction dataset to produce')
         print('                              an easy-to-read file with the results of the prediction ')
         print('                        <input> is a plain text file containing a matrix with the descriptors')

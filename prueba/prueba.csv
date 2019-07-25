@@ -9,3 +9,20 @@ ID,Compound name,SMILES,CAS,Activity
 8,Aminohexan/ Aminohexane,CCC1(CCCCC1CN(C)C)OC(=O)C2=CC=CC=C2,5959-44-4,0
 9,Aminopterin,Nc3nc(N)c2nc(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)cnc2n3,54-62-6,0
 10,Asaline,C(=O)(OCC)[C@H](NC([C@@H](Cc1ccc(N(CCCl)CCCl)cc1)NC(=O)C)=O)C(C)C,13425-94-0,0
+11,Asamet,CCOC(=O)[C@H](CCSC)NC(=O)[C@H](Cc1ccc(N(CCCl)CCCl)cc1)NC(C)=O,,0
+12,Asazol,C[As](=O)(O)[O-].[Na+],2163-80-6,0
+13,AT-16,c1cc(\C=N\[C@@H](CO)[C@@H](O)c2ccc([N+]([O-])=O)cc2)ccc1N(CCCl)CCCl,1952-96-1,0
+14,Azotomycin,C(=O)(CC[C@@H](C(=O)O)N)N[C@H](C(=O)N[C@@H](CCC(=O)C=[N+]=[N-])C(=O)O)CCC(=O)C=[N+]=[N-],7644-67-9,0
+15,Bimolane,N1(C(CN(CC1=O)CCN1CC(=O)N(C(C1)=O)CN1CCOCC1)=O)CN1CCOCC1,74550-97-3,0
+206,Semduramicin,CC1CC(C(OC1C2CC(C(O2)C3(CCC(O3)C4(CCC5(O4)CC(C(C(O5)C(C)C6C(C(C(C(O6)(CC(=O)O)O)C)O)OC)C)O)C)C)OC7CCC(C(O7)C)OC)(C)O)C,113378-31-7,1
+207,Spiramycin,O=CCC4C(OC2OC(C(OC1OC(C)C(O)C(O)(C)C1)C(N(C)C)C2O)C)C(OC)C(O)CC(=O)OC(C)C\C=C\C=C\C(OC3OC(C)C(N(C)C)CC3)C(C)C4,8025-81-8,1
+208,Sulfabenz,c1ccc(cc1)NS(=O)(=O)c2ccc(cc2)N,127-77-5,1
+209,Sulfaclozine,S(Nc1nc(Cl)cnc1)(c1ccc(cc1)N)(=O)=O,102-65-8,1
+210,Sulfadiazine,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,68-35-9,1
+211,Sulfadimethoxine,COc1cc(nc(n1)OC)NS(=O)(=O)c2ccc(cc2)N,122-11-2,1
+212,Sulfametrole,COc1c(nsn1)NS(=O)(=O)c2ccc(cc2)N,32909-92-5,1
+213,Sulfaquinoxaline,C1=CC=C2C(=C1)N=CC(=N2)NS(=O)(=O)C3=CC=C(C=C3)N,59-40-5,1
+214,Tiazuril,c1(ccc(cc1)Sc1c(cc(cc1C)n1ncc([nH]c1=O)=O)C)Cl,35319-70-1,1
+215,Tosulur,Cc1ccc(cc1)S(=O)(=O)NC(=O)OCCOC,87051-13-6,1
+216,Toltrazuril,CC1=C(C=CC(=C1)N2C(=O)NC(=O)N(C2=O)C)OC3=CC=C(C=C3)SC(F)(F)F,69004-03-1,1
+217,Dinsed,c1ccc(cc1S(NCCNS(c1cc(ccc1)[N+]([O-])=O)(=O)=O)(=O)=O)[N+]([O-])=O,96-62-8,1

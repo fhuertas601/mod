@@ -143,7 +143,11 @@ for opt, arg in opts:
 		with open(desc_file,'w+') as f:
 			np.savetxt(f,clean,fmt='%.6f')
 # Call model and calculate
-		predict=bm.predict(arg,path,inp,drop,csv_file)
+#		if '.pkl' in arg:
+		predict=bm.predict(arg,path,inp,clean,csv_file)
+#		else:
+# User wants to use more than one model
+			else:
 		with open(path+'/prediction.json', "w") as f:
 			for i in predict:
 				json.dump(int(i), f)
