@@ -9,3 +9,20 @@ I,D, ,S,M,I,L,E,S, ,C,o,m,p,o,u,n,d, ,n,a,m,e, ,P,r,e,d,i,c,t,i,o,n, ,A,p,p,., ,
 8,CCC1(CCCCC1CN(C)C)OC(=O)C2=CC=CC=C2,Aminohexan/ Aminohexane,0,True
 9,Nc3nc(N)c2nc(CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)cnc2n3,Aminopterin,0,True
 10,C(=O)(OCC)[C@H](NC([C@@H](Cc1ccc(N(CCCl)CCCl)cc1)NC(=O)C)=O)C(C)C,Asaline,0,True
+11,CCOC(=O)[C@H](CCSC)NC(=O)[C@H](Cc1ccc(N(CCCl)CCCl)cc1)NC(C)=O,Asamet,0,True
+12,C[As](=O)(O)[O-].[Na+],Asazol,0,True
+13,c1cc(\C=N\[C@@H](CO)[C@@H](O)c2ccc([N+]([O-])=O)cc2)ccc1N(CCCl)CCCl,AT-16,0,True
+14,C(=O)(CC[C@@H](C(=O)O)N)N[C@H](C(=O)N[C@@H](CCC(=O)C=[N+]=[N-])C(=O)O)CCC(=O)C=[N+]=[N-],Azotomycin,0,True
+15,N1(C(CN(CC1=O)CCN1CC(=O)N(C(C1)=O)CN1CCOCC1)=O)CN1CCOCC1,Bimolane,0,True
+206,CC1CC(C(OC1C2CC(C(O2)C3(CCC(O3)C4(CCC5(O4)CC(C(C(O5)C(C)C6C(C(C(C(O6)(CC(=O)O)O)C)O)OC)C)O)C)C)OC7CCC(C(O7)C)OC)(C)O)C,Semduramicin,1,True
+207,O=CCC4C(OC2OC(C(OC1OC(C)C(O)C(O)(C)C1)C(N(C)C)C2O)C)C(OC)C(O)CC(=O)OC(C)C\C=C\C=C\C(OC3OC(C)C(N(C)C)CC3)C(C)C4,Spiramycin,1,True
+208,c1ccc(cc1)NS(=O)(=O)c2ccc(cc2)N,Sulfabenz,1,True
+209,S(Nc1nc(Cl)cnc1)(c1ccc(cc1)N)(=O)=O,Sulfaclozine,1,True
+210,C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N,Sulfadiazine,1,True
+211,COc1cc(nc(n1)OC)NS(=O)(=O)c2ccc(cc2)N,Sulfadimethoxine,1,True
+212,COc1c(nsn1)NS(=O)(=O)c2ccc(cc2)N,Sulfametrole,1,True
+213,C1=CC=C2C(=C1)N=CC(=N2)NS(=O)(=O)C3=CC=C(C=C3)N,Sulfaquinoxaline,1,True
+214,c1(ccc(cc1)Sc1c(cc(cc1C)n1ncc([nH]c1=O)=O)C)Cl,Tiazuril,1,True
+215,Cc1ccc(cc1)S(=O)(=O)NC(=O)OCCOC,Tosulur,1,False
+216,CC1=C(C=CC(=C1)N2C(=O)NC(=O)N(C2=O)C)OC3=CC=C(C=C3)SC(F)(F)F,Toltrazuril,1,True
+217,c1ccc(cc1S(NCCNS(c1cc(ccc1)[N+]([O-])=O)(=O)=O)(=O)=O)[N+]([O-])=O,Dinsed,1,True

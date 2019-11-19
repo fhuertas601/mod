@@ -69,12 +69,20 @@ def build_model(x,y,verb,path,nproc):
 	gbm=st.gbm(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb)	
 	evaluate(gbm,x_ts,y_ts,path,'GBM',verb)
 # Evaluate consensus model
-	pred_c = 1 * (((rf.predict(x_ts)+svm.predict(x_ts)+gbm.predict(x_ts)) / 3) >= 0.5)
+	pred_c = 1 * (((rf.predict(x_ts)+svm.predict(x_ts)+gbm.predict(x_ts)) / len(arg)) >= 0.5)
 	print(pred_c)
 # calc statistics
-	print("Accuracy = ", accuracy_score(y_ts, pred_c))
-	print("MCC = ", matthews_corrcoef(y_ts, pred_c))
-	print("Kappa = ", cohen_kappa_score(y_ts, pred_c))
+	accuracy = accuracy_score(y_ts, pred_c)
+	mcc = matthews_corrcoef(y_ts, pred_c)
+	kappa = cohen_kappa_score(y_ts, pred_c)
+	print("Accuracy = ", accuracy)
+	print("MCC = ", mcc)
+	print("Kappa = ", kappa)
+	with open(path+'/consensus_model_stats.txt','w+') as f:
+		f.write("Accuracy = "+str(accuracy))
+		f.write("MCC = "+str(mcc))
+		f.write("Kappa = "+str(kappa))
+	
 	
 def evaluate(m,x_ts,y_ts,path,mess,verb):
 # Evaluates the quality of the model by checking how good it predicts the
@@ -157,21 +165,99 @@ def predict(arg,path,inp,clean_descs,csv_file):
 # used to build the model
 # <csv_file>: the .csv file loaded (<inp> file)
 # Model is loaded
-	m = joblib.load(path+'/'+arg)
+	th=0.8
+	cons=[]
+	for i in arg:
+		print('\n\nPredicting model',i)
+		print('********************************')
+		m = joblib.load(path+'/'+i)
 # Evaluate applicability domain
-	pred_prob = m.predict_proba(clean_descs)
+		pred_prob = m.predict_proba(clean_descs)
 # Define a threshold for until which point the molecule is included in the
 # applicability domain
-	th=0.8
-	print('\n-> Applying applicability domain to the target molecules (threshold =',th,')')
-	da = np.amax(pred_prob, axis=1) > th
+		print('\n-> Applying applicability domain to the target molecules (threshold =',th,')')
+		da = np.amax(pred_prob, axis=1) > th
 # Predict test set
-	print('\n-> Applying model',arg,'to predict',inp)
-	predict = m.predict(clean_descs)
-	print('\n-> .csv file with prediction data loaded from:',path+'/'+inp)
+		print('\n-> Applying model',i,'to predict',inp)
+		predict = m.predict(clean_descs)
+		print('\n-> .csv file with prediction data loaded from:',path+'/'+inp)
 #
 # FUNCTION: prints prediction
 # Explanation and function in inout.py file
-	io.print_csv(csv_file,predict,da,path,inp)
+		io.print_csv(csv_file,predict,da,path,inp)
+# If there's more than one model to predict, the results of each model is
+# stored in <cons>, and used afterwards to calculate the consensus result
+		if len(arg) > 1:
+			cons.append(int(predict))
+# Evaluate consensus model
+	if cons:
+		print('\nModel\t','\tPrediction')
+		for i in range(len(arg)):
+			print(arg[i],'\t ',cons[i])
+		cons_mod = 1 * ((sum(cons) / 3) >= 0.5)
+		print('\nConsensus prediction from the',len(cons),'models is',cons_mod,'\n')
+# calc statistics
 	 
 	return predict
+
+def predict_set(arg,path,inp,clean_descs,csv_file):
+# <arg>: filename of the model. Must be in <path>+<inp>
+# <path>: path to the .csv file with the descriptors
+# <inp>: .csv file with the descriptors. <path> and <inp> are taken from
+# <input> (main option when running the code)
+# <clean_descs>: DataFrame with clean descriptor values, the same that have been
+# used to build the model
+# <csv_file>: the .csv file loaded (<inp> file)
+# Define a threshold for until which point the molecule is included in the
+# applicability domain
+	th=0.8
+	cons=[]
+	mods=[]
+	cons_mod=[]
+	summ=[]
+	models=[]
+	print('\n\nPrediction results')
+	print('***********************')
+#	k=[i for i in range(len(arg))]
+	for i in arg:
+		models.append(i)
+		models.append('da')
+		models.append('Final result')
+# Model is loaded
+		m = joblib.load(path+'/'+i)
+# Evaluate applicability domain
+		pred_prob = m.predict_proba(clean_descs)
+		da = np.amax(pred_prob, axis=1) > th
+# Predict test set
+		predict = m.predict(clean_descs)
+		pred_prob = m.predict_proba(clean_descs)
+# setup threshold
+		th= 0.8
+# calc maximum predicted probability for each row (compound) and compare to the threshold
+		da = np.amax(pred_prob, axis=1) > th
+# Prediction of all models is stored in cons, to find consensus model
+# afterwards
+		cons.append(predict)
+		prod=np.array(predict)*np.array(da)
+		mods.append(prod)
+		cons.append(da)
+		cons.append(prod)
+# Append the result of the prediction to the .csv file with the data of the
+# molecules, and the model file as name (column)
+		csv_file[i]=prod[:]
+# Sum predictions of the different models
+	print(mods)
+	summ=np.apply_along_axis(np.sum, axis=0, arr=np.array(mods))
+# Apply consensus criteria:
+# http://qsar4u.com/files/qsar_rdkit_tutorial/qsar-rdkit.html
+	for i in range(len(summ)):
+		cons_mod.append(1 * ((summ[i] / 3) >= 0.5))
+	cons.append(cons_mod)
+# Append the consensus results to the csv_file and save it
+	csv_file['Consensus']=cons_mod[:]
+	csv_file.to_csv(path+'/result.csv', sep=',')
+# Print the result of the models predictions and the consensus
+	arg.append('Consensus')
+	print(models)
+	for row in np.transpose(np.array(cons)):
+		print(row)

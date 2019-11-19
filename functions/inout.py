@@ -54,7 +54,8 @@ def print_csv(pred,predict,da,path,inp):
 		write = csv.writer(f) 
 		write.writerow('ID '+'SMILES '+'Compound name '+'Prediction '+'App.  Domain')
 		print('\n-> Result of the prediction:')
-		print('ID','  SMILES ','  Compound name','  Prediction','  App.  Domain')
+		print('ID',' | SMILES ',' | Compound name',' | Prediction',' | App.  Domain')
+		print('-----------------------------------------------------------------')
 		for i, row in pred.iterrows():
 			r=pred.loc[i,'ID'],pred.loc[i,'SMILES'],pred.loc[i,'Compound name'],int(predict[i]),str(da[i])
 			print(pred.loc[i,'ID'],pred.loc[i,'SMILES'],pred.loc[i,'Compound name'],int(predict[i]),str(da[i]))

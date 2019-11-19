@@ -12,8 +12,8 @@ def svm(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb):
 # Create grid search dictionary. C and gamma grid is really trimmable to
 # search for the best parameters. Shrinking the grid too much might cause
 # the SVM to fail in finding the vectors
-	param_grid = {"C": [10 ** i for i in range(-6, 5)],
-              "gamma": [10 ** i for i in range(-12, 2)]}
+	param_grid = {"C": [10 ** i for i in range(-8, 12)],
+              "gamma": [10 ** i for i in range(-14, 3)]}
 # Setup model building
 	m = GridSearchCV(SVC(kernel='rbf', probability=True), param_grid, n_jobs=nproc, cv=cv, verbose=1)
 # Build the model

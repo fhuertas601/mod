@@ -143,11 +143,18 @@ for opt, arg in opts:
 		with open(desc_file,'w+') as f:
 			np.savetxt(f,clean,fmt='%.6f')
 # Call model and calculate
-#		if '.pkl' in arg:
-		predict=bm.predict(arg,path,inp,clean,csv_file)
-#		else:
+		if '.pkl' in arg:
+			arg=[arg]
+			predict=bm.predict(arg,path,inp,clean,csv_file)
 # User wants to use more than one model
-			else:
+		else:
+			with open(path+'/'+arg,'r') as f:
+				arg=f.read().splitlines()
+				if clean.shape[0] == 1:
+					predict=bm.predict(arg,path,inp,clean,csv_file)
+				elif clean.shape[0] > 1:
+					predict=bm.predict_set(arg,path,inp,clean,csv_file)
+				sys.exit()
 		with open(path+'/prediction.json', "w") as f:
 			for i in predict:
 				json.dump(int(i), f)

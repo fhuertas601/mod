@@ -71,7 +71,7 @@ def calculate_pred(calc,dat,path,inp,date_string,verb):
 
 # Indices are integers
     ind=[i for i in range(0,desc_array.shape[0])]
-# Take dropped descriptors to drop again them in the calculation of the
+# Take dropped descriptors to drop them again in the calculation of the
 # prediction set
     dropp_names= [s for s in os.listdir(path) if "_nan_dropped.dat" in s]
     with open(path+'/'+dropp_names[0],'r') as f:
