@@ -25,6 +25,18 @@ def load_desc(path,inp,arg):
 	return x,y
 
 def build_model(x,y,verb,path,nproc):
+# Give the user the possibility to run just certain models
+	print('\n What model do you want to create?')
+	print('Default: run all and calculate consensus model')
+	print('\n ')
+	print('0 for Random Forest (RF)')
+	print('1 for Support Vector Machine (SVM)')
+	print('2 for Gradient Boosting Machine (GBM)')
+	print('3 for Neural Network (NN)')
+# In modelid we store the user choice for what models are going to be
+# evaluated. Number 100 is given for the case in which the user chooses to
+# calculate all models.
+	modelid=int(input() or 100)
 # Variable with % of the total database that is used as test
 	test_size=.2
 	seed=42
@@ -55,33 +67,40 @@ def build_model(x,y,verb,path,nproc):
 			print("TEST:", test_index)
 # Call SVM model. It needs: cv and all the descriptors divided into
 # training and test sets
-	svm=st.svm(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb)	
-	evaluate(svm,x_ts,y_ts,path,'SVM',verb)
+	if modelid == 1 or modelid == 100:
+		svm=st.svm(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb)	
+		evaluate(svm,x_ts,y_ts,path,'SVM',verb)
 # it is a good idea to save it for future use
 #joblib.dump(scale, "logBB_scale.pkl", compress=3)
 # Call RF model. It needs: cv and all the descriptors divided into
 # training and test sets
-	rf=st.rf(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb)	
-	evaluate(rf,x_ts,y_ts,path,'RF',verb)
+	if modelid == 0 or modelid == 100:
+		rf=st.rf(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb)	
+		evaluate(rf,x_ts,y_ts,path,'RF',verb)
 
 # Call GBM model. It needs: cv and all the descriptors divided into
 # training and test sets
-	gbm=st.gbm(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb)	
-	evaluate(gbm,x_ts,y_ts,path,'GBM',verb)
+	if modelid == 2 or modelid == 100:
+		gbm=st.gbm(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb)	
+		evaluate(gbm,x_ts,y_ts,path,'GBM',verb)
 # Evaluate consensus model
-	pred_c = 1 * (((rf.predict(x_ts)+svm.predict(x_ts)+gbm.predict(x_ts)) / len(arg)) >= 0.5)
-	print(pred_c)
+	if modelid == 100:
+		print('\n***********************************')
+		print('Evaluate consensus between models')
+		print('\n***********************************')
+		pred_c = 1 * (((rf.predict(x_ts)+svm.predict(x_ts)+gbm.predict(x_ts))/3) >= 0.5)
+		print(pred_c)
 # calc statistics
-	accuracy = accuracy_score(y_ts, pred_c)
-	mcc = matthews_corrcoef(y_ts, pred_c)
-	kappa = cohen_kappa_score(y_ts, pred_c)
-	print("Accuracy = ", accuracy)
-	print("MCC = ", mcc)
-	print("Kappa = ", kappa)
-	with open(path+'/consensus_model_stats.txt','w+') as f:
-		f.write("Accuracy = "+str(accuracy))
-		f.write("MCC = "+str(mcc))
-		f.write("Kappa = "+str(kappa))
+		accuracy = accuracy_score(y_ts, pred_c)
+		mcc = matthews_corrcoef(y_ts, pred_c)
+		kappa = cohen_kappa_score(y_ts, pred_c)
+		print("Accuracy = ", accuracy)
+		print("MCC = ", mcc)
+		print("Kappa = ", kappa)
+		with open(path+'/consensus_model_stats.txt','w+') as f:
+			f.write("Accuracy = "+str(accuracy))
+			f.write("MCC = "+str(mcc))
+			f.write("Kappa = "+str(kappa))
 	
 	
 def evaluate(m,x_ts,y_ts,path,mess,verb):

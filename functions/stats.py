@@ -8,7 +8,7 @@ def svm(cv,x_tr,x_ts,y_tr,y_ts,nproc,verb):
 # Announce SVM model is being calculated
 	print('\n  ***********')
 	print('   SVM model')
-	print('  ***********')
+	print('  ***********\n')
 # Create grid search dictionary. C and gamma grid is really trimmable to
 # search for the best parameters. Shrinking the grid too much might cause
 # the SVM to fail in finding the vectors

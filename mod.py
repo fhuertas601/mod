@@ -115,13 +115,14 @@ for opt, arg in opts:
 	elif opt in ("-m","--create-model"):
 # The argument of -m 'arg' is the filename with activity info
 		print('\n    TASK')
-		print('Load descriptors, build model and evaluate it')
+		print('Load descriptors, build and evaluate chosen model(s)')
 		if not os.path.exists(path+'/'+arg):
 			print('\n',arg,'does not exist in',path)
 			sys.exit()
 # Descriptors (from <input>) and activity values (from <filename>) are loaded
 		x,y=bm.load_desc(path,inp,arg)
-# FUNCTION: build model from descriptors and activity file
+# FUNCTION: build model from descriptors and activity file. The user
+# defines which models wants to calculate.
 # Explanation and function in build_model.py file
 		bm.build_model(x,y,verb,path,nproc)
 		sys.exit()
